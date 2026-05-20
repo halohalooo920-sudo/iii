@@ -230,6 +230,128 @@ Group climate 必须是接纳、真诚、共情的（Rogers, 1957）。
 
 ---
 
+## 附录：Original Proposal 表格回答
+
+*(对应课程大纲 p.25 的 Group Guidance Programme Plan Outline)*
+
+### 1. What is the rationale for designing the group guidance programme?
+
+Research shows that parental educational expectations continue to exert significant psychological influence on Chinese young adults well into emerging adulthood (Zhou et al., 2025; Zhang, 2024). Filial piety norms in Chinese culture mean that young people often internalize parental expectations as personal obligations, even after reaching adulthood (Cao et al., 2025; Lin & Wang, 2022). Studies indicate that parental psychological control undermines autonomy development in Chinese university students (Wei et al., 2022; Zhang et al., 2024), and helicopter parenting is associated with emotional difficulties in emerging adults (Luo et al., 2022; Yang et al., 2024).
+
+However, these young adults face a particularly complex form of conflict: they do not simply disagree with their parents' plans, but often lack a clear alternative direction of their own. This creates a paralysing situation where they feel unable to follow their parents' expectations (because it feels inauthentic) yet equally unable to pursue their own path (because it is uncertain and risky). Existing mental health services tend to focus on crisis intervention or symptom reduction, leaving a gap for growth-oriented support for this "normal but stuck" population.
+
+This guidance programme addresses that gap by providing a structured, safe group environment where young adults can develop psychological flexibility — the capacity to accept difficult internal experiences while moving toward personally meaningful life directions (Hayes et al., 2006).
+
+### 2. Purpose: What are the goals and objectives of the guidance programme?
+
+**Overall Goal:** To enhance participants' psychological flexibility in navigating conflicts between parental expectations and their own life directions.
+
+**Specific Objectives:**
+
+By the end of the 6-session programme, participants will be able to:
+
+1. **Identify and articulate** the specific nature of their conflict with parental expectations (what they are struggling with and where they feel stuck).
+2. **Apply cognitive defusion techniques** to observe their thoughts (whether from parents or themselves) as "thoughts" rather than commands or facts, enabling more balanced evaluation.
+3. **Practise acceptance** of uncertainty and fear (e.g., "what if I choose wrong") without letting these emotions dictate their decisions.
+4. **Clarify personal values** — what matters to them beyond specific goals or parental expectations — as a basis for direction-finding.
+5. **Commit to at least one small, values-consistent action step** toward their own life direction.
+6. **Identify and practise** at least one constructive communication strategy for discussing life direction with their parents.
+
+### 3. Describe briefly the contents and activities of the group guidance programme.
+
+The programme uses Acceptance and Commitment Therapy (ACT) as the primary framework, supplemented by Solution-Focused techniques and grounded in Person-Centered core conditions. Activities include:
+
+- **Experiential exercises:** "Passengers on the Bus" metaphor (defusion), "Struggle Switch" metaphor (acceptance), Values Card Sort (values clarification), Expansion/body scan (acceptance of emotions)
+- **Psychoeducation:** Brief introductions to ACT concepts (defusion, acceptance, values vs. goals, committed action) adapted to the specific context of parental expectation conflicts
+- **Group discussion and sharing:** Structured sharing of personal experiences related to each session's theme, peer feedback, and normalisation
+- **Mindfulness practices:** Brief present-moment awareness exercises at the beginning of each session
+- **Role play and communication practice:** Practising how to communicate with parents about life direction using exception questions from Solution-Focused approach
+- **Reflective homework:** Weekly between-session tasks (e.g., noticing "fusion" moments with parental expectations; trying one small values-aligned action)
+- **Creative activities:** Writing a letter to one's future self; creating a personal "values compass"
+
+### 4. How many sessions will there be? What is the timeline of the group guidance programme?
+
+- **Number of sessions:** 6 group sessions
+- **Duration per session:** 3 hours each (including one 15-minute break)
+- **Total group hours:** 18 hours
+- **Frequency:** 1–2 sessions per week
+- **Timeline:** Late May to late June 2026 (approximately 5 weeks)
+- **Individual counselling:** 1 hour per member (minimum 4 hours total), scheduled after Session 3
+
+Tentative schedule:
+| Week | Date (approx.) | Session |
+|---|---|---|
+| Week 1 | Late May | Session 1 |
+| Week 2 | Early June | Session 2 & 3 |
+| Week 3 | Mid June | Session 4 + Individual sessions begin |
+| Week 4 | Mid-Late June | Session 5 |
+| Week 5 | Late June | Session 6 |
+
+### 5. How will you ensure that the objectives are measurable and attainable within the specified timeline?
+
+**Measurability:**
+- Objectives 1–4 will be assessed through participants' verbal contributions in group discussions, written reflections in homework tasks, and facilitator observation notes.
+- Objective 5 (committed action) will be measured by each participant identifying and reporting on at least one specific values-aligned action step by Session 6.
+- Objective 6 (communication strategy) will be assessed through role-play performance in Session 5 and self-report of any attempted communication with parents.
+- A brief pre- and post-programme questionnaire will be administered to assess changes in psychological flexibility (using the Acceptance and Action Questionnaire-II; Bond et al., 2011) and self-reported clarity about life direction.
+
+**Attainability:**
+- The programme is structured progressively: earlier sessions build foundational skills (defusion, acceptance) that are then applied in later sessions (values, committed action, communication). This scaffolding ensures participants are prepared for each next step.
+- Objectives are intentionally modest — participants are not expected to "resolve" their conflict with parents, but to take one small step and develop one new skill. This is realistic within 18 hours.
+- The needs assessment (open questions in screening + Session 1 check-in) ensures the programme content is calibrated to what this specific group actually needs, rather than a pre-set curriculum.
+
+### 6. What strategies will be used to evaluate how well the stated objectives of the group are met?
+
+**Formative evaluation (ongoing):**
+- Weekly check-in/check-out: Each session begins and ends with brief verbal reflection, allowing the facilitator to gauge engagement and progress.
+- Homework review: Discussion of between-session tasks reveals whether participants are applying concepts.
+- Facilitator observation notes: Documented after each session, tracking group dynamics and individual progress.
+- Mid-programme check (after Session 3): Brief informal feedback from members — "Is this group meeting your needs? What would you like more/less of?"
+
+**Summative evaluation (end of programme):**
+- Post-programme feedback questionnaire: Participants rate the programme's helpfulness and relevance to their needs (Likert scale + open-ended questions).
+- Pre-post comparison: Acceptance and Action Questionnaire-II (AAQ-II; Bond et al., 2011) administered in Session 1 and Session 6 to measure changes in psychological flexibility.
+- Self-report on objectives: In Session 6, each participant reflects on which objectives they feel they have achieved and what they are taking away.
+- Individual counselling follow-up: The individual session (post-Session 3) provides an additional opportunity to assess individual progress and adjust support.
+
+### 7. What recruitment or selection procedures will be used in forming the group?
+
+**Recruitment:**
+- Recruitment message distributed through social networks: forwarded by acquaintances to their contacts (WeChat groups, university cohort groups, alumni groups).
+- The recruitment message will describe the group theme in accessible language (e.g., "你有没有因为未来方向跟父母拉扯过？") and clearly state it is a growth-oriented group, not therapy.
+- To avoid dual relationships, the facilitator will not recruit close personal friends, roommates, or anyone with whom a power dynamic exists.
+
+**Selection / Screening:**
+- Interested individuals complete a brief screening questionnaire (online) including:
+  - Demographics (age, current status)
+  - Open questions about their experience of parental expectation conflict
+  - What they hope to get from the group
+  - Screening for exclusion criteria (current psychiatric treatment, active suicidal ideation, severe mental health crisis)
+- A brief individual pre-group conversation (10–15 minutes, online or in-person) to confirm fit, explain group norms, and answer questions.
+- Target group size: 6 members. If more than 6 suitable applicants, selection will prioritise diversity of experience (different types of parental conflicts) and readiness to engage.
+
+### 8. How are the members going to be prepared for the group experience?
+
+**Pre-group preparation:**
+1. **Informed consent:** All members will receive and sign a consent form explaining the group's purpose, structure, confidentiality rules and limits, recording policy, and right to withdraw.
+2. **Pre-group individual conversation:** Each member will have a brief (10–15 min) conversation with the facilitator before the group starts to:
+   - Clarify expectations (what the group is and is not)
+   - Address any concerns or anxieties about joining
+   - Establish initial rapport
+3. **Information sheet:** Members will receive a one-page document outlining:
+   - Group schedule and logistics
+   - What to expect in each session (general structure)
+   - Group norms (confidentiality, respect, voluntary participation, right to pass)
+   - How to contact the facilitator if issues arise between sessions
+
+**Session 1 preparation activities:**
+- Icebreaker and introductions designed to lower anxiety
+- Collaborative establishment of group norms/ground rules
+- Explicit discussion of confidentiality and its limits
+- Needs check-in: "What are you bringing to this group? What do you hope to take away?"
+
+---
+
 ## References
 
 Arnett, J. J. (2000). Emerging adulthood: A theory of development from the late teens through the twenties. *American Psychologist*, 55(5), 469–480. https://doi.org/10.1037/0003-066X.55.5.469

@@ -1,214 +1,264 @@
-# 小组辅导方案提案（修订版）
-## 当父母的期望遇上我的人生方向 — Career Exploration 个人成长小组
+# 小组辅导方案提案（修订版 v2）
+## 在不确定中探索自我与方向 — 面向迷茫中年轻人的个人成长小组
 
-*根据督导反馈修订 | 2026年5月21日*
+*Self-Exploration and Career Direction for Young Adults Navigating Uncertainty*
+
+*待督导 Approve | 2026年5月22日*
 
 ---
 
-## 一、主题
+## 一、Topic
 
-**"当父母的期望遇上我的人生方向"——通过 Career Exploration 帮助年轻人了解自己、找到方向、学会沟通**
+**"在不确定中探索自我与方向"——面向迷茫中年轻人的个人成长小组**
 
-主线：Career Counselling / Exploration
-辅助工具：ACT（处理心理卡住）、NVC 非暴力沟通（父母沟通 session）
-形式：小组辅导（guidance / personal growth group）
+通过 Career Exploration 的元素（values, interests, strengths, skills, barriers）帮助年轻人了解自己、找到方向感，并学会表达自己的需要。
+
+主线：Self-exploration / Career Exploration
+辅助工具：ACT（处理心理卡住）、NVC（表达与沟通）
+形式：线上小组辅导（Zoom + Miro协作平台）
 
 ---
 
 ## 二、目标群体
 
-- 20–28岁中文背景大学生/研究生/刚毕业的年轻人
-- 约6人，普通话
-- 正在经历与父母在未来方向上的冲突或拉扯
-- 通过非亲密关系的社交网络招募
+- **对象**：20–28岁中文背景大学生/研究生/刚毕业的年轻人
+- **人数**：约6人
+- **语言**：普通话
+- **形式**：线上（Zoom + Miro）
+- **招募渠道**：通过非亲密关系的社交网络转发
+- **筛选标准**：
+  - 对自己的未来方向感到迷茫/不确定
+  - 愿意在小组中分享和倾听
+  - 无正在进行的精神科治疗或严重心理危机
+  - 普通话沟通无障碍
 
 ---
 
-## 三、群体困难（简述）
+## 三、群体的困难
 
-这群人不是简单的"我想A父母想B"，而是：
-- 很多人**自己也不知道想要什么**，只知道不想走父母的路
-- 父母的话有些过时了但也是经验之谈，**不知道该听哪个**
-- 如果选自己的路失败了，**要承受双重打击**
-- **跟父母说不通**，每次一谈就吵或冷战
+### 文献支持
 
-文献支持：见英文版（Zhou et al., 2025; Wei et al., 2022; Wang, 2023; Luo et al., 2022 等）
+Emerging adulthood（约18-25岁）是个体从"父母的孩子"向"独立自我"过渡的关键时期，自主性发展是核心任务（Arnett, 2000）。在中国文化中，父母教育期望对子女心理影响延伸至成年期（Zhou et al., 2025; Zhang, 2024），孝道文化使年轻人即使成年后仍内化父母期望为个人义务（Cao et al., 2025; Lin & Wang, 2022）。过度教养导致大学生career indecision（Wang, 2023），父母期望与career indecisiveness正相关（Zhao & Li, 2022）。在社会不确定性下，中国年轻人普遍经历future anxiety和identity exploration的困难（Yu et al., 2026, Frontiers in Psychiatry）。
 
----
+现有心理健康服务多聚焦危机干预或症状减轻，对"正常但迷茫"的年轻人的成长性支持不足。
 
-## 四、设计逻辑（根据督导反馈调整）
+### 这群人的真实处境
 
-### 督导的核心意见：
-> "先用 career exploration 各个 elements 去了解自己的想法，再想跟父母沟通的问题"
-> "career exploration 最重要的是找到他们的 values"
-> "不一定每个session都针对解决一个特定的needs，看career exploration有哪些elements然后融入"
-> "Non-violent communication可以作为一个session"
-> "需要找平台让他们organize想法（如Miro），不然career counselling很容易get lost"
-
-### 调整后的逻辑：
-
-```
-Career Exploration (自我了解) → Goal Setting (方向澄清) → 父母沟通 (NVC)
-         ↑                              ↑
-    ACT 技术辅助                    ACT 技术辅助
-   （当"卡住"时使用）            （当恐惧阻碍行动时）
-```
+- 对未来方向不清楚，但说不出具体想要什么
+- 外部声音（父母、社会、同伴）跟内部声音搅在一起，分不清哪个是"我自己的"
+- 有些人知道不想走某条路，但没有替代方案
+- 害怕做选择，因为选错了代价很大
+- 想跟重要的人（特别是父母）表达自己，但不知道怎么开口
 
 ---
 
-## 五、Career Counselling 的核心 Domains / Elements
+## 四、群体的 Needs
 
-（参考 Amundson et al., 2009; SCCT; Holland; Savickas; 督导推荐的图）
+| Need | 用他们的话说 |
+|---|---|
+| 1. **被接纳** | "我想找个不被评判的地方说说话" |
+| 2. **想搞清楚自己到底在烦什么** | "我说不清自己卡在哪，但就是不舒服" |
+| 3. **了解自己** | "我到底是什么样的人？我喜欢什么、擅长什么、在乎什么？" |
+| 4. **分辨自己的声音和外部的声音** | "哪些是我真正想要的，哪些是被灌输的" |
+| 5. **想找一点点方向感** | "不用想清楚一辈子，但让我知道下一步怎么走" |
+| 6. **想表达自己** | "我想跟父母/重要的人说清楚我的想法" |
 
-| Domain | 中文 | 探索问题 | 可能的活动 |
-|---|---|---|---|
-| **Values** | 价值观 | 什么对我真正重要？我在乎什么样的生活？ | Values Card Sort; "如果钱和父母都不是问题，你会做什么？" |
-| **Interests** | 兴趣 | 我喜欢做什么？什么让我有能量？ | RIASEC兴趣探索; 回忆"flow"时刻 |
-| **Skills / Competence** | 技能/能力 | 我擅长什么？我已有什么能力？ | 技能清单; 过去成功经历分析 |
-| **Strengths** | 优势 | 我天然做得好的？别人经常找我帮忙的？ | VIA性格优势; 朋友眼中的我 |
-| **Personality** | 人格特质 | 我是什么类型的人？我的工作/生活风格？ | MBTI/RIASEC 讨论; "我在什么环境中最舒服？" |
-| **Goals** | 目标 | 我想去哪里？短期想试什么？ | SMART goal设定; Scaling question |
-| **Barriers & Supports** | 障碍与支持 | 什么在阻碍我？什么资源可以帮我？ | SCCT框架; 父母期望作为barrier的讨论 |
+---
 
-**这些 elements 不是一个session一个，而是贯穿整个过程，按需融入。**
+## 五、方案定位
+
+### 这个小组不是：
+- ❌ 职业规划课（不是教你选什么工作）
+- ❌ 治疗性小组（不处理深层创伤）
+- ❌ 只关于父母冲突的小组
+
+### 这个小组是：
+- ✅ 个人成长小组（self-exploration / personal growth group）
+- ✅ 用 career exploration 的工具帮成员了解自己
+- ✅ 帮成员在迷茫中找到一点方向感
+- ✅ 帮成员学会表达自己的想法和需要
 
 ---
 
 ## 六、理论基础
 
-### 主要理论框架：
+### Career Exploration 框架
 
-| 理论 | 贡献的 Elements | Reference |
-|---|---|---|
-| **Holland (RIASEC)** | Interests | Holland, J. L. (1997). *Making vocational choices* (3rd ed.). PAR. |
-| **SCCT (社会认知生涯理论)** | Self-efficacy, Outcome expectations, Barriers & Supports | Lent, R. W., Brown, S. D., & Hackett, G. (1994). *Journal of Vocational Behavior*, 45(1), 79–122. |
-| **Savickas (生涯建构理论)** | Career Adaptability (Concern, Control, Curiosity, Confidence), Life themes | Savickas, M. L. (2013). Career construction theory and practice. In Lent & Brown (Eds.), *Career development and counseling* (2nd ed.). Wiley. |
-| **Amundson (Active Engagement)** | 整合框架；creativity, imagination, hope | Amundson, N. E. (2018). *Active engagement* (4th ed.). Ergon Communications. |
-| **ACT** | Values, Psychological flexibility, Defusion, Acceptance | Hayes, S. C. et al. (2006). *Behaviour Research and Therapy*, 44(1), 1–25. |
-| **NVC (非暴力沟通)** | 观察-感受-需要-请求 的沟通框架 | Rosenberg, M. B. (2015). *Nonviolent communication: A language of life* (3rd ed.). PuddleDancer Press. |
+以下 elements 贯穿整个小组过程（参考 Amundson et al., 2009; SCCT; Holland; Savickas）：
 
-### ACT 在本方案中的角色（辅助工具，非主线）：
+| Element | 探索什么 |
+|---|---|
+| **Values（价值观）** | 什么对我真正重要？我在乎什么样的生活？ |
+| **Interests（兴趣）** | 我喜欢做什么？什么让我有能量？ |
+| **Strengths（优势）** | 我天然做得好的是什么？ |
+| **Skills/Competence（技能）** | 我已有什么能力？ |
+| **Personality（人格特质）** | 我是什么类型的人？我的风格？ |
+| **Barriers & Supports（障碍与支持）** | 什么在阻碍我？什么资源可以帮我？ |
 
-ACT 不替代 career exploration，而是在成员"卡住"时使用：
-- 卡在"我不知道我要什么" → Values Clarification 帮助突破
-- 卡在"我怕选错" → Acceptance + Defusion 帮助松绑
-- 卡在"想了很久不敢动" → Committed Action 帮助迈步
+**这些 elements 不是线性地一步一步走，而是动态地融入整个过程**（参考 Amundson, 2018 Active Engagement 模型）。每个 session 有固定的"锚点活动"，但讨论中自然涉及多个 elements。
 
-### NVC 四步模型（用于父母沟通 session）：
+### ACT（辅助工具）
+
+当成员"卡住"时使用：
+- 卡在"不知道自己要什么" → **Values Clarification**
+- 卡在"怕选错" → **Acceptance + Defusion**
+- 卡在"想了很久不敢动" → **Committed Action**
+
+参考：Hayes, S. C. et al. (2006); Hsu et al. (2023); Keulen et al. (2025); Vos et al. (2018)
+
+### NVC 非暴力沟通（表达与沟通 session）
 
 | 步骤 | 内容 | 例子 |
 |---|---|---|
-| 1. 观察 (Observation) | 不带评判地描述事实 | "妈，你上次说希望我考公务员" |
-| 2. 感受 (Feeling) | 表达自己的情绪 | "我听到之后感到有压力" |
-| 3. 需要 (Need) | 说出背后的需要 | "因为我需要感觉自己的选择被尊重" |
-| 4. 请求 (Request) | 提出具体可行的请求 | "我想跟你聊聊我在考虑的其他方向，你愿意听吗？" |
+| 1. 观察 | 不带评判地描述事实 | "妈，你上次说希望我考公务员" |
+| 2. 感受 | 表达自己的情绪 | "我听到之后感到有压力" |
+| 3. 需要 | 说出背后的需要 | "因为我需要感觉自己的选择被尊重" |
+| 4. 请求 | 提出具体可行的请求 | "我想跟你聊聊我在考虑的方向，你愿意听吗？" |
 
-参考：Rosenberg, M. B. (2015); NCDA (2024) 关于NVC在career development中的应用。
+参考：Rosenberg, M. B. (2015); NCDA (2024)
+
+### Person-Centered 底色（Rogers, 1957）
+- 无条件正向关注 → 小组里可以迷茫、可以矛盾
+- 真诚一致 → 带领者言行合一
+- 同理心 → 帮成员听见自己的真实感受
 
 ---
 
-## 七、6次小组安排（修订版）
+## 七、方案设计
 
-**总时长**：18小时（6次 × 3小时）
-**形式**：线上（Zoom）+ Miro 作为视觉化协作平台
-**频率**：每周1-2次，5周内完成
+### 时间安排
 
-| Session | 主题 | 融入的 Career Elements | 辅助工具 | 活动类型 |
-|---|---|---|---|---|
-| **1** | 开场：我在哪里？ | Career Adaptability (Concern); 识别"卡住"的类型 | ACT: Creative Hopelessness | 分享+讨论; Miro画布：我的现状 |
-| **2** | 探索自我：我是谁？ | Interests; Skills/Competence; Strengths; Personality | ACT: Defusion（分清父母的声音vs自己的兴趣） | RIASEC讨论; 技能/优势活动; Miro: 我的自画像 |
-| **3** | 什么对我重要？ | Values; Life roles | ACT: Values Clarification + Acceptance | Values Card Sort; "如果没有任何限制..."; Miro: 我的价值罗盘 |
-| **4** | 探索可能性 & 面对障碍 | Goals; Barriers & Supports; Self-efficacy; Curiosity | ACT: Defusion + Committed Action | 信息收集任务回顾; Barrier/Support分析; 小步行动计划 |
-| **5** | 跟父母谈我的方向 | Goal Setting (external conflict resolution) | NVC四步模型; Role play / Psychodrama | NVC教学+练习; 角色扮演跟父母的对话; 互相反馈 |
-| **6** | 我的下一步 & 告别 | Career Adaptability (Control, Confidence); Committed Action | ACT: Committed Action | 整合Miro上的所有探索; 制定行动计划; 写给未来的信; Closing |
+- **总时长**：18小时
+- **结构**：9次 × 2小时
+- **频率**：每周2-3次（具体根据成员时间确定）
+- **时间窗口**：2026年6月初 – 6月下旬（约3-4周）
+- **形式**：线上 Zoom + Miro
+- **Individual counselling**：每人1小时，共4-6小时，Session 5后穿插进行
 
-### 每次 Session 内部结构（3小时）：
+### 每次 Session 内部结构（2小时）
 
-| 时间 | 板块 | 备注 |
+| 时间 | 板块 | 功能 |
 |---|---|---|
-| 0:00–0:15 | Check-in | "上周到现在有什么想分享的？" |
-| 0:15–0:30 | 回顾上周小任务 | 连续性 |
-| 0:30–1:15 | 主体活动 1 | 体验式/互动式活动（保持engagement） |
-| 1:15–1:30 | 休息 | |
-| 1:30–2:15 | 主体活动 2 / 深化讨论 | 应用到自己；小组分享 |
-| 2:15–2:45 | 整合 & Miro 记录 | 在Miro上记录今天的发现 |
-| 2:45–3:00 | 本周小任务 + Closing | 一句话check-out |
+| 0:00–0:10 | Check-in | 着陆、简短分享 |
+| 0:10–0:20 | 回顾上次 | 连续性 |
+| 0:20–0:55 | 锚点活动 | 本次核心体验式练习 |
+| 0:55–1:05 | 休息 | |
+| 1:05–1:40 | 深化讨论/分享 | 把活动跟自己的生活连起来 |
+| 1:40–1:55 | Miro记录 + 整合 | 在画布上记录今天的发现 |
+| 1:55–2:00 | 小任务 + Closing | 一句话check-out |
 
-### 关于活动设计（督导强调：3h要有活动，不能只是谈话）：
+### 9次主题安排
 
-- **Miro 协作画布**：每个人有自己的区域，每次session后在上面积累自己的探索结果（values、interests、strengths、goals...），最终形成一张个人"career map"
-- **Role play / Psychodrama**：特别是Session 5的父母沟通练习
-- **卡片活动**：Values Card Sort、兴趣卡片分类
-- **反思性写作**：写给未来自己的信
-- **小组讨论 + 同伴反馈**：每个session都有
+| Session | 主题 | 核心提问 | 锚点活动 | 涉及的elements |
+|---|---|---|---|---|
+| **1** | 我们来了 | "你现在站在哪里？" | 破冰；group norms；Miro：画出"我的现状"（用隐喻/图画） | 整体现状 |
+| **2** | 我的迷茫长什么样 | "你具体卡在哪？" | 每人具体化自己的迷茫；识别"卡住"的类型（A/B/C/D） | Barriers; Self-awareness |
+| **3** | 我喜欢什么 / 我擅长什么 | "什么让我有能量？" | 兴趣探索活动；回忆"flow时刻"；技能/优势清单 | Interests; Strengths; Skills |
+| **4** | 什么对我真正重要 | "我在乎什么样的生活？" | Values Card Sort；"如果没有任何限制..." | Values |
+| **5** | 那些声音 | "哪些是我的，哪些不是？" | ACT: Defusion练习——分辨"自己的想法"vs"被灌输的期望" | Values; Barriers; Personality |
+| **6** | 向外看——可能性 | "外面有什么？" | 信息收集回顾；可能性brainstorm；SCCT: barriers & supports分析 | Goals; Curiosity; Barriers & Supports |
+| **7** | 表达我自己 | "我想怎么说出来？" | NVC四步教学 + 角色扮演（跟父母/重要的人的对话） | Communication; Goals |
+| **8** | 我的下一步 | "我愿意往哪迈一步？" | 制定一个values-aligned的小行动；ACT: Committed Action | Goals; Committed Action; Self-efficacy |
+| **9** | 整合与告别 | "我带走什么？" | 回顾Miro画布上的整个旅程；写给未来自己的信；Closing ceremony | 全部整合 |
+
+### 关于 Miro 的使用：
+
+每个成员在 Miro 上有自己的区域，每次 session 后在上面积累：
+- Session 1：我的现状（隐喻/图画）
+- Session 2：我卡在哪
+- Session 3：我的兴趣/优势
+- Session 4：我的 values
+- Session 5：我的声音 vs 外部声音
+- Session 6：我看到的可能性 + barriers/supports
+- Session 7：我想表达的
+- Session 8：我的下一步
+- Session 9：整合回顾
+
+到最后每人有一张完整的"自我探索地图"。
 
 ---
 
-## 八、Original Proposal 表格回答（修订版）
+## 八、Original Proposal 表格回答
 
 ### 1. Rationale
 
-（同之前版本，增加）Career exploration对emerging adults至关重要，因为这一阶段是identity exploration的关键期（Arnett, 2000）。研究表明overparenting导致大学生career indecision（Wang, 2023），且父母期望与子女career indecisiveness正相关（Zhao & Li, 2022）。ACT被证实能有效应用于大学生career guidance（Vos et al., 2018），而NVC为处理parent-child communication conflict提供了结构化的方法（Rosenberg, 2015; NCDA, 2024）。
+Emerging adulthood是identity exploration的关键期（Arnett, 2000），但中国年轻人在这一阶段面临独特的挑战：父母教育期望持续影响子女的自主性发展（Wei et al., 2022），过度教养导致career indecision（Wang, 2023），社会不确定性加剧future anxiety（Yu et al., 2026）。许多年轻人处于"对未来迷茫但不知道从哪开始想"的状态，且现有服务对这种"正常但卡住"的群体缺少成长性支持。
+
+本方案通过结构化的self-exploration活动，帮助年轻人了解自己（values, interests, strengths），在此基础上找到方向感，并学会向重要的人表达自己的想法。ACT技术用于处理探索过程中的心理"卡住"，NVC用于支持沟通表达。
 
 ### 2. Goals & Objectives
 
-**总目标**：通过 career exploration 帮助参与者了解自己（values, interests, strengths, skills），在此基础上找到方向感，并学会与父母有效沟通自己的想法。
+**总目标**：通过自我探索帮助参与者了解自己、在不确定中找到方向感、学会表达自己。
 
-**具体目标**：
-1. 识别并表达自己的 values, interests, strengths, skills
-2. 区分"自己真正想要的"和"父母/社会灌输的"
+**具体目标**（9次结束时参与者能够）：
+1. 识别并表达自己的 interests, strengths, values
+2. 区分"自己真正想要的"和"外部灌输的"
 3. 基于自我探索形成初步的方向感或下一步计划
-4. 学习并练习 NVC 沟通模型，能用于与父母对话
+4. 学习并练习 NVC 沟通模型
 5. 承诺至少一个具体的 values-aligned 行动步骤
 
 ### 3. Contents & Activities
 
-见上方 Session 1-6 安排。核心活动包括：RIASEC兴趣探索、Values Card Sort、技能/优势分析、Miro协作画布、NVC教学与角色扮演、psychodrama、反思性写作。
+核心活动：兴趣探索、Values Card Sort、优势/技能清单、ACT defusion练习、NVC教学与角色扮演、Miro协作画布、反思性写作。详见 Session 1-9 安排。
 
 ### 4. Sessions & Timeline
 
-6次 × 3小时 = 18小时。2026年5月底至6月下旬。加上每人1小时individual counselling（Session 3后穿插）。
+9次 × 2小时 = 18小时。2026年6月初至6月下旬，每周2-3次。加上每人1小时individual counselling。具体日程根据成员时间确定。
 
 ### 5. Measurable & Attainable
 
-- Miro画布作为可视化成果：每人积累一张个人career map
-- 前后测：AAQ-II（心理灵活性）+ Career Decision-Making Self-Efficacy Scale (CDSE-SF)
-- Session 6 每人口头报告自己的行动计划
-- 目标modest：不期望"做出最终决定"，而是"更了解自己、有方向感、能跟父母开口"
+- Miro画布：每人积累一张可视化的"自我探索地图"作为成果
+- 前后测：AAQ-II（心理灵活性）+ CDSE-SF（职业决策自我效能）
+- Session 9每人口头报告行动计划
+- 目标modest：不期望做出"最终决定"，而是"更了解自己、有方向感、能表达自己"
 
 ### 6. Evaluation
 
-- Formative：每周check-in/out、Miro记录、中期反馈
-- Summative：前后测问卷、Session 6反思、课后反馈问卷
+- Formative：每次check-in/out、Miro记录、Session 5后中期反馈
+- Summative：前后测问卷、Session 9反思、课后反馈问卷
 
 ### 7. Recruitment & Selection
 
-通过社交网络转发招募；简短在线筛选问卷 + 10-15分钟预谈；排除严重心理危机者。
+通过社交网络转发；招募文案："你对未来方向感到迷茫吗？"；简短在线筛选问卷 + 10-15分钟预谈；排除严重心理危机者。
 
 ### 8. Member Preparation
 
-知情同意书签署；个别预谈；资料单（时间表、规则、Miro使用说明）；Session 1破冰与规则建立。
+知情同意书签署；个别预谈（10-15分钟）；资料单（时间表、规则、Zoom链接、Miro使用说明）；Session 1破冰与规则建立。
 
 ---
 
-## 九、待跟督导确认
+## 九、待督导 Approve
 
 - [ ] 发给督导approve本proposal
-- [ ] 确认他提到的"career counselling domains的图"的具体reference
-- [ ] 确认hkedcity那个资源的具体内容（网站打不开，可能需要督导分享）
-- [ ] 确认Miro作为工具是否OK
-- [ ] 确认线上（Zoom）还是线下
-- [ ] Approve后开始consent流程
+- [ ] 确认他提到的"career counselling domains图"的具体reference
+- [ ] 确认hkedcity资源内容
+- [ ] 确认线上Zoom + Miro是否OK
+- [ ] 确认9次×2h的安排
+- [ ] Approve后开始consent + 招募
 
 ---
 
-## 十、References
+## 十、下一步（Approve后）
+
+- [ ] 起草招募文案
+- [ ] 起草筛选问卷
+- [ ] 起草知情同意书
+- [ ] 准备Miro模板
+- [ ] 阅读核心文献（ACT Made Simple、Active Engagement）
+- [ ] 完成正式Original Proposal表格
+- [ ] 提交Contract Form
+
+---
+
+## References
 
 Amundson, N. E. (2018). *Active engagement: The being and doing of career counselling* (4th ed.). Ergon Communications.
 
 Amundson, N. E., Harris-Bowlsbey, J., & Niles, S. G. (2009). *Essential elements of career counselling: Processes and techniques*. Pearson.
 
 Arnett, J. J. (2000). Emerging adulthood. *American Psychologist*, 55(5), 469–480.
+
+Cao, H. et al. (2025). Parental social comparison shaming and Chinese adolescents. *Child Development*, 96(5), 1700–1717.
 
 Hayes, S. C. et al. (2006). Acceptance and commitment therapy: Model, processes and outcomes. *Behaviour Research and Therapy*, 44(1), 1–25.
 
@@ -220,7 +270,11 @@ Keulen, J. et al. (2025). ACT for transitional-age youth: A meta-analysis. *Clin
 
 Lent, R. W., Brown, S. D., & Hackett, G. (1994). Toward a unifying SCCT. *Journal of Vocational Behavior*, 45(1), 79–122.
 
+Lin, L., & Wang, Q. (2022). Adolescents' filial piety attitudes. *Frontiers in Psychology*, 12.
+
 Luo, J. et al. (2022). Helicopter parenting and Chinese emerging adults. *Journal of Youth and Adolescence*, 52, 554–567.
+
+Rogers, C. R. (1957). The necessary and sufficient conditions of therapeutic personality change. *Journal of Consulting Psychology*, 21(2), 95–103.
 
 Rosenberg, M. B. (2015). *Nonviolent communication: A language of life* (3rd ed.). PuddleDancer Press.
 
@@ -228,14 +282,14 @@ Savickas, M. L. (2013). Career construction theory and practice. In Lent & Brown
 
 Vos, J. et al. (2018). ACT as innovation for career guidance. *NICE Conference Proceedings*.
 
-Wang, Y. (2023). Overparenting and career indecision in college students. *Psychology Research and Behavior Management*, 16, 4569–4582.
+Wang, Y. (2023). Overparenting and career indecision. *Psychology Research and Behavior Management*, 16, 4569–4582.
 
 Wei, S. et al. (2022). Parental autonomy support and Chinese university students. *Frontiers in Psychology*, 13, 735570.
+
+Yu, X. et al. (2026). Youth anxiety in an age of uncertainty. *Frontiers in Psychiatry*, 17, 1741101.
+
+Zhang, L. (2024). Parent-child expectation discrepancy and adolescent mental health. *Child Indicators Research*, 17(2), 705–730.
 
 Zhao, X., & Li, X. (2022). Parental career expectations and Chinese undergraduates' career indecisiveness. *Journal of Career Assessment*, 31(2), 299–318.
 
 Zhou, J. et al. (2025). Parental expectation and psychological distress of Chinese youth. *BMC Public Health*, 25(1), 3457.
-
----
-
-*注：hkedcity.net 的资源链接（rid=912750612）暂时无法访问，需向督导确认具体内容。*

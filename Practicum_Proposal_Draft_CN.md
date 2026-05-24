@@ -224,45 +224,83 @@ NVC 是 Marshall Rosenberg 发展的沟通过程，旨在促进慈悲连接和�
 
 ### 1. What is the rationale for designing the group guidance programme?
 
-Career Construction Theory (CCT; Savickas, 2005, 2013) posits that individuals construct their careers by organizing themselves, imposing direction, and making meaning. These processes require Career Adaptability resources: Concern, Control, Curiosity, and Confidence (Savickas & Porfeli, 2012).
+**（一）问题 / The Problem**
 
-Many emerging adults (Arnett, 2000), particularly in the Chinese context, experience disruption in these processes due to factors such as parental overinvolvement (Wang, 2023; Wei et al., 2022), career indecision linked to external expectations (Zhao & Li, 2022), and heightened future anxiety under social uncertainty (Yu et al., 2026). Their Career Adaptability tends to be weakened — especially in Control, Curiosity, and Confidence.
+许多处于 emerging adulthood 阶段的中国年轻人对自己的未来职业和人生方向感到迷茫——不清楚自己想要什么、擅长什么、在乎什么，因而无法做出方向性的决定。文献表明，父母过度教养与 career indecision 显著相关（Wang, 2023; Zhao & Li, 2022），父母心理控制损害自主性发展（Wei et al., 2022），社会不确定性加剧了 future anxiety（Yu et al., 2026）。
 
-Since meta-analytic evidence confirms that Career Adaptability can be enhanced through structured intervention (Rudolph et al., 2017), this programme provides a group environment for participants to re-engage in career construction through self-exploration (interests, values, strengths), supported by Amundson's (2018) Active Engagement process, Person-Centered conditions (Rogers, 1957), and NVC (Rosenberg, 2015) for self-expression.
+Many Chinese emerging adults feel lost about their future career and life direction — unclear about their interests, strengths, and values, and unable to make directional decisions. Literature links this to parental overinvolvement (Wang, 2023; Zhao & Li, 2022), undermined autonomy (Wei et al., 2022), and heightened future anxiety (Yu et al., 2026).
+
+**（二）理论视角 / Theoretical Lens**
+
+Career Construction Theory (CCT; Savickas, 2005, 2013) 认为个体通过三个过程主动建构自己的 career：organize themselves（组织自我）、impose direction（赋予方向）、make meaning（建构意义）。这群人的困难可以被理解为这三个建构过程受阻：自我认识模糊（organize 受阻）、无法提炼方向（direction 受阻）、经历缺乏连贯性（meaning 受阻）。完成这些过程需要 Career Adaptability 资源（4C），而这群人在 Control、Curiosity、Confidence 三个维度上较弱（Savickas & Porfeli, 2012）。
+
+CCT posits that individuals construct careers through organizing themselves, imposing direction, and making meaning. This group's difficulties can be understood as disruption in all three processes. Their Career Adaptability — particularly Control, Curiosity, and Confidence — tends to be weakened.
+
+**（三）为什么选 CCT / Why This Theory Fits**
+
+这群人的问题不是"不知道哪个职业适合我"（那是 trait-factor matching 的范畴），而是"我搞不清楚自己是谁、想要什么、该往哪走"——这正是 CCT 关注的 self-construction 过程被阻断的表现。CCT 不追求帮人"匹配"一个职业，而是帮人恢复建构自我和方向的能力，这与本小组的定位高度契合。
+
+Their problem is not "which job fits me" (trait-factor matching) but "I can't figure out who I am or where I'm going" — precisely what CCT addresses. CCT aims to restore the capacity for self-construction, not to match people to occupations.
+
+**（四）涉及的理论/技术/流派 / Theoretical & Practical Tools**
+
+| 理论/工具 | 角色 | 为什么选它 |
+|---|---|---|
+| **CCT (Savickas)** | 主框架 | 直接解释这群人的问题（career construction 受阻）并指导干预方向（提升 4C） |
+| **Active Engagement (Amundson)** | 过程原则 | CCT 强调 career construction 是动态非线性的，Amundson 提供了如何在实践中体现这一点的方法论 |
+| **NVC (Rosenberg)** | 沟通工具 | 当成员通过探索了解自己后，需要学会向重要的人（如父母）表达自己的想法和需要 |
+| **Person-Centered (Rogers)** | 咨询态度/小组氛围 | CCT 和 PC 都强调个体的主观经验和自我建构；PC 的接纳、真诚、共情为小组提供安全探索的基础 |
+
+**（五）干预依据 / Evidence for Intervention**
+
+Meta-analysis 证实 Career Adaptability 可以通过结构化干预有效提升（Rudolph et al., 2017）。因此，本小组通过结构化的自我探索活动，帮助成员重新激活 Curiosity、建立 Control、发展 Confidence，恢复其 career construction 能力。
+
+Meta-analytic evidence confirms that Career Adaptability can be enhanced through structured interventions (Rudolph et al., 2017). This programme aims to reactivate Curiosity, build Control, and develop Confidence through systematic self-exploration.
 
 ### 2. Purpose: What are the goals and objectives?
 
-**Overall Goal:** 促进参与者的 career construction 过程，提升其 Career Adaptability——特别是 Control, Curiosity, Confidence。
+**总目标 / Overall Goal:**
 
-**Specific Objectives**（9次结束时参与者能够）：
-1. 表达自己的 interests, strengths, values
-2. 整合自我认识，识别至少一个可能的方向或进一步探索的领域
-3. 识别阻碍自己 career construction 的障碍及可用的支持资源
-4. 使用 NVC 框架练习表达自己的想法和需要
-5. 承诺至少一个具体的、values-aligned 的行动步骤
+促进参与者的 career construction 过程，提升其 Career Adaptability——特别是 Control, Curiosity, Confidence。
+
+To facilitate participants' career construction processes and enhance their Career Adaptability — particularly Control, Curiosity, and Confidence.
+
+**具体目标 / Specific Objectives**（9次结束时参与者能够 / By end of 9 sessions, participants will be able to）：
+
+1. 表达自己的 interests, strengths, values / Articulate their interests, strengths, and values
+2. 整合自我认识，识别至少一个可能的方向 / Integrate self-knowledge to identify at least one possible direction
+3. 识别阻碍 career construction 的障碍及可用支持 / Identify barriers and available supports
+4. 使用 NVC 框架练习表达想法和需要 / Practise expressing thoughts and needs using NVC
+5. 承诺至少一个 values-aligned 的行动步骤 / Commit to at least one values-aligned action step
 
 ### 3. Describe briefly the contents and activities.
 
-**Contents:**
+**内容 / Contents:**
 
-The programme follows the career construction process (Savickas, 2005) across 9 sessions:
-- Session 1 establishes group safety, assesses members' current state, and activates Career Concern
-- Sessions 2-4 focus on self-exploration: interests (Session 2), strengths/skills (Session 3), and values (Session 4)
-- Session 5 integrates prior discoveries to identify possible directions
-- Session 6 addresses barriers and available supports
-- Session 7 practises self-expression using NVC
-- Session 8 develops a concrete, values-aligned action plan
-- Session 9 integrates the entire journey into a coherent personal narrative
+本方案遵循 CCT 的 career construction 过程，共9次：
+The programme follows the career construction process across 9 sessions:
 
-Each session has a primary exploration direction, but discussion is not restricted to a single theme — members may naturally touch on multiple elements during any given session, and this is encouraged (consistent with Amundson's Active Engagement principle of dynamic, non-linear exploration).
+- S1：建立安全感，评估现状，激活 Concern / Establish safety, assess current state, activate Concern
+- S2-4：自我探索（兴趣、优势/技能、价值观）/ Self-exploration (interests, strengths, values)
+- S5：整合发现，识别可能方向 / Integrate discoveries, identify possible directions
+- S6：面对障碍与资源 / Address barriers and supports
+- S7：NVC 表达练习 / Practise self-expression using NVC
+- S8：制定行动计划 / Develop action plan
+- S9：整合旅程，建构个人叙事 / Integrate journey into personal narrative
 
-**Activities:**
+每个 session 有主要探索方向，但讨论不限于单一主题——成员可自然触及多个 elements（符合 Amundson Active Engagement 的动态、非线性原则）。
 
-RIASEC interest exploration, flow moment recall, strengths/skills inventory, "朋友眼中的我" peer feedback, Values Card Sort, possible selves brainstorming, barriers & supports analysis, NVC four-step teaching and role play, Miro collaborative canvas (accumulating a personal Career Construction Map), reflective writing (letter to future self), closing ceremony.
+Each session has a primary direction but is not restricted to a single theme — members may naturally touch on multiple elements (consistent with Amundson's Active Engagement principle).
+
+**活动 / Activities:**
+
+RIASEC 兴趣探索、flow 时刻回忆、优势/技能清单、"朋友眼中的我"同伴反馈、Values Card Sort、Possible selves brainstorm、Barriers & Supports 分析、NVC 四步教学与角色扮演、Miro 协作画布（积累个人 Career Construction Map）、写给未来自己的信、Closing ceremony。
 
 ### 4. How many sessions? Timeline?
 
-9 sessions × 2 hours = 18 hours total. Frequency: 2-3 times per week. Timeline: Early June to late June 2026 (approximately 3-4 weeks). Individual counselling: 1 hour per member (minimum 4 hours total), after Session 5-6. Specific schedule based on members' availability.
+9次 × 2小时 = 共18小时。每周2-3次。时间：2026年6月初至6月下旬（约3-4周）。个别辅导：每人1小时（至少4小时），Session 5-6后穿插。具体日程根据成员时间确定。
+
+9 sessions × 2 hours = 18 hours total. Frequency: 2-3 times per week. Timeline: Early June to late June 2026 (~3-4 weeks). Individual counselling: 1 hour per member (min. 4 hours), after Session 5-6. Schedule based on members' availability.
 
 ### 5. How will you ensure objectives are measurable and attainable?
 

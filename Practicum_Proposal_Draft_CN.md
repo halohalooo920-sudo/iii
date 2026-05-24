@@ -216,7 +216,381 @@ NVC 是 Marshall Rosenberg 发展的沟通过程，旨在促进慈悲连接和�
 
 到最后每人有一张完整的"我是谁、我要去哪"的地图——这就是 career construction 的可视化产物。
 
+### 每次 Session 详细设计
 
+> 以下为每次 session 的具体方案。每个 session 给出：目标、预备材料、详细 run-down、关键提问语、Miro 输出物、小作业/check-out。
+> 流程时间是参考线，实际节奏跟着成员走，符合 Amundson Active Engagement 原则。
+
+---
+
+#### Session 1 ── 我们来了（Opening · Concern 评估+激活）
+
+**Session 目标**
+- 建立小组心理安全感，成员认识彼此并共同建立 group norms
+- 降低线上小组的距离感，让 Zoom + Miro 工具不再是障碍
+- 完成 needs check-in，听到每个人来这里的真实诉求
+- 激活 Career Concern：让"焦虑的迷茫"转化为"有方向的关注"
+
+**预备材料 / Pre-session prep**
+- Miro 模板：6 个个人区域（每人一块画布，带姓名）+ 一块共享区"我们的小组规则"
+- 提前发送：Zoom 链接、Miro 使用一页纸、small group rules 草稿（用于讨论）
+- 带领者准备：自我介绍稿（包括来意+局限性 disclosure）、一段轻音乐
+
+**详细流程**
+
+| 时间 | 内容 | 操作要点 |
+|---|---|---|
+| 0:00–0:10 | Check-in | 每人一句话："此刻的我，用一个词或一个比喻是什么"。带领者先示范。 |
+| 0:10–0:30 | 自我介绍 + 破冰 | 三件事：姓名（怎么称呼）、现在在做什么、为什么来。每人 2 分钟，不评判不追问 |
+| 0:30–0:50 | Group norms 共建 | 在 Miro 共享区上贴 sticky notes，每人写出"我希望这个小组怎样我才会愿意分享" → 整合为 5–7 条 norms（保密、尊重、自愿参与、right to pass、不给建议除非对方要、关掉摄像头时说一声） |
+| 0:50–0:55 | 保密原则与限制 | 带领者主动说明：保密的范围、督导制度、危机情况下的告知义务 |
+| 0:55–1:05 | 休息 | |
+| 1:05–1:30 | Needs check-in | 每人在 Miro 个人区贴出："我希望从这个小组带走什么"+"我害怕这个小组变成什么"。轮流分享，带领者反映+整合 |
+| 1:30–1:50 | Concern 激活活动："我的现状地图" | 每人在 Miro 上画一个简单的 timeline（过去 1 年 → 现在 → 未来 1 年），标出：(1) 关于未来已经做过哪些思考/尝试 (2) 现在卡在哪里 (3) 未来 1 年最希望发生什么。带领者强调："来到这里就是 Concern 的表现" |
+| 1:50–1:55 | 整合 | 带领者 reflect 整组主题（不评判内容，只看见模式） |
+| 1:55–2:00 | Closing + 小作业 | 一句话 check-out："今天带走什么"。小作业：本周留意 1 个让你"有能量"的瞬间，写一行字 |
+
+**关键提问语**
+- "你为什么来？关于未来的方向，你已经做过哪些思考或尝试？"
+- "你希望这个小组变成什么样、你才会愿意分享？"
+- "你害怕这个小组会变成什么？"
+
+**Miro 输出物**
+- 共享区：小组规则（5–7 条）
+- 个人区 S1 区块：现状 timeline + needs（"我想带走"/"我害怕")
+
+**Closing 小作业**
+- 本周留意 1 次"做起来不累/有能量"的时刻，简短记下来（场景+在做什么+什么感觉），下次带来
+
+---
+
+#### Session 2 ── 我喜欢什么 / 什么让我有能量（Organize · Curiosity）
+
+**Session 目标**
+- 用 RIASEC 作为讨论起点（不是测评工具）扩展兴趣词汇
+- 从"flow 时刻"具体回忆中识别个人 interests 的 patterns
+- 区分"我以为我喜欢"vs"身体真的喜欢"
+
+**预备材料**
+- Miro 模板：RIASEC 六个区域（带每个类型的简单描述+举例）+ 个人 flow 时刻画板
+- 一页 RIASEC 简介（事先发，10 分钟可读完）
+- 准备一段带领者自己的"flow 时刻"故事作示范
+
+**详细流程**
+
+| 时间 | 内容 | 操作要点 |
+|---|---|---|
+| 0:00–0:10 | Check-in | "上周作业：让你有能量的瞬间"分享一句话 |
+| 0:10–0:20 | 回顾上次 + 引入 | 链接到今天的主题：兴趣不是问"我喜欢什么职业"，而是"什么活动让我有能量" |
+| 0:20–0:40 | RIASEC 讨论（不是测评） | 在 Miro 上看六个类型，每人在最像自己的 1–2 个类型上贴名字。带领者强调：这只是词汇库，不是结论 |
+| 0:40–0:55 | Flow 时刻回忆活动 | 个人写：3 个让你完全沉浸/忘了时间/不累的具体场景。每个写：在做什么+和谁+什么环境+身体感觉 |
+| 0:55–1:05 | 休息 | |
+| 1:05–1:35 | 双人深谈（dyads, breakout room）| 两人一组，互相讲 1 个 flow 时刻。听者只问开放问题（不评论）。10 分钟换人 |
+| 1:35–1:55 | 回到大组 + Miro 输出 | 每人在自己的 S2 区块上写：从这些 flow 时刻里我看到的"兴趣 pattern"（不是职业，而是动作/对象/情境）|
+| 1:55–2:00 | Closing 小作业 | 本周留意 1 次"明明应该喜欢但身体很累"的反例 |
+
+**关键提问语**
+- "什么活动让你做起来不累、甚至兴奋？"
+- "如果你今天不需要赚钱，下午 3 点你最想做什么？"
+- "上一次你完全忘了时间是什么时候？在做什么？"
+- 反向：什么时候你"应该开心"但其实很累？
+
+**Miro 输出物**
+- 个人区 S2 区块：3 个 flow 时刻 + 我看到的兴趣 pattern（动词，不是名词）
+
+**Closing 小作业**
+- 找一个朋友/家人问："你觉得我做什么的时候眼睛是亮的？"记下他们的回答
+
+---
+
+#### Session 3 ── 我擅长什么 / 我的优势（Organize · Curiosity）
+
+**Session 目标**
+- 区分 strengths（自然能量来源）vs skills（习得的能力）
+- 通过同伴反馈（"朋友眼中的我"）打破自我盲点
+- 处理"我没什么擅长的"这种自我贬低的内在声音
+
+**预备材料**
+- Miro 模板：每人一张"strengths/skills 双列表"+一块"朋友眼中的我"集合区
+- VIA Character Strengths 24 项词汇表（中文版，作为词汇库不是测评）
+- 一份 skills 分类表（hard skills / soft skills / transferable skills）
+
+**详细流程**
+
+| 时间 | 内容 | 操作要点 |
+|---|---|---|
+| 0:00–0:10 | Check-in | "上周作业：朋友怎么说？"快速分享 |
+| 0:10–0:20 | 回顾 + 引入 strengths vs skills 区分 | 用例子说明：擅长 ≠ 喜欢 ≠ 做得多 |
+| 0:20–0:40 | 个人 brainstorm | 在 Miro 上写：(1) 别人经常找我帮什么忙 (2) 我做什么比别人轻松 (3) 我做什么时间过得很快但又不累 (4) 我"花了时间练"的能力 |
+| 0:40–0:55 | VIA 词汇辅助 + 个人挑选 | 看 24 项 character strengths，挑出最像自己的 5 个 |
+| 0:55–1:05 | 休息 | |
+| 1:05–1:35 | "朋友眼中的我"集体反馈 | 每人轮流坐"中心位"，组员每人说 1 个具体观察："我在 [场景] 看到你 [行为]，我觉得这是你的优势"（必须具体）。被反馈者只听+记录，不解释 |
+| 1:35–1:50 | 个人整合 | 在 S3 区块上整合：(1) 我自己看到的优势 (2) 别人看到我但我不太承认的 (3) 我"花时间练出来的" |
+| 1:50–1:55 | 处理"我没什么擅长的"的声音 | 带领者公开提问：有人在过程中冒出"我其实没什么"的念头吗？让它说出来，不评判 |
+| 1:55–2:00 | Closing 小作业 | 这周做一次：在你的优势上多花 30 分钟（小，能完成的） |
+
+**关键提问语**
+- "别人经常找你帮什么忙？"
+- "你做什么事情，旁边人觉得费劲，你觉得很轻松？"
+- "如果让你最好的朋友介绍你，他会说你最厉害的一点是什么？"
+- "这个优势，是你天生就有的，还是用心练出来的？"
+
+**Miro 输出物**
+- 个人区 S3 区块：自我视角的优势 + 朋友视角的优势 + skills 分类表
+
+**Closing 小作业**
+- 本周做一件刻意"用上自己优势"的小事，记下来感受
+
+---
+
+#### Session 4 ── 什么对我真正重要（Organize · Curiosity + Control）
+
+**Session 目标**
+- 通过 Values Card Sort 强迫做选择，浮现 top values
+- 区分"social-injected values（外部植入）"vs"内在 values"
+- 引入"无限制"想象作为绕过现实约束的工具
+
+**预备材料**
+- Miro 模板：50 张 values cards（卡片式，可拖动），分三档区域："非常重要 / 一般 / 不太重要"
+- 每张卡含 1 词 + 1 句具体描述（如"自主：能自己决定怎么做事，不被微观管理"）
+- 一段引导冥想（5 分钟，"如果没有任何限制..."）
+
+**详细流程**
+
+| 时间 | 内容 | 操作要点 |
+|---|---|---|
+| 0:00–0:10 | Check-in | 上周作业 + 一句话 |
+| 0:10–0:20 | 引入 values 概念 | 区分：values（你想怎么活）vs goals（你想达到什么）vs interests（你喜欢做什么） |
+| 0:20–0:40 | Values Card Sort 第一轮 | 每人独立把 50 张卡分到三档。强调：必须分（每档都要有） |
+| 0:40–0:55 | 第二轮：从"非常重要"挑出 Top 10 → Top 5 | 强迫做选择最痛苦也最有信号 |
+| 0:55–1:05 | 休息 | |
+| 1:05–1:20 | 来源审视 | 看着 Top 5 问每一个："这是我的，还是某个声音教我的？"（父母/老师/社会主流）。允许保留也允许放下 |
+| 1:20–1:40 | "无限制"想象 + 双人分享 | 引导冥想 5 分钟："如果没有任何限制——钱、家庭期待、社会眼光——你 35 岁早晨醒来，看见什么？做什么？"。然后 dyads 互讲 |
+| 1:40–1:55 | 个人整合到 S4 | 在 Miro S4 区块写下：经过审视后真正属于自己的 Top 5 values（一句话描述每个） |
+| 1:55–2:00 | Closing 小作业 | 找一件本周计划做的事，问自己："这件事是哪个 value 在驱动？" |
+
+**关键提问语**
+- "你想怎样活？什么样的生活让你觉得'值得'？"
+- "这个 value 是你的，还是别人塞给你的？"
+- "如果没有任何限制，你会怎么过？"
+- "Top 5 里如果只能留 3 个，你愿意放下哪 2 个？"
+
+**Miro 输出物**
+- 个人区 S4 区块：Top 5 values（带描述）+ 来源标注（自己的/外部植入的）
+
+**Closing 小作业**
+- 这周用 values 视角观察一次自己的选择：选了什么，没选什么，反映了哪个 value
+
+---
+
+#### Session 5 ── 整合：我看到什么？（Organize → Direction · Control）
+
+**Session 目标**
+- 把 S2-S4 的 interests / strengths / values 拼起来看
+- Brainstorm possible selves（不是最终决定，而是打开想象）
+- 让"方向感"从 organize 阶段过渡到 impose direction
+
+**预备材料**
+- Miro 模板：每人一块 integration zone（拉来 S2/S3/S4 的内容并排展示），右侧空白等候 possible selves
+- "Possible selves" 引导卡：5 张提示卡（往外推 / 往内收 / 跨界 / 极端 / 平凡）
+- 一支倒计时器（用于 brainstorm）
+
+**详细流程**
+
+| 时间 | 内容 | 操作要点 |
+|---|---|---|
+| 0:00–0:10 | Check-in | 上周作业 + 此刻状态 |
+| 0:10–0:25 | 个人静观 | 每人独自看自己的 S2-S4 内容 10 分钟，写下："看着这些，我注意到..." 不下结论 |
+| 0:25–0:55 | Possible selves brainstorm | 用 5 张提示卡，每张 5 分钟，brainstorm 不同方向的"未来的我"（不需要可行/不需要喜欢，只是打开）目标至少 10 个 possible selves |
+| 0:55–1:05 | 休息 | |
+| 1:05–1:30 | 三人小组深谈 | 每人挑 2-3 个 possible selves 讲给组员听。听者用 Career Construction Interview 类提问帮 ta 探索：(1) 这个我，最吸引你的是什么 (2) 它满足了你哪个 value (3) 你身体的反应是什么 |
+| 1:30–1:50 | 收敛 | 回到个人 Miro，从 10 个里圈出 2-3 个"让我有点心动/有点害怕（两者都是信号）"的 possible self |
+| 1:50–1:55 | 整组分享 | 每人一句话："我现在能看到一个/几个方向，是..."（不需要确定）|
+| 1:55–2:00 | Closing 小作业 | 这周做一次"小型 reality check"：和已经在做这个方向的 1 个人聊 15 分钟（可线上） |
+
+**关键提问语**
+- "把 interests / strengths / values 一起看，你注意到什么？"
+- "哪几个 possible selves 让你身体有反应？"（心跳加速/想躲/想笑）
+- "如果这件事一定会成功，你会做吗？如果一定会失败，你还会做吗？"
+- "这个 possible self 是哪几个 value 的组合？"
+
+**Miro 输出物**
+- 个人区 S5 区块：integration zone 视图 + 圈出的 2-3 个 possible selves（带"吸引我的点 / 害怕的点"标签）
+
+**Closing 小作业**
+- 联系一个已经在做这个方向的人，约 15 分钟聊。问 3 个问题：(1) 你日常一天具体在做什么 (2) 最累的是什么 (3) 让你留下来的是什么
+
+> **个别辅导穿插点：Session 5 之后开始安排**
+> 每人 1 小时，重点：(1) 整合阶段的卡点 (2) possible selves 中没说出口的那个 (3) 个人 transition 议题（如父母关系、亲密关系、自我评判）
+
+---
+
+#### Session 6 ── 面对障碍（Impose direction · Control + Confidence）
+
+**Session 目标**
+- 把"动不了"的感觉具体化为可分析的内/外部 barriers
+- 识别已经存在但被忽视的 supports
+- 开始把"无力感"转化为"能做点什么"
+
+**预备材料**
+- Miro 模板：每人一张 2x2 表（内部 barriers / 外部 barriers / 内部 supports / 外部 supports）
+- 准备一组 barriers 词汇库（自我怀疑、家庭期待、经济压力、信息不足、害怕选错...）
+- 准备一组 supports 词汇库（朋友、家人、过往经历、技能、可用资源...）
+
+**详细流程**
+
+| 时间 | 内容 | 操作要点 |
+|---|---|---|
+| 0:00–0:10 | Check-in | 上周 reality check 聊到的一句话/一个 surprise |
+| 0:10–0:25 | 引入：barriers ≠ "我不行"，而是有结构的 | 区分：内部（信念/恐惧/技能） vs 外部（钱/关系/信息）；可改变 vs 暂不可改变 |
+| 0:25–0:50 | 个人填 2x2 表 | 针对 S5 圈出的 1-2 个 possible selves，填四个象限。鼓励"具体"：不是"我没自信"，而是"我具体怕被父母说" |
+| 0:50–0:55 | 标重要性 | 每个 barrier 标"现在最大的 1 个"+"我能动的 1 个" |
+| 0:55–1:05 | 休息 | |
+| 1:05–1:30 | 小组讨论：内部 barriers | 每人讲一个最大的内部 barrier，组员只反映+提问，不给建议（除非对方明确请求）。用 Person-Centered 听 |
+| 1:30–1:50 | 小组讨论：被低估的 supports | "你写 supports 时，有没有发现一些你以前没意识到的资源？"。每人分享 1 个被低估的 support |
+| 1:50–1:55 | Reframe | 带领者引导："看着这张 2x2 表，你最有感觉的一格是哪个？"|
+| 1:55–2:00 | Closing 小作业 | 这周尝试"用上 1 个被低估的 support"做点小事 |
+
+**关键提问语**
+- "什么在拉住你？是你脑子里的什么声音/什么具体顾虑？"
+- "什么是真的环境的限制，什么是你假设环境会限制？"
+- "现在你身边已经有什么是可以用的，但你没在用？"
+- "如果这个 barrier 小一点点，你会做什么？"
+
+**Miro 输出物**
+- 个人区 S6 区块：2x2 barriers/supports 表，标出"最大的"和"我能动的"
+
+**Closing 小作业**
+- 找一个被低估的 support 主动用一次（一通电话/一次约见/一次问问题）
+
+---
+
+#### Session 7 ── 表达我自己（Impose direction · Control + Confidence）
+
+**Session 目标**
+- 学会 NVC 四组件作为表达框架
+- 通过角色扮演练习"对重要的人说出自己的想法和需要"
+- 区分"被听见"vs"对方同意"——前者已是成功
+
+**预备材料**
+- Miro 模板：每人一张 NVC 四步草稿区（观察 / 感受 / 需要 / 请求）
+- 一页 NVC 速查表（feelings 词汇 + needs 词汇）
+- 一段 NVC 失败/成功示例对话（带领者准备）
+
+**详细流程**
+
+| 时间 | 内容 | 操作要点 |
+|---|---|---|
+| 0:00–0:10 | Check-in | 上周用 support 的一次经验 |
+| 0:10–0:35 | NVC 四组件教学 | 每个组件 5 分钟：定义 + 关键区分（观察≠评判 / 感受≠想法 / 需要≠策略 / 请求≠要求）+ 反例。带领者用真实生活例子 |
+| 0:35–0:55 | 个人草稿 | 选一个"我想跟某个重要的人说但还没说"的话题（最常见：父母对未来的期待）。在 Miro 上写自己的 4 步草稿 |
+| 0:55–1:05 | 休息 | |
+| 1:05–1:40 | 三人组角色扮演 | 1 人当自己讲；1 人当对方（凭说明扮演）；1 人当 observer。讲完轮换。每人 ~10 分钟。Observer 反馈：哪一步最有力量、哪一步出现了评判 |
+| 1:40–1:55 | 集体反思 | 每人一句话："我练完后注意到..."。带领者强调：目标是说出来 + 被自己听见，不是改变对方 |
+| 1:55–2:00 | Closing 小作业 | 这周对 1 个真实的人，用 NVC 四步说一件小事（不需要重大议题） |
+
+**关键提问语**
+- "你想跟谁说？说什么？为什么一直没说？"
+- "在'感受'那一步，你写的是 feeling 还是 thinking（'我觉得他不爱我'是 thinking）？"
+- "你的 need 是什么？不是策略（让他听你的），是 need（被尊重/被看见/自主）"
+- "如果对方说'不'，这次表达对你还有意义吗？"
+
+**Miro 输出物**
+- 个人区 S7 区块：NVC 四步草稿（针对一个具体的人和一件具体事）
+
+**Closing 小作业**
+- 这周用 NVC 跟 1 个真实的人说一件具体小事（不挑重大冲突，先练肌肉）
+
+---
+
+#### Session 8 ── 我的下一步（Impose direction · Confidence）
+
+**Session 目标**
+- 把方向具体化为一个 14 天可完成的 values-aligned 行动
+- 区分行动 vs 计划：能开始才是行动
+- 公开 commitment + 同伴问责，建立 Confidence
+
+**预备材料**
+- Miro 模板：每人一张 action plan 卡（What / Why / When / How will I know it's done / What might block me）
+- "values-aligned" 检查清单（这一步对应的 value 是哪个？）
+- 一组 SMART 标准的简化版（具体、能开始、有 deadline）
+
+**详细流程**
+
+| 时间 | 内容 | 操作要点 |
+|---|---|---|
+| 0:00–0:10 | Check-in | 上周 NVC 实践的简短分享 |
+| 0:10–0:25 | 引入：什么算"一步" | 不是"找到工作"（这是结果），而是"周三下午约 X 喝咖啡"（这是动作）。强调：能开始 + 14 天内能完成 |
+| 0:25–0:50 | 个人写 action plan | 5 个字段：What（具体动作）/ Why（对应的 value 和方向）/ When（具体日期）/ Done（完成的标志）/ Block（可能的障碍 + 应对） |
+| 0:50–0:55 | 自查："这个动作我现在就能开始吗" | 不能 → 拆得更小 |
+| 0:55–1:05 | 休息 | |
+| 1:05–1:35 | 公开 commitment | 轮流：每人 5 分钟，向小组宣布自己的 action。组员只回应：(1) 我听到了 (2) 我看见这个动作连到你的 [哪个 value] (3) 我可以怎么支持你（如果对方愿意接受） |
+| 1:35–1:50 | 配对 accountability buddy | 两两结对，承诺这两周会互相 check in 一次（线上） |
+| 1:50–1:55 | 整组反思 | "你对自己这个动作的信心是几分（1-10）？什么会让它+1分？" |
+| 1:55–2:00 | Closing 小作业 | 这两周完成你 commit 的动作，记录过程（做了什么/没做什么/感受） |
+
+**关键提问语**
+- "这一步具体什么时候做？什么算做完？"
+- "这一步对应你的哪个 value？为什么这一步对你有意义？"
+- "如果到那天你没做，最可能因为什么？提前怎么处理？"
+- "你 1-10 分对自己的信心是几？是什么让它不是 10？"
+
+**Miro 输出物**
+- 个人区 S8 区块：action plan 卡（What / Why / When / Done / Block）+ buddy 名字 + 信心分
+
+**Closing 小作业**
+- 这两周内完成你 commit 的动作；和 buddy 至少 check in 一次
+
+---
+
+#### Session 9 ── 整合与告别（Make meaning · 全部整合）
+
+**Session 目标**
+- 完成 make meaning：整理这九次的 Career Construction Map
+- 写一封"给未来自己的信"作为意义浓缩
+- 仪式化告别：让小组体验本身被看见、被记住
+
+**预备材料**
+- Miro 模板：每人画布扩展为完整 Career Construction Map（S1-S8 全景视图）
+- 给未来自己的信模板（半结构化，5 个引子）
+- 后测问卷链接（CAAS + self-clarity scaling + 反馈）
+- 闭环仪式道具（线上：每人准备一支蜡烛/一杯水都可以）
+- 整组合影截图
+
+**详细流程**
+
+| 时间 | 内容 | 操作要点 |
+|---|---|---|
+| 0:00–0:15 | Check-in（加长）| "你 commit 的那个动作，做了吗？" 不评判，只听 |
+| 0:15–0:35 | 个人静观全景 | 每人独自看自己 S1-S8 完整 Miro Map 20 分钟。带领者提示：你是怎样从 S1 走到 S8 的？什么变了？什么没变？ |
+| 0:35–0:55 | 写"给未来自己的信" | 5 个引子（半结构化）：(1) 我现在终于知道关于自己的一件事是... (2) 我还在挣扎的是... (3) 我答应你 1 年后我会... (4) 谢谢这次小组让我... (5) 如果未来你迷茫了，请记得 |
+| 0:55–1:05 | 休息 | |
+| 1:05–1:35 | 集体分享（自愿读信） | 每人愿意读 1-2 段。其他人只听+反映+不评判 |
+| 1:35–1:50 | 给彼此的话 | 在 Miro 共享区，每人给其他每人写一句话（具体观察+祝愿）。这是被记得的具象 |
+| 1:50–1:58 | 闭环仪式 | 一起举起蜡烛/水杯。带领者一句话："我们一起完成了..."。成员一句话："我带走的是..."。一起呼吸三次。 |
+| 1:58–2:00 | 后测问卷链接 + 道别 | 强调：3 个月后会有 follow-up 短问卷（自愿） |
+
+**关键提问语**
+- "这九次对你意味着什么？"
+- "看着这张 Map，你能讲出'你的故事'吗？"
+- "这次小组之前/之后，你最大的不同是什么？"
+- "未来如果你又迷茫了，这次的什么会回来帮你？"
+
+**Miro 输出物**
+- 个人区完整 Career Construction Map（S1-S9 全景）+ 给未来自己的信
+- 共享区：每人收到的"组员给我的话"
+- 整组 Miro 截图作为纪念
+
+**Closing 小作业 / 后续**
+- 完成后测问卷
+- 1 个月后 buddy 再次 check in 自己 commit 的动作
+- 3 个月后 follow-up 短问卷（自愿）
+
+---
+
+> **总结性说明**
+>
+> 以上 9 次 session 构成一条从 organize → impose direction → make meaning 的完整 career construction 路径。每次 session 都遵循"check-in / 锚点活动 / 深化讨论 / Miro 整合 / closing"的内部结构（见前文），但具体活动会根据成员真实状态灵活调整（Active Engagement 原则）。所有具体提问语和活动细节会在每次 session 前再做最后一次 micro-tuning，根据上一次的 check-out 内容、observation notes 和 buddy 反馈调整。
 
 ---
 
@@ -225,8 +599,6 @@ NVC 是 Marshall Rosenberg 发展的沟通过程，旨在促进慈悲连接和�
 ### 1. What is the rationale for designing the group guidance programme?
 
 许多处于 emerging adulthood 阶段（Arnett, 2000）的中国年轻人对自己的未来职业和人生方向感到迷茫，文献表明这与父母过度教养、心理控制以及社会不确定性带来的 future anxiety 显著相关（Wang, 2023; Zhao & Li, 2022; Wei et al., 2022; Yu et al., 2026）。Career Construction Theory（CCT；Savickas, 2005, 2013）认为个体通过 organize themselves、impose direction、make meaning 三个过程主动建构自己的 career，而这群人的困难恰好对应这三项任务上的受阻；他们所需的 Career Adaptability 资源——Concern、Control、Curiosity、Confidence（Savickas & Porfeli, 2012）——也普遍偏弱，尤其是后三者。选择 CCT 作为主框架，是因为这群人的核心问题不是"哪个职业适合我"（trait-factor matching），而是"我搞不清自己是谁、要去哪"，这正是 CCT 关注的 self-construction 过程。Amundson（2018）的 Active Engagement 模型为实践提供了动态、非线性的过程原则；Rosenberg（2015）的 NVC 在后期帮助成员表达自己；Rogers（1957）的 Person-Centered 核心条件提供小组氛围的安全基础。Rudolph 等（2017）的 meta-analysis 证实 Career Adaptability 可以通过结构化干预有效提升。
-
-Many Chinese emerging adults (Arnett, 2000) feel lost about their future career and life direction; literature links this to parental overinvolvement, psychological control, and social uncertainty intensifying future anxiety (Wang, 2023; Zhao & Li, 2022; Wei et al., 2022; Yu et al., 2026). Career Construction Theory (CCT; Savickas, 2005, 2013) holds that individuals construct their careers through organizing themselves, imposing direction, and making meaning, and this group's difficulties correspond precisely to disruption in all three tasks; their Career Adaptability resources — Concern, Control, Curiosity, Confidence (Savickas & Porfeli, 2012) — tend to be weakened, especially the latter three. CCT is chosen as the primary framework because their core problem is not "which job fits me" (trait-factor matching) but "I can't figure out who I am or where I'm going" — precisely the self-construction process CCT addresses. Amundson's (2018) Active Engagement model provides a dynamic, non-linear process principle for practice; Rosenberg's (2015) NVC supports self-expression in later sessions; Rogers' (1957) Person-Centered core conditions ground the group's safe atmosphere. Meta-analytic evidence (Rudolph et al., 2017) confirms that Career Adaptability can be effectively enhanced through structured intervention.
 
 ### 2. Purpose: What are the goals and objectives?
 
@@ -247,8 +619,6 @@ To facilitate participants' career construction processes and enhance their Care
 ### 3. Describe briefly the contents and activities.
 
 整个方案共九次小组会议，沿着 CCT 的 career construction 过程展开：开场建立小组的安全感和共同规则，进行 needs check-in 并激活成员的 Career Concern；接下来几次进入向内探索，依次聚焦兴趣（如 RIASEC 讨论与 flow 时刻回忆）、优势/技能（如技能清单与"朋友眼中的我"同伴反馈）、以及价值观（如 Values Card Sort）；中段引导成员将累积的发现整合，识别可能的方向，并面对内外部的障碍与可用支持；后段介绍 NVC 四组件模型并通过角色扮演练习向重要的人表达自己，再帮助成员制定一个具体、values-aligned 的小行动步骤；最后通过回顾 Miro 画布、写一封给未来自己的信、以及简短的 closing ceremony 完成 make meaning。整个九次过程中，Miro 协作画布作为可视化工具贯穿始终，每位成员逐步累积出属于自己的"自我探索地图"，这本身就是 career construction 的产物。每次会议虽有主要探索方向，但讨论不被严格限制在单一主题之内，鼓励成员在不同 elements 之间自然流动，这与 Amundson 的 Active Engagement 原则一致。
-
-The programme consists of nine group sessions unfolding along CCT's career construction process. The opening session establishes group safety and norms, conducts a needs check-in, and activates Career Concern. The next sessions move into inward exploration, focusing in turn on interests (e.g., RIASEC discussion and flow moment recall), strengths/skills (e.g., skills inventory and "how friends see me" peer feedback), and values (e.g., Values Card Sort). The middle session integrates accumulated discoveries to identify possible directions and addresses both internal and external barriers along with available supports. Later sessions introduce the NVC four-component model with role play to practise expressing oneself to significant others, then help members develop a concrete, values-aligned small action step. The final session reviews the entire Miro canvas, includes writing a letter to one's future self, and concludes with a brief closing ceremony, completing the meaning-making process. Throughout, a Miro collaborative canvas serves as a visual tool — each member gradually builds their own "self-exploration map," which itself becomes the visible product of career construction. While each session has a primary exploration direction, discussion is not strictly confined to a single theme; members are encouraged to move fluidly across elements, consistent with Amundson's Active Engagement principle.
 
 ### 4. How many sessions? Timeline?
 

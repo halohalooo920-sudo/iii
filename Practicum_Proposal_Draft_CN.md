@@ -1,4 +1,4 @@
-# 小组辅导方案提案（修订版 v4）
+# 小组辅导方案提案（修订版 v5 — Final）
 ## 在不确定中探索自我与方向 — 面向迷茫中年轻人的个人成长小组
 
 *Self-Exploration and Career Direction for Young Adults Navigating Uncertainty*
@@ -27,59 +27,61 @@
 - **人数**：约6人
 - **语言**：普通话
 - **形式**：线上（Zoom + Miro）
-- **招募渠道**：通过非亲密关系的社交网络转发
-- **招募角度**："你对未来方向感到迷茫吗？"
+- **招募渠道**：通过个人交际圈（校友网络、不太熟悉的同学、朋友的朋友等）进行招募，避免招募亲密朋友或存在权力关系的人
+- **招募角度**："毕业后不知道做什么？对未来的职业和人生方向感到迷茫？"
 - **筛选标准**：
-  - 对自己的未来方向感到迷茫/不确定
+  - 对自己的未来职业/人生方向感到迷茫或不确定
   - 愿意在小组中分享和倾听
   - 无正在进行的精神科治疗或严重心理危机
   - 普通话沟通无障碍
 
 ---
 
-## 三、群体的困难 & 理论分析
+## 三、理论分析与设计依据（Rationale）
 
-### 用 CCT 的框架来理解他们的困难
+### 第一层：理论前提
 
-Career Construction Theory 认为，个体通过解释性和人际性的过程来 (1) 组织自我（organize themselves），(2) 赋予职业行为方向（impose direction on their vocational behavior），(3) 建构生涯意义（make meaning of their careers）（Savickas, 2005）。
+Career Construction Theory (CCT) 认为，个体通过解释性和人际性的过程来主动建构自己的 career。这一建构过程包含三个核心任务：(1) 组织自我（organize themselves），(2) 赋予职业行为方向（impose direction on their vocational behavior），(3) 建构生涯意义（make meaning of their careers）（Savickas, 2005）。
 
-这群年轻人在这三个任务上都受阻了：
+完成这些任务需要 Career Adaptability 资源，即四种心理社会能力（Savickas & Porfeli, 2012）：
 
-| CCT 核心任务 | 这群人的卡点 | 可能的受阻原因（因人而异） |
+| 维度 | Savickas 原文定义 | 核心词 |
 |---|---|---|
-| **Organize themselves** | 搞不清"我是谁"——对自己的 interests, values, strengths 认识模糊 | 缺乏自我探索的机会；外部声音（父母/社会）的干扰；经历太少没有素材；选项太多信息过载 |
-| **Impose direction** | 给不出方向——无法从自我认识中提炼出"我要往哪走" | 不确定感；对失败后果的恐惧；缺乏信息；缺乏支持 |
-| **Make meaning** | 串不成故事——觉得自己的过去和现在是断裂的、随波逐流的 | 长期按外部期望生活；没有反思和整合的机会 |
+| **Concern** | The extent to which an individual is oriented toward the future and inclined to anticipate and prepare for career moves | Planfulness（计划性） |
+| **Control** | The extent to which an individual assumes responsibility for building a career | Deliberateness（审慎性） |
+| **Curiosity** | The extent to which an individual tends to imagine possible selves, explore opportunities, and gather information | Inquisitiveness（探究性） |
+| **Confidence** | The extent to which an individual has faith in her or his ability to make viable career decisions and solve problems in reaching occupational goals | Assuredness（确信感） |
 
-### Career Adaptability 4C（Savickas & Porfeli, 2012）
+### 第二层：群体困难
 
-Career Adaptability 是 CCT 的核心操作概念，指个体用于管理职业生涯轨迹的心理社会资源（psychosocial resources for managing career trajectories in changing environments）。包含四个维度：
+处于 emerging adulthood 阶段（Arnett, 2000）的中国年轻人，在 career construction 过程上普遍受阻。受阻原因因人而异：有人缺乏自我探索的机会；有人受到外部期望（父母/社会）的干扰；有人因不确定性而停止了探索；有人害怕选择的后果。
 
-| 维度 | Savickas 原文定义 | 核心词 | 适应性个体的表现 |
-|---|---|---|---|
-| **Concern** | The extent to which an individual is oriented toward the future and inclined to anticipate and prepare for career moves | Planfulness（计划性） | Becoming concerned about the vocational future |
-| **Control** | The extent to which an individual assumes responsibility for building a career | Deliberateness（审慎性） | Taking control of shaping one's vocational future |
-| **Curiosity** | The extent to which an individual tends to imagine possible selves, explore opportunities, and gather information | Inquisitiveness（探究性） | Displaying curiosity by exploring possible selves and future scenarios |
-| **Confidence** | The extent to which an individual has faith in her or his ability to make viable career decisions and solve problems in reaching occupational goals | Assuredness（确信感） | Showing the confidence to pursue one's aspirations |
+文献表明，这一阶段的父母期望、过度教养等因素与 career indecision 显著相关（Wang, 2023; Zhao & Li, 2022; Wei et al., 2022），社会不确定性加剧了年轻人的 future anxiety（Yu et al., 2026）。
 
-（来源：Savickas, 2005; Savickas & Porfeli, 2012, Career Adapt-Abilities Scale）
+具体而言，他们在 CCT 三大任务上的表现为：
 
-### 4C 与本群体的匹配分析
-
-| 维度 | 这群人的现状 | 本小组如何促进其发展 |
+| CCT 核心任务 | 卡点 | 可能的原因（因人而异） |
 |---|---|---|
-| **Concern** | 基本具备——他们来参加小组本身就是面向未来的行为 | 验证和强化这种 concern；帮他们把模糊的"焦虑"转化为有方向的"关注" |
-| **Control** | 较弱——很多人觉得自己的未来不是自己能决定的 | 通过自我探索让他们积累"我了解自己"的素材，从而有底气承担起自己 career 的责任 |
-| **Curiosity** | 较弱——因为迷茫而停止了探索 | 通过结构化活动重新激活好奇心：探索 interests, values, strengths；想象 possible selves |
-| **Confidence** | 较弱——不相信自己能做出好的决策 | 通过小步行动和同伴支持逐步建立信心 |
+| **Organize** | 对自己的 interests, values, strengths 认识模糊 | 缺乏探索机会；外部声音干扰；经历太少；选项过载 |
+| **Impose direction** | 无法从自我认识中提炼出方向 | 不确定感；恐惧后果；缺乏信息和支持 |
+| **Make meaning** | 觉得自己的经历是断裂的、随波逐流的 | 长期按外部期望生活；缺乏反思整合的机会 |
 
-### 文献支持
+### 第三层：4C 分析
 
-- Emerging adulthood 是 career construction 的关键期（Arnett, 2000; Savickas, 2013）
-- Career adaptability 可以通过结构化干预提升（Rudolph et al., 2017 meta-analysis）
-- 中国文化中父母期望影响子女自主性发展和 career decision-making（Zhou et al., 2025; Wei et al., 2022; Wang, 2023）
-- 过度教养与 career indecision 相关（Wang, 2023; Zhao & Li, 2022）
-- 社会不确定性加剧年轻人的 future anxiety（Yu et al., 2026）
+| 维度 | 这群人的现状 | 本小组如何促进 |
+|---|---|---|
+| **Concern** | 部分具备（来参加说明有一定程度的关注），但可能仍处于模糊的焦虑状态而非有方向的关注 | Session 1 评估和激活 Concern；帮他们把焦虑转化为有方向的关注 |
+| **Control** | 较弱——很多人不觉得自己的 career 由自己负责/能由自己决定 | 通过自我探索积累素材，让他们有底气承担起自己 career 的责任 |
+| **Curiosity** | 较弱——因迷茫而停止了探索 | 通过结构化活动重新激活好奇心：探索 interests, values, strengths；想象 possible selves |
+| **Confidence** | 较弱——不相信自己能做出可行的职业决策 | 通过小步行动和同伴支持逐步建立信心 |
+
+### 第四层：干预依据
+
+Meta-analysis 证据表明，Career Adaptability 可以通过结构化干预有效提升（Rudolph et al., 2017）。
+
+### 第五层：因此
+
+本小组基于 CCT 框架，通过结构化的自我探索活动（探索 interests, values, strengths），在 Person-Centered 的安全氛围和 Amundson Active Engagement 的动态过程原则下，帮助成员重新激活 Curiosity、建立 Control、逐步发展 Confidence，从而恢复他们的 career construction 能力——即能够组织自我、赋予方向、建构意义。NVC 作为沟通工具支持成员在探索后表达自己的想法和需要。
 
 ---
 
@@ -96,8 +98,6 @@ Career Adaptability 是 CCT 的核心操作概念，指个体用于管理职业�
 | 5. **想表达自己** | "我想跟父母/重要的人说清楚我的想法" | Impose direction |
 | 6. **想把这段经历串起来** | "我想理解这些对我意味着什么" | Make meaning |
 
-
-
 ---
 
 ## 五、方案定位
@@ -113,78 +113,52 @@ Career Adaptability 是 CCT 的核心操作概念，指个体用于管理职业�
 - ✅ 帮成员在不确定中 **impose direction**（找到方向感）
 - ✅ 帮成员 **make meaning**（理解"这对我来说意味着什么"）
 
+
+
 ---
 
 ## 六、理论框架
 
-### 主框架：Career Construction Theory (Savickas, 2005, 2013)
+### 主框架：Career Construction Theory (CCT, Savickas, 2005, 2013)
 
-**核心主张**：
 - Career 不是被"发现"的，而是被个体主动**建构**的
-- 建构过程包含三个任务：organize → impose direction → make meaning
-- Career Adaptability（4C: Concern, Control, Curiosity, Confidence）是完成这些任务的核心心理社会资源
-- 这个过程不是线性的，而是动态的、来回的
-
-**为什么 CCT 契合这群人**：
-这群人的问题不是"不知道哪个职业适合我"（那是 trait-factor matching），而是"我搞不清楚自己是谁、想要什么、该往哪走"——这正是 CCT 关注的 career construction 过程被阻断的表现。本小组旨在帮助他们恢复这一建构能力。
-
-**CCT 如何指导小组设计**：
-- 小组目标 = 提升 Career Adaptability（特别是 Control, Curiosity, Confidence）
-- 小组过程 = 创造条件让成员能够 organize → direct → make meaning
-- 不追求"帮他们选好职业"，而是帮他们**恢复建构的能力**
-
-参考：
-- Savickas, M. L. (2005). The theory and practice of career construction. In Brown & Lent (Eds.), *Career development and counseling* (pp. 42–70). Wiley.
-- Savickas, M. L. (2013). Career construction theory and practice. In Lent & Brown (Eds.), *Career development and counseling* (2nd ed., pp. 147–183). Wiley.
-- Savickas, M. L., & Porfeli, E. J. (2012). Career Adapt-Abilities Scale. *Journal of Vocational Behavior*, 80(3), 661–673.
+- 建构过程：organize → impose direction → make meaning
+- Career Adaptability 4C 是完成这些任务的核心心理社会资源
+- 过程不是线性的，而是动态的、来回的
 
 ### 过程原则：Active Engagement (Amundson, 2018)
 
-Amundson 的 Active Engagement 模型强调 career counselling 是一个**动态的、非线性的、有创意的过程**（以河流/划船为隐喻）。不是按固定步骤走流水线，而是根据每个人的状态灵活调整。
+Career counselling 是一个动态、非线性、有创意的过程（河流/划船隐喻）。不按固定步骤走流水线，而是根据每个人的状态灵活调整。
 
-**在本小组中的应用**：
-- 虽然 session 有顺序，但每个 session 里可能涉及多个 career elements
-- 每个 session 有固定的"锚点活动"（给带领者结构感），但讨论部分是开放的、跟着成员走的
-- 不同成员可能在不同 session 有不同程度的共鸣和收获，这是正常的
+在本小组中：每个 session 有固定的"锚点活动"（给带领者结构感），但讨论部分是开放的、跟着成员走的。虽然 session 有主题，但不封死——成员可能在做某个活动时自然触及其他 elements，这是被鼓励的。
 
-参考：Amundson, N. E. (2018). *Active engagement: The being and doing of career counselling* (4th ed.). Ergon Communications.
+### 沟通工具：NVC 非暴力沟通 (Rosenberg, 2015)
 
-### 沟通工具：Nonviolent Communication (Rosenberg, 2015)
+NVC 是 Marshall Rosenberg 发展的沟通过程，旨在促进慈悲连接和创造性地解决冲突。
 
-NVC 是 Marshall Rosenberg 发展的一种沟通过程，旨在促进人与人之间的慈悲连接和创造性地解决冲突。
+**四组件过程（Four-Part Process）**：
 
-**NVC 的四个组件（Four-Part Process）**：
+| 组件 | 定义 | 关键区分 |
+|---|---|---|
+| **Observation（观察）** | 具体描述观察到的事实，不混入评判 | Observation ≠ evaluation |
+| **Feeling（感受）** | 表达在观察到这些事情时的情绪 | Feeling ≠ thinking |
+| **Need（需要）** | 识别感受背后的需要/价值/渴望 | 所有感受源于 needs 是否被满足 |
+| **Request（请求）** | 用正向、具体、可行的语言提出请求 | Request ≠ demand（允许对方说不） |
 
-| 组件 | 定义 | 关键区分 | 在本小组中的应用举例 |
-|---|---|---|---|
-| **1. Observation（观察）** | 具体描述我们所观察到的（看到、听到、回忆到的），不混入评判 | 区分 observation vs evaluation。"你总是..."是评判；"你上次说希望我考公务员"是观察 | 帮成员学会不带评判地描述与父母的互动 |
-| **2. Feeling（感受）** | 表达我们在观察到这些事情时的感受/情绪 | 区分 feeling vs thinking。"我觉得你不在乎我"不是感受（是想法）；"我感到失落"才是感受 | 帮成员识别和表达自己在冲突中的真实情绪 |
-| **3. Need（需要）** | 识别感受背后的需要、价值或渴望 | 所有感受都源于 needs 是否被满足；冲突的根源不是行为本身，而是未被满足的 need | 帮成员发现"我在这个冲突里真正需要的是什么"（如自主、被尊重、安全感） |
-| **4. Request（请求）** | 用正向的、具体的、可行的语言提出请求 | 区分 request vs demand；请求允许对方说"不" | 帮成员练习向父母提出具体的、非强迫性的请求 |
+核心理念：冲突不是因为 needs 不同，而是因为满足 needs 的策略冲突。NVC 可双向使用：表达自己 + 同理他人。
 
-**Rosenberg 的核心理念**：
-- 所有人的行为都是为了满足 universal human needs
-- 冲突不是因为 needs 不同，而是因为满足 needs 的**策略**冲突
-- 感受的根源不是他人的行为，而是我们自己的 needs 是否被满足
-- NVC 可以双向使用：表达自己（honest expression）+ 同理他人（empathic receiving）
-
-**在本小组中的角色**：
-- 主要用于 Session 7（表达我自己）
-- 浅层：作为沟通技术，帮成员组织"我想跟父母/重要的人说的话"
-- 深层：作为 needs awareness 的工具，帮成员意识到自己在冲突中的真正需要——这与整个小组的自我探索主线一致
-
-参考：Rosenberg, M. B. (2015). *Nonviolent communication: A language of life* (3rd ed.). PuddleDancer Press.
+在本小组中的角色：
+- 主要用于 Session 7
+- 浅层：沟通技术——帮成员组织"我想跟重要的人说的话"
+- 深层：needs awareness——帮成员意识到自己在冲突中的真正需要（与整个小组的自我探索主线一致）
 
 ### 咨询态度/底色：Person-Centered (Rogers, 1957)
 
-小组氛围的基础：
-- **Unconditional Positive Regard（无条件正向关注）**→ 成员可以迷茫、可以矛盾、没人评判
-- **Congruence（真诚一致）**→ 带领者言行合一
-- **Empathic Understanding（同理心）**→ 帮成员听见自己的真实感受
+- **Unconditional Positive Regard** → 成员可以迷茫、矛盾、没人评判
+- **Congruence** → 带领者言行合一
+- **Empathic Understanding** → 帮成员听见自己的真实感受
 
-Person-Centered 与 CCT 高度兼容——两者都强调个体的主观经验和自我建构。
-
-参考：Rogers, C. R. (1957). The necessary and sufficient conditions of therapeutic personality change. *Journal of Consulting Psychology*, 21(2), 95–103.
+与 CCT 高度兼容——都强调个体的主观经验和自我建构。
 
 ---
 
@@ -205,49 +179,44 @@ Person-Centered 与 CCT 高度兼容——两者都强调个体的主观经验�
 |---|---|---|
 | 0:00–0:10 | Check-in | 着陆、简短分享 |
 | 0:10–0:20 | 回顾上次 | 连续性 |
-| 0:20–0:55 | 锚点活动 | 本次核心体验式练习（固定的、提前设计好的） |
+| 0:20–0:55 | 锚点活动 | 本次核心体验式练习（固定） |
 | 0:55–1:05 | 休息 | |
-| 1:05–1:40 | 深化讨论/分享 | 把活动跟自己的生活连起来（灵活的、跟着成员走） |
+| 1:05–1:40 | 深化讨论/分享 | 把活动跟自己的生活连起来（灵活） |
 | 1:40–1:55 | Miro记录 + 整合 | 在画布上记录今天的发现 |
 | 1:55–2:00 | 小任务 + Closing | 一句话check-out |
 
-### 9次主题安排（基于 CCT 框架 + 成员体验旅程）
+### 9次主题安排
 
-本小组的 session 设计遵循 CCT 所描述的 career construction 过程：Session 1-4 聚焦于 organize（通过探索 interests, values, strengths, personality 来组织自我认识）；Session 5-8 聚焦于 impose direction（整合自我认识、面对障碍、表达自己、制定行动计划）；Session 9 聚焦于 make meaning（回顾整个旅程、建构连贯的个人叙事）。Career Adaptability 的四个维度在这一过程中逐步发展。
+本小组的 session 设计遵循 CCT 的 career construction 过程：Sessions 1-4 聚焦于 organize；Sessions 5-8 聚焦于 impose direction；Session 9 聚焦于 make meaning。每个 session 有一个主要的探索方向，但讨论不限于单一主题——成员可能在做某个活动时自然触及其他 elements，这是正常且被鼓励的。
 
-| Session | CCT 阶段 | 体验旅程 | 主题 | 核心提问 | 锚点活动 | 4C 发展 |
+| Session | CCT 阶段 | 体验旅程 | 主题 | 核心提问 | 锚点活动 | 4C |
 |---|---|---|---|---|---|---|
-| **1** | — | 进入 | 我们来了 | "你为什么来？你现在的状态是什么？" | 破冰；Group norms；每人简述"我为什么来"；Miro：画出我的现状 | Concern |
+| **1** | — | 进入 | 我们来了 | "你为什么来？关于未来方向你已经做过哪些思考或尝试？" | 破冰；Group norms；Needs check-in；Miro：我的现状 | Concern（评估+激活） |
 | **2** | Organize | 向内看 | 我喜欢什么 / 什么让我有能量 | "什么东西让你做起来不累、甚至兴奋？" | Interests 探索（RIASEC讨论）；回忆 flow 时刻 | Curiosity |
-| **3** | Organize | 向内看 | 我擅长什么 / 我的优势 | "别人经常找你帮什么忙？你做什么事比别人轻松？" | Strengths/Skills 清单；"朋友眼中的我"互动 | Curiosity |
+| **3** | Organize | 向内看 | 我擅长什么 / 我的优势 | "别人经常找你帮什么忙？你做什么比别人轻松？" | Strengths/Skills 清单；"朋友眼中的我" | Curiosity |
 | **4** | Organize | 向内看 | 什么对我真正重要 | "我在乎什么样的生活？" | Values Card Sort；"如果没有任何限制..." | Curiosity + Control |
-| **5** | Organize → Direction | 转折 | 整合：基于我了解到的自己，我看到什么？ | "把前面的发现放在一起看，你看到什么方向或可能性？" | 整合 Miro 画布前4次的内容；Possible selves brainstorm | Control |
-| **6** | Impose direction | 转折 | 面对障碍 | "什么在拉住我？什么可以帮我？" | Barriers & Supports 分析；识别内在障碍 vs 外在障碍 | Control + Confidence |
-| **7** | Impose direction | 向外 | 表达我自己 | "我想怎么说出来？" | NVC 四步教学 + 角色扮演（跟父母/重要的人的对话） | Control + Confidence |
-| **8** | Impose direction | 向外 | 我的下一步 | "我愿意往哪迈一步？" | 制定一个具体的、小的、values-aligned 行动计划 | Confidence |
-| **9** | Make meaning | 收尾 | 整合与告别 | "这段旅程对我意味着什么？" | 回顾 Miro 画布全貌；写给未来自己的信；Closing ceremony | 全部整合 |
+| **5** | Organize → Direction | 转折 | 整合：我看到什么？ | "把前面的发现放一起看，你看到什么方向或可能性？" | 整合 Miro 前4次内容；Possible selves brainstorm | Control |
+| **6** | Impose direction | 转折 | 面对障碍 | "什么在拉住我？什么可以帮我？" | Barriers & Supports 分析（内在/外在） | Control + Confidence |
+| **7** | Impose direction | 向外 | 表达我自己 | "我想怎么说出来？" | NVC 四步教学 + 角色扮演 | Control + Confidence |
+| **8** | Impose direction | 向外 | 我的下一步 | "我愿意往哪迈一步？" | 制定具体的 values-aligned 小行动计划 | Confidence |
+| **9** | Make meaning | 收尾 | 整合与告别 | "这段旅程对我意味着什么？" | 回顾 Miro 全貌；写给未来自己的信；Closing | 全部整合 |
 
-### 设计原则（基于 CCT + Amundson）：
+### Miro 画布累积
 
-1. **不是线性的**——虽然 session 有顺序，但每个 session 里可能涉及多个 elements
-2. **每个 session 有固定锚点活动**（给带领者结构感）+ **灵活讨论空间**（让每个成员的过程是个性化的）
-3. **Miro 作为累积工具**——每人逐步建构自己的"Career Construction Map"，这本身就是 career construction 的可视化产物
-4. **活动多样**——不能全是讨论，要有卡片、画、写、role play（线上保持 engagement）
+每个成员有自己的区域，逐步建构 Career Construction Map：
+- S1：我的现状 + 我已做过的思考/尝试
+- S2：我的兴趣 / 让我有能量的事
+- S3：我的优势 / 技能
+- S4：我的 Values
+- S5：整合 → 我看到的方向/可能性
+- S6：我的障碍 & 支持
+- S7：我想表达的
+- S8：我的下一步
+- S9：整合 → 我的故事
 
-### Miro 画布累积：
+到最后每人有一张完整的"我是谁、我要去哪"的地图——这就是 career construction 的可视化产物。
 
-每个成员有自己的区域，逐步建构自己的 Career Construction Map：
-- Session 1：我的现状
-- Session 2：我的兴趣 / 让我有能量的事
-- Session 3：我的优势 / 技能
-- Session 4：我的 Values
-- Session 5：整合 → 我看到的方向/可能性
-- Session 6：我的障碍 & 支持
-- Session 7：我想表达的
-- Session 8：我的下一步
-- Session 9：整合 → 我的故事
 
-**到最后，每人有一张完整的"我是谁、我要去哪"的地图——这就是 career construction 的可视化产物。**
 
 ---
 
@@ -255,60 +224,111 @@ Person-Centered 与 CCT 高度兼容——两者都强调个体的主观经验�
 
 ### 1. What is the rationale for designing the group guidance programme?
 
-According to Career Construction Theory (Savickas, 2005, 2013), individuals actively construct their careers through processes of self-organization, direction-giving, and meaning-making. However, for young adults navigating uncertainty — particularly in the Chinese cultural context where parental expectations exert lasting influence on autonomy and career decision-making (Wei et al., 2022; Wang, 2023; Zhou et al., 2025) — these constructive processes are often disrupted.
-
-Many young adults find themselves unable to organize their self-concept (unclear about their own interests, values, and strengths), unable to impose direction (paralyzed by uncertainty), and unable to make meaning (feeling that their life lacks coherence or purpose). The reasons for this disruption vary: some lack self-exploration experience; some are overwhelmed by external expectations; some fear the consequences of choosing "wrong."
-
-Research shows that Career Adaptability can be enhanced through structured interventions (Rudolph et al., 2017). This programme provides a structured group environment where participants can engage in the career construction process, supported by Amundson's Active Engagement approach (dynamic, creative exploration), NVC for self-expression, and Person-Centered conditions for safety.
+见第三节（理论分析与设计依据）——完整的五层逻辑链：理论前提 → 群体困难 → 4C分析 → 干预依据 → 因此设计本小组。
 
 ### 2. Purpose: What are the goals and objectives?
 
-**Overall Goal:** To facilitate participants' career construction processes and enhance their Career Adaptability — particularly Control, Curiosity, and Confidence.
+**Overall Goal:** 促进参与者的 career construction 过程，提升其 Career Adaptability——特别是 Control, Curiosity, Confidence。
 
-**Specific Objectives** (by end of 9 sessions, participants will be able to):
-1. Articulate their interests, strengths, and values through structured self-exploration
-2. Integrate their self-knowledge to identify at least one possible direction or area for further exploration
-3. Identify barriers to their career construction and resources available to support them
-4. Practise expressing their thoughts and needs using NVC framework
-5. Commit to at least one specific, values-aligned action step
+**Specific Objectives**（9次结束时参与者能够）：
+1. 表达自己的 interests, strengths, values
+2. 整合自我认识，识别至少一个可能的方向或进一步探索的领域
+3. 识别阻碍自己 career construction 的障碍及可用的支持资源
+4. 使用 NVC 框架练习表达自己的想法和需要
+5. 承诺至少一个具体的、values-aligned 的行动步骤
 
 ### 3. Describe briefly the contents and activities.
 
-Core activities include: RIASEC interest exploration, flow moment recall, strengths/skills inventory, Values Card Sort, possible selves brainstorming, barriers & supports analysis, NVC four-step teaching and role play, Miro collaborative canvas for accumulating a personal Career Construction Map, reflective writing (letter to future self). See Session 1-9 outline above.
+**Contents:**
+
+The programme follows the career construction process (Savickas, 2005) across 9 sessions:
+- Session 1 establishes group safety, assesses members' current state, and activates Career Concern
+- Sessions 2-4 focus on self-exploration: interests (Session 2), strengths/skills (Session 3), and values (Session 4)
+- Session 5 integrates prior discoveries to identify possible directions
+- Session 6 addresses barriers and available supports
+- Session 7 practises self-expression using NVC
+- Session 8 develops a concrete, values-aligned action plan
+- Session 9 integrates the entire journey into a coherent personal narrative
+
+Each session has a primary exploration direction, but discussion is not restricted to a single theme — members may naturally touch on multiple elements during any given session, and this is encouraged (consistent with Amundson's Active Engagement principle of dynamic, non-linear exploration).
+
+**Activities:**
+
+RIASEC interest exploration, flow moment recall, strengths/skills inventory, "朋友眼中的我" peer feedback, Values Card Sort, possible selves brainstorming, barriers & supports analysis, NVC four-step teaching and role play, Miro collaborative canvas (accumulating a personal Career Construction Map), reflective writing (letter to future self), closing ceremony.
 
 ### 4. How many sessions? Timeline?
 
-9 sessions × 2 hours = 18 hours total. Frequency: 2-3 times per week. Timeline: Early June to late June 2026. Individual counselling: 1 hour per member after Session 5-6. Specific schedule based on members' availability.
+9 sessions × 2 hours = 18 hours total. Frequency: 2-3 times per week. Timeline: Early June to late June 2026 (approximately 3-4 weeks). Individual counselling: 1 hour per member (minimum 4 hours total), after Session 5-6. Specific schedule based on members' availability.
 
 ### 5. How will you ensure objectives are measurable and attainable?
 
 **Measurability:**
-- Miro canvas: visible, tangible record of each participant's exploration journey
-- Pre-post: Career Adapt-Abilities Scale (CAAS; Savickas & Porfeli, 2012)
-- Session 9: each participant presents their action plan and reflects on their journey
-- Facilitator observation notes
+
+| 评估什么 | 用什么工具 | 类型 |
+|---|---|---|
+| Career Adaptability 变化 | CAAS 前后测（Savickas & Porfeli, 2012） | 标准化量表 |
+| 自我认识清晰度变化 | 自编 scaling questions（如"我对自己 interests/values/strengths 的了解程度，1-10"）前后对比 | 自评量化 |
+| 具体目标达成 | Session 9 每人口头报告 + Miro 画布成果 | 质性 |
+| NVC 技能 | Session 7 角色扮演表现 + 自我评估 | 质性 |
+| 整体满意度 | 课后反馈问卷（Likert + 开放题） | 混合 |
+| 过程记录 | 带领者每次观察笔记 | 质性 |
+
+注：由于本小组部分目标（如自我认识清晰度）没有对应的标准化量表，采用自编 single-item scaling questions 作为补充。这类简短自评工具在短期团体辅导效果评估中被广泛使用（Corey et al., 2018）。
 
 **Attainability:**
-- Progressive design following CCT's natural sequence (organize → direct → make meaning)
-- Objectives are modest: not "make a final decision" but "understand yourself better, see a direction, take one step"
-- Needs assessment ensures content matches actual participants
+
+- 渐进式设计：遵循 CCT 的自然序列（organize → direct → make meaning），前期建立自我认识，后期指向方向和行动
+- 目标 modest：不期望"做出最终职业决定"，而是"更了解自己、看到方向、迈出一步"
+- 方案内容不是僵化的：通过筛选问卷开放问题和 Session 1 needs check-in 了解真实成员的需求，如发现预设内容与实际不符，将灵活调整后续 session，确保目标对这群具体的人是可达成的
 
 ### 6. Evaluation strategies?
 
-**Formative:** Weekly check-in/out; Miro progress; mid-programme feedback (after Session 5); facilitator notes.
+**Formative（过程性）：**
+- 每次 check-in / check-out
+- Miro 画布进展追踪
+- 中期反馈（Session 5 后）
+- 带领者每次课后观察笔记
 
-**Summative:** Pre-post CAAS; post-programme feedback questionnaire; Session 9 reflection; individual counselling follow-up.
+**Summative（终结性）：**
+- 前后测：CAAS + 自编 self-clarity scaling questions
+- 课后反馈问卷（Likert + 开放题）
+- Session 9 每人反思与行动计划展示
+- Individual counselling 中的个别进展评估
 
 ### 7. Recruitment and selection procedures?
 
-Recruitment via social networks with accessible framing ("你对未来方向感到迷茫吗？"). Brief online screening questionnaire + 10-15 min pre-group conversation. Exclude close friends and those with active psychiatric crisis.
+**Recruitment:**
+- 通过个人交际圈进行招募：向校友、不太熟悉的同学、朋友的朋友等传递招募信息
+- 招募信息用日常语言描述主题，例如："毕业后不知道做什么？对未来的职业方向感到迷茫？正在纠结读研还是工作、留下还是回去？如果你想在一个安全的小组里探索一下自己，欢迎了解。"
+- 为避免 dual relationship，不招募亲密朋友、室友、或与带领者存在权力/利益关系的人
 
-### 8. How are members prepared for the group experience?
+**Selection:**
+- 有意向者填写简短在线筛选问卷：
+  - 基本信息（年龄、现状）
+  - "请简要描述你目前对未来职业/人生方向的感受"（开放题）
+  - "你最希望从这个小组中得到什么？"（开放题）
+  - 排除标准筛查（是否正在接受精神科治疗、是否处于严重心理危机）
+- 10-15 分钟个别预谈（线上），确认适合度、解释小组规则、回答疑问
+- 目标 6 人；如超过 6 人，按经验多样性和投入意愿筛选
 
-1. Informed consent (purpose, structure, confidentiality, recording, withdrawal rights)
-2. Pre-group individual conversation (10-15 min): clarify expectations, address concerns
-3. Information sheet: schedule, Zoom link, Miro tutorial, group norms
-4. Session 1: icebreaker, collaborative norm-setting, needs check-in
+### 8. How are the members going to be prepared for the group experience?
+
+**Pre-group preparation:**
+
+1. **Pre-test（前测）**：成员在正式开始前完成 CAAS 量表 + 自编 self-clarity scaling questions，作为基线数据
+2. **Informed consent（知情同意）**：签署 consent form，包含小组目的、结构、保密规则及其限制、录音政策、退出权利
+3. **Pre-group individual conversation（个别预谈，10-15分钟）**：
+   - 澄清期望（这个小组是什么/不是什么）
+   - 回应成员的顾虑或紧张
+   - 建立初步信任关系
+4. **Information sheet（资料单）**：一页纸说明时间表、Zoom链接、Miro使用简要说明、小组规则
+
+**Session 1 中的准备活动：**
+- 破冰与自我介绍（降低焦虑）
+- 共同建立小组规则（confidentiality, respect, voluntary participation, right to pass）
+- 明确讨论保密及其限制
+- Needs check-in："你为什么来？你希望从这个小组中带走什么？"
+- Concern 评估与激活："关于未来方向，你到目前为止已经做过哪些思考或尝试？"
 
 ---
 
@@ -330,7 +350,8 @@ Recruitment via social networks with accessible framing ("你对未来方向感�
 - [ ] 起草筛选问卷
 - [ ] 起草知情同意书
 - [ ] 准备 Miro 模板
-- [ ] 阅读核心文献（Savickas 2013; Amundson 2018; Rosenberg 2015）
+- [ ] 制作 CAAS + self-clarity 前测问卷
+- [ ] 阅读核心文献（Savickas 2005/2013; Amundson 2018; Rosenberg 2015）
 - [ ] 完成正式 Original Proposal 表格
 - [ ] 提交 Contract Form
 
@@ -343,6 +364,8 @@ Amundson, N. E. (2018). *Active engagement: The being and doing of career counse
 Arnett, J. J. (2000). Emerging adulthood: A theory of development from the late teens through the twenties. *American Psychologist*, 55(5), 469–480.
 
 Cao, H., Zhou, N., Wang, Y., & Liu, Y. (2025). Parental social comparison shaming and Chinese adolescents. *Child Development*, 96(5), 1700–1717.
+
+Corey, M. S., Corey, G., & Corey, C. (2018). *Groups: Process and practice* (10th ed.). Cengage Learning.
 
 Holland, J. L. (1997). *Making vocational choices* (3rd ed.). Psychological Assessment Resources.
 

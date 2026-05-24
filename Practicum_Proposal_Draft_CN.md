@@ -132,6 +132,8 @@ Career counselling 是一个动态、非线性、有创意的过程（河流/划
 
 在本小组中：每个 session 有固定的"锚点活动"（给带领者结构感），但讨论部分是开放的、跟着成员走的。虽然 session 有主题，但不封死——成员可能在做某个活动时自然触及其他 elements，这是被鼓励的。
 
+本小组的活动设计亦参考了香港教育城（HKEdCity）出版的《事業輔導與生涯規劃》教材系列，特别是其中关于事業興趣探索（單元六、七）、生涯價值觀評估（單元八）、個人能力評估（單元九）以及事業輔導面談技巧（單元四）的内容，将这些本地化的生涯辅导方法融入小组活动设计中。
+
 ### 沟通工具：NVC 非暴力沟通 (Rosenberg, 2015)
 
 NVC 是 Marshall Rosenberg 发展的沟通过程，旨在促进慈悲连接和创造性地解决冲突。
@@ -294,7 +296,7 @@ Each session has a primary direction but is not restricted to a single theme —
 
 **活动 / Activities:**
 
-RIASEC 兴趣探索、flow 时刻回忆、优势/技能清单、"朋友眼中的我"同伴反馈、Values Card Sort、Possible selves brainstorm、Barriers & Supports 分析、NVC 四步教学与角色扮演、Miro 协作画布（积累个人 Career Construction Map）、写给未来自己的信、Closing ceremony。
+RIASEC 兴趣探索（参考《事業輔導與生涯規劃》單元六、七的方法）、flow 时刻回忆、优势/技能清单（参考單元九的能力评估方法）、"朋友眼中的我"同伴反馈、Values Card Sort（参考單元八的价值观探索方法）、Possible selves brainstorm、Barriers & Supports 分析、NVC 四步教学与角色扮演、Miro 协作画布（积累个人 Career Construction Map）、写给未来自己的信、Closing ceremony。生涯评估面谈技巧（参考單元四、五）将融入 individual counselling 环节。
 
 ### 4. How many sessions? Timeline?
 
@@ -410,6 +412,8 @@ Cao, H., Zhou, N., Wang, Y., & Liu, Y. (2025). Parental social comparison shamin
 Corey, M. S., Corey, G., & Corey, C. (2018). *Groups: Process and practice* (10th ed.). Cengage Learning.
 
 Holland, J. L. (1997). *Making vocational choices* (3rd ed.). Psychological Assessment Resources.
+
+香港教育城 (HKEdCity). 《事業輔導與生涯規劃》教材系列. Retrieved from https://resources.hkedcity.net/resource_detail.php?rid=912750612
 
 Rogers, C. R. (1957). The necessary and sufficient conditions of therapeutic personality change. *Journal of Consulting Psychology*, 21(2), 95–103.
 

@@ -12,7 +12,7 @@
 
 Many Chinese emerging adults (Arnett, 2000) feel lost about their future career and life direction. The literature links this difficulty to parental overinvolvement, parental psychological control, and broader social uncertainty that intensifies future anxiety (Wang, 2023; Zhao & Li, 2022; Wei et al., 2022; Yu et al., 2026).
 
-Career Construction Theory (CCT; Savickas, 2005, 2013) holds that individuals actively construct their careers through three interpretive and interpersonal processes: organizing themselves, imposing direction on their vocational behaviour, and making meaning of their careers. The difficulties of this target group correspond precisely to disruption across all three of these tasks. The Career Adaptability resources required to carry the tasks out — Concern, Control, Curiosity, and Confidence (Savickas & Porfeli, 2012) — also tend to be weakened in this population, particularly the latter three.
+Career Construction Theory (CCT; Savickas, 2005, 2013) holds that individuals actively construct their careers through three interpretive and interpersonal processes: organizing themselves, imposing direction on their vocational behaviour, and making meaning of their careers. The difficulties of this target group correspond precisely to disruption across all three of these tasks. The reasons vary: some lack self-exploration experience; some are overwhelmed by external expectations; some have stopped exploring under the weight of uncertainty; and some fear the consequences of making a choice. The Career Adaptability resources required to carry the tasks out — Concern, Control, Curiosity, and Confidence (Savickas & Porfeli, 2012) — also tend to be weakened in this population, particularly the latter three.
 
 CCT is chosen as the primary framework because the core problem of these young people is not "which job fits me" (a trait-factor matching question) but "I cannot figure out who I am or where I am going" — precisely the self-construction process CCT addresses. Amundson's (2018) Active Engagement model provides a dynamic, non-linear process principle for the practice. Rosenberg's (2015) Nonviolent Communication (NVC) supports members in expressing themselves to significant others in the later sessions. Rogers' (1957) Person-Centered core conditions ground the safe atmosphere of the group. Meta-analytic evidence (Rudolph et al., 2017) confirms that Career Adaptability can be effectively enhanced through structured intervention.
 
@@ -63,22 +63,11 @@ Throughout the nine sessions, a shared Miro collaborative canvas serves as a vis
 
 **Measurability**
 
-| What is being measured | Tool | Type |
-|---|---|---|
-| Change in Career Adaptability | CAAS pre/post (Savickas & Porfeli, 2012) | Standardised scale |
-| Change in self-clarity | Self-designed scaling questions, e.g. "How well do you know your interests / values / strengths, on a 1–10 scale?" pre/post | Quantitative self-report |
-| Achievement of specific objectives | Each member's verbal report in Session 9 plus their Miro canvas product | Qualitative |
-| NVC skill | Session 7 role-play performance and self-assessment | Qualitative |
-| Overall satisfaction | Post-programme feedback questionnaire (Likert plus open questions) | Mixed |
-| Process tracking | Facilitator's observation notes after each session | Qualitative |
-
-Note: Because some objectives (such as self-clarity) lack a corresponding standardised scale, brief self-designed single-item scaling questions are used as a complement. Such short self-report tools are widely used in evaluating short-term group counselling outcomes (Corey et al., 2018).
+Change in Career Adaptability is measured by administering the Career Adapt-Abilities Scale (CAAS; Savickas & Porfeli, 2012) before and after the programme. Change in self-clarity is captured through self-designed single-item scaling questions (e.g., "How well do you know your interests / values / strengths, on a 1–10 scale?") administered pre and post. Because some objectives — such as self-clarity — lack a corresponding standardised scale, these brief self-report items serve as a practical complement; such short scaling tools are widely used in evaluating short-term group counselling outcomes (Corey et al., 2018). Achievement of the specific objectives is assessed qualitatively through each member's verbal report in Session 9 and the visible product of their Miro canvas. NVC skill development is observed during the Session 7 role-play and through members' self-assessment. Overall satisfaction is gathered via a post-programme feedback questionnaire combining Likert items with open-ended questions. Finally, the facilitator keeps observation notes after each session to track process-level changes throughout the programme.
 
 **Attainability**
 
-- Progressive design: the sessions follow CCT's natural sequence (organize → impose direction → make meaning). Self-knowledge is built first; direction and action come later.
-- Modest objectives: members are not expected to "make a final career decision" by the end. The realistic aim is to know oneself better, see at least one possible direction, and commit to one small step.
-- Flexible content: real members' needs are surfaced through the open questions in the screening questionnaire and the needs check-in in Session 1. If the predesigned content does not match the actual needs of the group, later sessions will be adjusted, so that the objectives remain attainable for the specific people in the room.
+The programme uses a progressive design that follows CCT's natural sequence — organize, then impose direction, then make meaning — so that self-knowledge is built before members are asked to look outward toward direction and action. The objectives are deliberately modest: members are not expected to make a final career decision by the end, but rather to know themselves better, see at least one possible direction, and commit to one small step. The content is also not rigid. Real members' needs are surfaced through the open questions in the screening questionnaire and the needs check-in in Session 1. If the predesigned content does not match the actual needs of the group, later sessions will be adjusted so that the objectives remain attainable for the specific people in the room.
 
 ---
 

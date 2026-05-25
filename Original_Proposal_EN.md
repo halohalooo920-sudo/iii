@@ -62,18 +62,12 @@ Throughout, a shared Miro collaborative canvas accumulates each member's explora
 
 ## 5. How will you ensure objectives are measurable and attainable?
 
-**Measurability**
+**Measurable**
 
-- Career Adaptability change: CAAS pre/post (Savickas & Porfeli, 2012)
-- Self-clarity change: self-designed scaling questions (1–10) pre/post
-- Objective achievement: each member's verbal report + Miro canvas product in Session 9
-- NVC skill: Session 7 role-play observation + self-assessment
-- Overall satisfaction: post-programme feedback questionnaire (Likert + open questions)
-- Process tracking: facilitator observation notes after each session
+- Each objective has a visible indicator of achievement within the sessions: self-knowledge articulation (Obj 1) is evidenced by interests patterns, strengths list, and Top 5 values on each member's Miro canvas; direction identification (Obj 2) by the possible selves they circle in Session 5; barrier/support awareness (Obj 3) by the completed 2×2 map; communication practice (Obj 4) by the Session 7 role-play performance; and committed action (Obj 5) by each member publicly stating a specific step with a deadline in Session 8.
+- Pre/post scaling questions and the CAAS provide quantitative reference points, but the primary evidence of goal attainment is the observable output within the sessions themselves.
 
-Note: Brief single-item scaling questions complement objectives lacking standardised measures; such tools are common in short-term group counselling evaluation (Corey et al., 2018).
-
-**Attainability**
+**Attainable**
 
 - Progressive design follows CCT's natural sequence (organize → impose direction → make meaning); self-knowledge is built before direction and action
 - Objectives are modest: not "make a final career decision" but "know yourself better, see a direction, take one step"

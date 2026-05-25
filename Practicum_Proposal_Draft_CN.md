@@ -43,6 +43,8 @@
 
 Career Construction Theory (CCT) 认为，个体通过解释性和人际性的过程来主动建构自己的 career。这一建构过程包含三个核心任务：(1) 组织自我（organize themselves），(2) 赋予职业行为方向（impose direction on their vocational behavior），(3) 建构生涯意义（make meaning of their careers）（Savickas, 2005）。
 
+> **术语注：** organize / impose direction / make meaning 直接出自 Savickas (2005, p.43) 原文。三者区别：organize = 向内收集素材（我是谁）；impose direction = 从素材中向前提炼方向（往哪走）；make meaning = 向后整合叙事（走过的路对我意味着什么）。
+
 完成这些任务需要 Career Adaptability 资源，即四种心理社会能力（Savickas & Porfeli, 2012）：
 
 | 维度 | Savickas 原文定义 | 核心词 |
@@ -408,7 +410,7 @@ NVC 是 Marshall Rosenberg 发展的沟通过程，旨在促进慈悲连接和�
 |---|---|---|
 | 0:00–0:10 | Check-in | 上周作业 + 此刻状态 |
 | 0:10–0:25 | 个人静观 | 每人独自看自己的 S2-S4 内容 10 分钟，写下："看着这些，我注意到..." 不下结论 |
-| 0:25–0:40 | 简化版 Career Construction Interview 提问（三问） | 带领者引导三个叙事性问题，每人在 Miro 上快速写下关键词：(1) "你小时候最欣赏/崇拜的人物是谁？（真实或虚构皆可）他/她身上最吸引你的特质是什么？" (2) "你最喜欢的一本书/电影/故事？它讲了什么？" (3) "你有没有一句座右铭或经常对自己说的话？"。带领者提示：这三个答案往往暗含你的 life theme——你欣赏的特质可能是你自己想成为的样子（Savickas, 2005, 2013; 参见教材单元四/五：生涯评估面谈） |
+| 0:25–0:40 | 简化版 Career Construction Interview 提问（三问） | 带领者引导三个叙事性问题，每人在 Miro 上快速写下关键词：(1) "你小时候最欣赏/崇拜的人物是谁？（真实或虚构皆可）他/她身上最吸引你的特质是什么？" (2) "你最喜欢的一本书/电影/故事？它讲了什么？" (3) "你有没有一句座右铭或经常对自己说的话？"。带领者提示：这三个答案往往暗含你的 life theme——你欣赏的特质可能是你自己想成为的样子（Savickas, 2005, 2013; 参见教材单元四/五：生涯评估面谈）。注：CCI 三问原为个别咨询工具，此处简化为小组活动，目的是在 interests/strengths/values 之外增加叙事性整合线索 |
 | 0:40–1:00 | Possible selves brainstorm | 用 5 张提示卡，每张 4 分钟，brainstorm 不同方向的"未来的我"（不需要可行/不需要喜欢，只是打开）。目标至少 10 个 possible selves。鼓励把刚才 CCI 三问的线索融入 |
 | 1:00–1:10 | 休息 | |
 | 1:10–1:35 | 三人小组深谈 | 每人挑 2-3 个 possible selves 讲给组员听。听者用提问帮 ta 探索：(1) 这个我，最吸引你的是什么 (2) 它满足了你哪个 value (3) 你身体的反应是什么 (4) 它跟你刚才 CCI 三问里出现的特质有关系吗？ |
@@ -558,6 +560,8 @@ NVC 是 Marshall Rosenberg 发展的沟通过程，旨在促进慈悲连接和�
 - 完成 make meaning：整理这九次的 Career Construction Map
 - 写一封"给未来自己的信"作为意义浓缩
 - 仪式化告别：让小组体验本身被看见、被记住
+
+> **设计说明：** Savickas 原文 make meaning 指对整个 career 经历赋予叙事意义，适用于有工作经验的成人。本小组做的是 micro-level 的 make meaning——整合"这九次探索旅程"本身，而非构建完整 career narrative（成员还没有那个素材）。素材来源：Miro Map S1-S8 产出 + S5 CCI 三问中的 life themes + 小组过程中的 insights。
 
 **预备材料**
 - Miro 模板：每人画布扩展为完整 Career Construction Map（S1-S8 全景视图）

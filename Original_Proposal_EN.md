@@ -10,13 +10,10 @@
 
 ## 1. What is the rationale for designing the group guidance programme?
 
-Many Chinese young people in the emerging-adulthood stage (Arnett, 2000) feel lost about their future career and life direction. The reasons for being stuck vary from person to person: some lack self-exploration experience; some are overwhelmed by parental or societal expectations; some have stopped exploring under the weight of uncertainty; and some fear the consequences of making a choice.
-
-Career Construction Theory (CCT; Savickas, 2005, 2013) offers a lens for understanding these difficulties. CCT holds that individuals actively construct their careers through three interpretive and interpersonal processes — organizing themselves, imposing direction on their vocational behaviour, and making meaning of their careers — and that completing these tasks requires Career Adaptability resources: Concern, Control, Curiosity, and Confidence (Savickas & Porfeli, 2012). 
-
-CCT is chosen as the primary framework because for this group the difficulty runs deeper than not knowing which specific job to pursue. They struggle at a more fundamental level — they have not yet developed a clear sense of who they are, what they care about, or what direction to move in. What they need first is a process that helps them construct self-knowledge (interests, values, strengths), derive a sense of direction from that knowledge, and weave personal meaning from the journey — which is precisely what CCT's three-task framework (organize → impose direction → make meaning) provides.
-
-In practice, the CCT framework is operationalised through Amundson's (2018) Active Engagement principle — a dynamic, non-linear process model that allows sessions to follow members' energy rather than a rigid sequence.
+Many Chinese young people in the emerging-adulthood stage (Arnett, 2000) feel lost about their future career and life direction. The reasons for being stuck vary from person to person: some lack self-exploration; some are overwhelmed by parental or societal expectations; some have stopped exploring under the weight of uncertainty; and some fear the consequences of making a choice.
+Career Construction Theory (CCT; Savickas, 2005, 2013) offers a lens for understanding these difficulties. CCT holds that individuals actively construct their careers through three interpretive and interpersonal processes: organizing themselves, imposing direction on their vocational behaviour, and making meaning of their careers, with career adaptability resources including Concern, Control, Curiosity, and Confidence (Savickas & Porfeli, 2012).
+CCT is chosen as the primary framework because the difficulty of this group runs deeper than knowing which specific job to pursue. Instead, they have not yet developed a clear sense of who they are, what they care about, or what direction to move in. What they need first is a process that helps them construct self-knowledge such as interests, values, strengths (organize), derive a sense of direction from that knowledge (impose direction), and weave personal meaning from the journey (make meaning).
+In practice, the CCT framework works through a dynamic, non-linear process model (Amundson, 2018) that allows sessions to follow members' needs rather than a rigid sequence.
 
 ---
 
@@ -24,17 +21,17 @@ In practice, the CCT framework is operationalised through Amundson's (2018) Acti
 
 **Overall goal**
 
-To facilitate participants' career construction process and enhance their Career Adaptability — particularly Control, Curiosity, and Confidence.
+To facilitate participants' career construction process and enhance their Career Adaptability.
 
 **Specific objectives**
 
-By the end of the nine sessions, participants will be able to:
+By the end of the programme, participants will be able to:
 
 1. Articulate their interests, strengths, and values.
 2. Integrate their self-knowledge to identify at least one possible direction.
 3. Identify barriers that obstruct their career construction and supports available to them.
 4. Practise expressing their thoughts and needs to a significant other using the NVC framework.
-5. Commit to at least one concrete, values-aligned action step.
+5. Commit to at least one concrete action step.
 
 ---
 
@@ -67,11 +64,20 @@ Throughout, a shared Miro collaborative canvas accumulates each member's explora
 
 **Measurability**
 
-Change in Career Adaptability is measured by administering the Career Adapt-Abilities Scale (CAAS; Savickas & Porfeli, 2012) before and after the programme. Change in self-clarity is captured through self-designed single-item scaling questions (e.g., "How well do you know your interests / values / strengths, on a 1–10 scale?") administered pre and post. Because some objectives — such as self-clarity — lack a corresponding standardised scale, these brief self-report items serve as a practical complement; such short scaling tools are widely used in evaluating short-term group counselling outcomes (Corey et al., 2018). Achievement of the specific objectives is assessed qualitatively through each member's verbal report in Session 9 and the visible product of their Miro canvas. NVC skill development is observed during the Session 7 role-play and through members' self-assessment. Overall satisfaction is gathered via a post-programme feedback questionnaire combining Likert items with open-ended questions. Finally, the facilitator keeps observation notes after each session to track process-level changes throughout the programme.
+- Career Adaptability change: CAAS pre/post (Savickas & Porfeli, 2012)
+- Self-clarity change: self-designed scaling questions (1–10) pre/post
+- Objective achievement: each member's verbal report + Miro canvas product in Session 9
+- NVC skill: Session 7 role-play observation + self-assessment
+- Overall satisfaction: post-programme feedback questionnaire (Likert + open questions)
+- Process tracking: facilitator observation notes after each session
+
+Note: Brief single-item scaling questions complement objectives lacking standardised measures; such tools are common in short-term group counselling evaluation (Corey et al., 2018).
 
 **Attainability**
 
-The programme uses a progressive design that follows CCT's natural sequence — organize, then impose direction, then make meaning — so that self-knowledge is built before members are asked to look outward toward direction and action. The objectives are deliberately modest: members are not expected to make a final career decision by the end, but rather to know themselves better, see at least one possible direction, and commit to one small step. The content is also not rigid. Real members' needs are surfaced through the open questions in the screening questionnaire and the needs check-in in Session 1. If the predesigned content does not match the actual needs of the group, later sessions will be adjusted so that the objectives remain attainable for the specific people in the room.
+- Progressive design follows CCT's natural sequence (organize → impose direction → make meaning); self-knowledge is built before direction and action
+- Objectives are modest: not "make a final career decision" but "know yourself better, see a direction, take one step"
+- Content is flexible: real needs are surfaced through screening questionnaire open questions and Session 1 needs check-in; later sessions adjust if predesigned content does not fit
 
 ---
 

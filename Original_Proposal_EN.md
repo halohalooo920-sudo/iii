@@ -10,13 +10,10 @@
 
 ## 1. What is the rationale for designing the group guidance programme?
 
-Many Chinese young people in the emerging-adulthood stage (Arnett, 2000) feel lost about their future career and life direction. The reasons for being stuck vary from person to person: some lack self-exploration experience; some are overwhelmed by parental or societal expectations; some have stopped exploring under the weight of uncertainty; and some fear the consequences of making a choice.
-
-Career Construction Theory (CCT; Savickas, 2005, 2013) offers a lens for understanding these difficulties. CCT holds that individuals actively construct their careers through three interpretive and interpersonal processes — organizing themselves, imposing direction on their vocational behaviour, and making meaning of their careers — and that completing these tasks requires Career Adaptability resources: Concern, Control, Curiosity, and Confidence (Savickas & Porfeli, 2012). 
-
-CCT is chosen as the primary framework because for this group the difficulty runs deeper than not knowing which specific job to pursue. They struggle at a more fundamental level — they have not yet developed a clear sense of who they are, what they care about, or what direction to move in. What they need first is a process that helps them construct self-knowledge (interests, values, strengths), derive a sense of direction from that knowledge, and weave personal meaning from the journey — which is precisely what CCT's three-task framework (organize → impose direction → make meaning) provides.
-
-In practice, the CCT framework is operationalised through Amundson's (2018) Active Engagement principle — a dynamic, non-linear process model that allows sessions to follow members' energy rather than a rigid sequence — and grounded in Rogers' (1957) Person-Centered core conditions as the relational foundation.
+Many Chinese young people in the emerging-adulthood stage (Arnett, 2000) feel lost about their future career and life direction. The reasons for being stuck vary from person to person: some lack self-exploration; some are overwhelmed by parental or societal expectations; some have stopped exploring under the weight of uncertainty; and some fear the consequences of making a choice.
+Career Construction Theory (CCT; Savickas, 2005, 2013) offers a lens for understanding these difficulties. CCT holds that individuals actively construct their careers through three interpretive and interpersonal processes: organizing themselves, imposing direction on their vocational behaviour, and making meaning of their careers, with career adaptability resources including Concern, Control, Curiosity, and Confidence (Savickas & Porfeli, 2012).
+CCT is chosen as the primary framework because the difficulty of this group runs deeper than knowing which specific job to pursue. Instead, they have not yet developed a clear sense of who they are, what they care about, or what direction to move in. What they need first is a process that helps them construct self-knowledge such as interests, values, strengths (organize), derive a sense of direction from that knowledge (impose direction), and weave personal meaning from the journey (make meaning).
+In practice, the CCT framework works through a dynamic, non-linear process model (Amundson, 2018) that allows sessions to follow members’ needs rather than a rigid sequence.
 
 ---
 
@@ -24,17 +21,17 @@ In practice, the CCT framework is operationalised through Amundson's (2018) Acti
 
 **Overall goal**
 
-To facilitate participants' career construction process and enhance their Career Adaptability — particularly Control, Curiosity, and Confidence.
+To facilitate participants' career construction process and enhance their Career Adaptability.
 
 **Specific objectives**
 
-By the end of the nine sessions, participants will be able to:
+By the end of the programme, participants will be able to:
 
 1. Articulate their interests, strengths, and values.
 2. Integrate their self-knowledge to identify at least one possible direction.
 3. Identify barriers that obstruct their career construction and supports available to them.
 4. Practise expressing their thoughts and needs to a significant other using the NVC framework.
-5. Commit to at least one concrete, values-aligned action step.
+5. Commit to at least one concrete action step.
 
 ---
 

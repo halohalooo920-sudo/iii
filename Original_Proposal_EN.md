@@ -10,10 +10,13 @@
 
 ## 1. What is the rationale for designing the group guidance programme?
 
-Many Chinese young people in the emerging-adulthood stage (Arnett, 2000) feel lost about their future career and life direction. The reasons for being stuck vary from person to person: some lack self-exploration; some are overwhelmed by parental or societal expectations; some have stopped exploring under the weight of uncertainty; and some fear the consequences of making a choice.
-Career Construction Theory (CCT; Savickas, 2005, 2013) offers a lens for understanding these difficulties. CCT holds that individuals actively construct their careers through three interpretive and interpersonal processes: organizing themselves, imposing direction on their vocational behaviour, and making meaning of their careers, with career adaptability resources including Concern, Control, Curiosity, and Confidence (Savickas & Porfeli, 2012).
-CCT is chosen as the primary framework because the difficulty of this group runs deeper than knowing which specific job to pursue. Instead, they have not yet developed a clear sense of who they are, what they care about, or what direction to move in. What they need first is a process that helps them construct self-knowledge such as interests, values, strengths (organize), derive a sense of direction from that knowledge (impose direction), and weave personal meaning from the journey (make meaning).
-In practice, the CCT framework works through a dynamic, non-linear process model (Amundson, 2018) that allows sessions to follow members’ needs rather than a rigid sequence.
+Many Chinese young people in the emerging-adulthood stage (Arnett, 2000) feel lost about their future career and life direction. The reasons for being stuck vary from person to person: some lack self-exploration experience; some are overwhelmed by parental or societal expectations; some have stopped exploring under the weight of uncertainty; and some fear the consequences of making a choice.
+
+Career Construction Theory (CCT; Savickas, 2005, 2013) offers a lens for understanding these difficulties. CCT holds that individuals actively construct their careers through three interpretive and interpersonal processes — organizing themselves, imposing direction on their vocational behaviour, and making meaning of their careers — and that completing these tasks requires Career Adaptability resources: Concern, Control, Curiosity, and Confidence (Savickas & Porfeli, 2012). 
+
+CCT is chosen as the primary framework because for this group the difficulty runs deeper than not knowing which specific job to pursue. They struggle at a more fundamental level — they have not yet developed a clear sense of who they are, what they care about, or what direction to move in. What they need first is a process that helps them construct self-knowledge (interests, values, strengths), derive a sense of direction from that knowledge, and weave personal meaning from the journey — which is precisely what CCT's three-task framework (organize → impose direction → make meaning) provides.
+
+In practice, the CCT framework is operationalised through Amundson's (2018) Active Engagement principle — a dynamic, non-linear process model that allows sessions to follow members' energy rather than a rigid sequence.
 
 ---
 
@@ -21,29 +24,31 @@ In practice, the CCT framework works through a dynamic, non-linear process model
 
 **Overall goal**
 
-To facilitate participants' career construction process and enhance their Career Adaptability.
+To facilitate participants' career construction process and enhance their Career Adaptability — particularly Control, Curiosity, and Confidence.
 
 **Specific objectives**
 
-By the end of the programme, participants will be able to:
+By the end of the nine sessions, participants will be able to:
 
 1. Articulate their interests, strengths, and values.
 2. Integrate their self-knowledge to identify at least one possible direction.
 3. Identify barriers that obstruct their career construction and supports available to them.
 4. Practise expressing their thoughts and needs to a significant other using the NVC framework.
-5. Commit to at least one concrete action step.
+5. Commit to at least one concrete, values-aligned action step.
 
 ---
 
 ## 3. Describe briefly the contents and activities.
 
-The programme consists of nine group sessions unfolding along the CCT career construction process.
+The programme consists of nine group sessions structured around CCT's three career construction tasks.
 
-The opening session establishes group safety and norms, conducts a needs check-in, and activates Career Concern. The next sessions move into inward exploration, focusing in turn on interests (e.g., RIASEC discussion and flow-moment recall), strengths and skills (e.g., a skills inventory and a "how friends see me" peer-feedback exercise), and values (e.g., a Values Card Sort).
+In the **organize** phase (Sessions 1–4), members build self-knowledge through structured exploration of interests (e.g., RIASEC discussion, flow-moment recall), strengths (e.g., peer feedback, skills inventory), and values (e.g., Values Card Sort with source-auditing). These sessions primarily target Curiosity and lay the groundwork for Control.
 
-The middle session integrates the accumulated discoveries to identify possible directions and addresses both internal and external barriers along with the supports available to each member. The later sessions introduce the NVC four-component model and use role-play to practise expressing oneself to significant others, then help members develop a concrete, values-aligned small action step. The final session reviews the entire Miro canvas, includes writing a letter to one's future self, and concludes with a brief closing ceremony, completing the meaning-making process.
+In the **impose direction** phase (Sessions 5–8), members integrate their discoveries to identify possible directions, analyse internal and external barriers, practise expressing their needs to significant others using NVC role-play, and commit to a concrete, values-aligned action step. These sessions develop Control and Confidence.
 
-Throughout the nine sessions, a shared Miro collaborative canvas serves as a visual tool. Each member gradually builds their own "self-exploration map," which itself becomes the visible product of career construction. While each session has a primary exploration direction, discussion is not strictly confined to a single theme; members are encouraged to move fluidly across elements, consistent with Amundson's Active Engagement principle.
+In the **make meaning** phase (Session 9), members review their full Career Construction Map, write a letter to their future selves, and close with a brief ceremony — integrating the journey into a coherent personal narrative.
+
+Throughout, a shared Miro collaborative canvas accumulates each member's exploration visually, and discussion is not confined to a single theme per session, consistent with Amundson's Active Engagement principle.
 
 ---
 

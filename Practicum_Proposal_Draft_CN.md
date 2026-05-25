@@ -735,6 +735,56 @@ To facilitate participants' career construction processes and enhance their Care
 
 ---
 
+## 附录：前后测问卷
+
+### A. CAAS-SF 12题中文版
+
+> 来源：基于 Maggiori, Rossier & Savickas (2017) Career Adapt-Abilities Scale-Short Form 英文原题翻译。中文版已在中国样本中验证（Hu et al., 2025, Frontiers in Psychology）。仅用于课程实习效果评估。
+
+**指导语**：请思考你在规划未来职业/人生方向时的情况。每道题评估你目前发展该能力的程度。
+
+评分：1 = 完全没有 | 2 = 较弱 | 3 = 一般 | 4 = 较强 | 5 = 非常强
+
+**Concern（关注）**
+1. 思考我的未来会是什么样子
+2. 意识到今天的选择会影响我的未来
+3. 为未来做准备
+
+**Control（控制）**
+4. 自己为自己做决定
+5. 为自己的行为负责
+6. 坚持自己的信念
+
+**Curiosity（好奇）**
+7. 探索我周围的环境
+8. 寻找机会让自己成长
+9. 在做选择之前先了解各种选项
+
+**Confidence（信心）**
+10. 有效地完成任务
+11. 学习新技能
+12. 发挥自己的能力
+
+---
+
+### B. Self-Clarity Scaling Questions（自编·自我清晰度评分）
+
+**指导语**：请根据你目前的真实感受打分。
+
+评分：1 = 完全不了解/不清楚 → 10 = 非常了解/非常清楚
+
+1. 我对自己的**兴趣**（什么活动让我有能量）了解程度：___/10
+2. 我对自己的**优势**（我擅长什么）了解程度：___/10
+3. 我对自己的**价值观**（什么对我真正重要）了解程度：___/10
+4. 我对未来**方向**的清晰程度（我大概知道往哪走）：___/10
+5. 我对"**下一步做什么**"的信心：___/10
+
+---
+
+> **使用说明**：A + B 合在一起发给成员，前测在 Session 1 之前完成（随 consent form 一起发），后测在 Session 9 结束后当天完成（随反馈问卷一起发）。两次使用完全相同的题目。
+
+---
+
 ## References
 
 Amundson, N. E. (2018). *Active engagement: The being and doing of career counselling* (4th ed.). Ergon Communications.

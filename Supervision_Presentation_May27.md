@@ -62,147 +62,205 @@ Individual counselling is scheduled after Session 5, one hour per member."
 
 ---
 
-## Part 2: Group Activity — Values Card Sort (15-20 minutes)
+## Part 2: Group Activity — 「一天的生活」快速素描 (15-20 minutes)
 
 ### Why this activity?
 
-- 简单易操作，5 个人就能做
+- 视觉化表达绕过理性防御，能画出"说不出来"的东西
 - 不需要事先了解成员（适合 supervision 课上同学之间）
-- 体验感强，能引发真实反思
-- 直接展示 CCT 中 "organize" 阶段的核心工作
-- 完成后有自然的 debrief 话题
+- 直接对应 CCT "impose direction" 阶段的 possible selves 探索
+- 操作极简，只需要纸和笔
+- Debrief 自然连到 values、方向感、当下与理想的差距
+- 线上可操作（Miro 画笔 / 纸上画完举镜头 / 拍照上传）
 
 ---
 
 ### Materials to Prepare (for 5 people)
 
-**你需要提前准备：**
-
-1. **5 套 Values Cards**（每套 30 张，纸质，可以用 A4 纸裁成小卡片）
-   - 每张卡一个词 + 一句简短描述
-   - 下面有 30 个 values 供你选用（比正式 session 的 50 张少，适合 15-20 分钟）
-
-2. **每人一张 A4 纸**，分成三个区域（提前画好或折叠标记）：
-   - 左边：非常重要
-   - 中间：一般
-   - 右边：不太重要
-
-3. **一支笔**（每人一支，用于标记）
+1. **5 张 A4 白纸**
+2. **彩色笔一盒**（或每人 3-4 支不同颜色的笔；黑笔也行，彩色更好）
+3. **手机计时器**
+4. **你自己提前画好的一张示范图**（用于破冰和示范"不需要画得好"）
 
 ---
 
-### 30 张 Values Cards 内容（中英双语，打印用）
+### 你的示范图怎么画（提前准备）
 
-| # | Value | 描述 |
-|---|---|---|
-| 1 | 自主 Autonomy | 能自己做决定，不被别人控制 |
-| 2 | 安全感 Security | 生活稳定，不用担心基本需求 |
-| 3 | 创造力 Creativity | 能创造新的东西或用新方式做事 |
-| 4 | 成就感 Achievement | 完成有挑战的事，感到自己有能力 |
-| 5 | 帮助他人 Helping Others | 对别人的生活产生积极影响 |
-| 6 | 家庭 Family | 和家人保持亲密关系 |
-| 7 | 自由 Freedom | 有选择怎么过日子的空间 |
-| 8 | 学习 Learning | 持续学新东西，保持好奇 |
-| 9 | 冒险 Adventure | 尝试新事物，体验未知 |
-| 10 | 被尊重 Respect | 被别人认真对待和重视 |
-| 11 | 健康 Health | 身心状态良好 |
-| 12 | 诚实 Integrity | 言行一致，做真实的自己 |
-| 13 | 友谊 Friendship | 有深度的朋友关系 |
-| 14 | 独立 Independence | 不依赖别人，自力更生 |
-| 15 | 有意义 Meaning | 做的事情让自己觉得"值得" |
-| 16 | 竞争力 Competence | 在自己的领域做得很好 |
-| 17 | 美 Beauty | 被美的事物包围（自然、艺术、设计） |
-| 18 | 权力 Power | 能影响决定，有话语权 |
-| 19 | 归属感 Belonging | 被某个群体接纳和需要 |
-| 20 | 平衡 Balance | 工作和生活各方面都兼顾 |
-| 21 | 财富 Wealth | 经济上富裕，有充足的钱 |
-| 22 | 乐趣 Fun | 生活里有轻松好玩的时刻 |
-| 23 | 贡献 Contribution | 为社会/世界做出一些贡献 |
-| 24 | 认可 Recognition | 自己的努力被别人看见和肯定 |
-| 25 | 挑战 Challenge | 不断面对和克服难题 |
-| 26 | 灵性 Spirituality | 内在平静，与更大的东西连接 |
-| 27 | 忠诚 Loyalty | 对重要的人和承诺保持忠诚 |
-| 28 | 简单 Simplicity | 生活不复杂，少即是多 |
-| 29 | 影响力 Influence | 能改变别人的想法或行为 |
-| 30 | 成长 Growth | 不断变得更好的自己 |
+用 2 分钟画一张自己的"理想周三"，故意画得很潦草（火柴人+文字标注），展示给大家看的时候说"就是这种程度就够了"。这能消除大家"我不会画画"的顾虑。
 
 ---
 
-### Activity Facilitation Script (15-20 minutes)
+### 详细操作流程 + 完整话术
 
 ---
 
-**Introduction (2 minutes)**
+#### Step 1: 介绍活动 (2 minutes)
 
-"I'd like to invite you to try one of the activities from my programme. This is a Values Card Sort. It's from Session 4, which focuses on helping members clarify what truly matters to them.
+**你说：**
 
-The purpose is not to find the 'right' answer, but to notice what comes up when you're forced to choose. The process itself is the point.
+"接下来我想邀请大家体验一个我 programme 里的活动。这个活动来自我的 Session 4 和 5 之间，目的是帮成员绕过理性分析，用画面去看到自己真正想要的生活方向。
 
-Here's what we'll do:
-1. Sort all 30 cards into three piles: very important, somewhat important, not so important.
-2. Then look at your 'very important' pile and circle the top 5.
-3. Then we'll reflect together.
+我们要做的事情很简单。我会给你一个想象的场景，然后你用画画的方式把它画出来。
 
-One rule: every pile must have at least a few cards. You can't put everything in 'very important.' Follow your gut, don't overthink."
-
----
-
-**Sorting (5 minutes)**
-
-"Go ahead. Sort all 30 cards into three areas on your paper. Take about 5 minutes. Work in silence, follow your first reaction."
-
-*[Let them work. Play soft background music if available. Give a 1-minute warning.]*
+有几个重要的事情要先说：
+- 这不是美术课。火柴人、箭头、圈圈、文字都可以。
+- 没有对错。你画什么都是对的。
+- 不需要给任何人看，除非你自己愿意分享。
+- 待会儿画的时候不说话，静默画。"
 
 ---
 
-**Narrowing Down (3 minutes)**
+#### Step 2: 给出引导语 (1 minute)
 
-"Now look at your 'very important' pile. If you have more than 7 there, that's normal. But I want you to circle or mark the 5 that feel most central to who you are right now. Not who you think you should be, but who you actually are.
+**你说：**
 
-Notice: which one is hardest to let go of? That's probably a core one."
+"现在请拿起笔。闭上眼睛 10 秒钟。
 
----
+想象一下，五年后。所有限制都消失了。钱不是问题，家人完全支持你，社会没有任何评判。
 
-**Reflection & Debrief (8-10 minutes)**
+在这个世界里，五年后一个普通的周三，你从早晨醒来到晚上睡觉，这一天是怎么过的？
 
-"Now let's talk about this. I have a few questions. You don't need to share all 5 unless you want to. Just share what struck you."
+你在哪里？身边有谁？你在做什么？中午呢？下午呢？傍晚呢？
 
-**Questions to ask (pick 2-3 based on time):**
+好，现在睁开眼睛，把这一天画在纸上。不需要按时间顺序，也不需要画满整张纸。画你脑海里最清晰的几个画面就好。
 
-1. "Was there any card that surprised you? One that ended up in 'very important' that you didn't expect?"
-
-2. "Was there any card that you felt you *should* put in 'very important' but your gut said otherwise? Where did that 'should' come from?"
-
-3. "Look at your top 5. Do any of them conflict with each other? For example, 'security' and 'adventure,' or 'family' and 'autonomy'?"
-
-4. "If you think about how you've been spending your time this past month, does it align with your top 5? Or is there a gap?"
+你有 7 分钟。开始。"
 
 ---
 
-**Closing the Activity (1 minute)**
+#### Step 3: 静默画画 (7 minutes)
 
-"In my actual programme, this is where members would write their top values on their Miro canvas, mark which ones came from themselves versus from external voices like parents or society, and identify one pair of values that conflicts. We'd revisit this in later sessions when they make decisions about direction.
+**你做：**
+- 开始计时
+- 自己也可以假装在画（或者安静地观察）
+- **不要走动、不要看别人的、不要说话**
+- 5 分钟时说一次："还有 2 分钟"
+- 7 分钟时说："好，可以停了。如果还想补两笔，再给 30 秒。"
 
-Thank you for trying this. Any questions about the activity or the programme?"
+**万一有人说"我不知道画什么"：**
+- 小声说："从早晨开始。你醒来的时候看到什么？窗外是什么？" 然后走开，不再多说。
 
----
-
----
-
-## Preparation Checklist
-
-- [ ] 打印/裁剪 5 套 values cards（30 张 × 5 套 = 150 张小卡片）
-- [ ] 准备 5 张 A4 纸（每张分三个区域标好：非常重要 / 一般 / 不太重要）
-- [ ] 准备 5 支笔
-- [ ] 熟悉 5 分钟 presentation 稿（不需要背，熟悉逻辑即可）
-- [ ] 熟悉 activity facilitation 流程（主要是掌握引导问题）
-- [ ] 手机计时器（sorting 5 分钟 + narrowing 3 分钟）
+**万一有人一直在犹豫不动笔：**
+- 小声说："随便从一个画面开始，哪怕只是一个地点的名字也行。" 不要给压力。
 
 ---
 
-## Tips
+#### Step 4: 分享 (6-8 minutes)
 
-- Presentation 不需要 PPT。如果想视觉辅助，可以在一张 A4 纸上画出 9 个 session 的简图（organize → direction → meaning）举起来给同学看
-- Activity 的关键不在于卡片分类本身，而在于 debrief 的提问质量。引导问题才是你展示 counselling skills 的地方
-- 如果有人说"我分不了，都很重要"：normalize，然后说"如果只能带 5 个去一个荒岛，你选哪些？"
-- 如果时间不够，可以跳过 narrowing 步骤，直接从"非常重要"那一档开始讨论
+**你说：**
+
+"谢谢大家。现在如果你愿意的话，可以把你的画举起来（或者放桌上让大家看到），用 1-2 分钟跟我们讲讲你画了什么。
+
+不需要讲完整个故事。你可以只说：
+- 这一天里让你最有感觉的一个画面
+- 或者画的时候让你意外的一个东西
+
+谁想先来？"
+
+**引导规则：**
+- 每人控制在 2 分钟以内
+- 其他人只听，不评论、不提建议
+- 你作为带领者只做简短反映，比如："我听到你说 ___"（不分析、不解读）
+
+**如果没人愿意先开始：**
+- 你先展示自己提前画好的那张示范图，讲 1 分钟，然后说"谁接下来？"
+
+**如果某人讲太长（超过 2 分钟）：**
+- 等一个自然停顿点，说："谢谢你的分享。我想确保每个人都有时间，我们先听下一位，待会 debrief 的时候可以继续。"
+
+---
+
+#### Step 5: Debrief 提问 (5-6 minutes)
+
+**你说：**
+
+"好，谢谢大家的分享。现在我想问几个问题。你不用回答所有的，哪个触动你就说哪个。"
+
+**核心提问（按顺序问，根据时间选 2-3 个）：**
+
+**问题 1（必问）：**
+"你画的时候，有没有什么东西是你没有计划要画、但它自己出现了的？"
+
+> 这个问题的目的：捕捉潜意识的信号。很多人会说"我本来没想画 ___，但不知道为什么画了"。
+
+**问题 2（必问）：**
+"看着你的画，如果里面藏着一个对你很重要的 value（你在乎什么样的生活），那会是什么？"
+
+> 这个问题的目的：从具体画面中提取抽象 value。这就是 CCT 中 organize 到 direction 的桥梁。
+
+**问题 3（如果时间够）：**
+"这幅画跟你现在的日常生活，最大的差距是什么？"
+
+**问题 4（如果有人提到冲突或犹豫）：**
+"画里有没有两个东西是矛盾的？比如你画了'一个人在山里'但又画了'和很多朋友在一起'？"
+
+---
+
+**如果有人说"我画不出来 / 我的画很空"：**
+- 你说："空白本身也是信息。你觉得它可能在说什么？是还没想清楚，还是有太多可能性不知道选哪个？"
+
+**如果有人画得很具体（比如"我在某公司上班"）：**
+- 你追问："在那个场景里，让你有感觉的不是公司本身，而是什么？是跟人合作？是解决问题？是被尊重？"（引导从具体职业回到底层 value/需要）
+
+**如果有人情绪被触动（比如眼眶红了）：**
+- 不回避。轻声说："我看到这个对你有触动。你愿意说说是什么让你有感觉吗？" 如果对方摇头，说"没关系，你可以留着这个感觉"然后继续。
+
+**如果有人的画面跟职业完全无关（比如"我在海边遛狗"）：**
+- 完全 OK。你说："你画的不是一份工作，而是一种生活方式。那这种生活方式里最重要的元素是什么？" 这正是 CCT 的精神——career 不只是 job。
+
+---
+
+#### Step 6: 收尾连接到你的 programme (1 minute)
+
+**你说：**
+
+"在我的实际 programme 里，这个活动是在成员已经探索完 interests、strengths、values 之后做的。目的是让他们用一个自由的、非分析性的方式把这些发现综合起来，看看它指向什么方向。
+
+画完之后成员会把这幅画放到 Miro 画布上，在后面的 session 里继续用它——比如在 Session 6 识别'什么在阻碍我走向这幅画'的时候。
+
+谢谢大家参与。有什么问题吗？"
+
+---
+
+### 如果老师问"线上怎么做"
+
+**你的回答：**
+
+"线上有三种做法。第一种是直接在 Miro 上用画笔工具画，简单的线条和文字就够了。第二种是成员在自己桌上的纸上画，画完后举到镜头前讲。第三种是纸上画完后拍照上传到 Miro 个人区域，这样既有手绘的自由感，后续 session 也能继续引用这幅画。我倾向第三种，因为 Miro 上画笔操作对不熟悉的人可能有门槛。"
+
+---
+
+### 如果老师问"你怎么确保能从画里提取 value"
+
+**你的回答：**
+
+"我不需要'确保'。这个活动的目的不是让每个人在 20 分钟内得出一个 value 清单。它的作用是给后续讨论提供素材。如果有人画完后说不出 value，我会问'这幅画里让你最有能量的一个画面是哪个'，然后在后续 session 里慢慢追踪这个线索。Active Engagement 的原则是跟着成员走，不强迫结论。"
+
+---
+
+### 如果老师问"如果成员画不出来怎么办"
+
+**你的回答：**
+
+"我会用分步引导：先让他们只想'早晨醒来看到什么'，一个画面就够。画不出来的人可以写文字代替，或者只画一个符号一个词。关键是降低门槛。在 pre-session 说明里我也会提前告诉成员'下次会有一个画画的活动，不需要美术能力'。"
+
+---
+
+### Preparation Checklist
+
+- [ ] 5 张 A4 白纸
+- [ ] 彩色笔（一盒共享即可，或每人 2-3 支）
+- [ ] 自己提前画好一张示范图（故意画得潦草）
+- [ ] 手机计时器（设 7 分钟）
+- [ ] 熟悉引导语（特别是 Step 2 的想象引导和 Step 5 的 debrief 问题）
+- [ ] 心里准备好各种"万一"的应对话术
+
+---
+
+### Tips
+
+- **你最重要的工作在 debrief，不在画画环节。** 画画环节你只需要安静等待。debrief 的提问质量决定了这个活动的深度。
+- **不要试图帮每个人"找到"他们的 value。** 你的角色是提问和反映，不是分析和总结。
+- **如果有人画面很丰富讲了很多，用一句话反映核心：** "我听到的是，对你来说 ___ 很重要。" 然后继续下一个人。
+- **如果全程气氛很轻松大家在笑，那也完全 OK。** 不是所有深度都要通过严肃来展现。笑着发现自己想要什么也是一种洞察。
+- **最坏的情况：** 大家画完后都不想讲。那你就先讲自己的，然后问"有没有人画了一个让自己意外的东西？" 这个问题几乎 100% 有人会回应。

@@ -16,11 +16,11 @@
 
 **Rationale：为什么选 CCT (1 minute)**
 
-"这群人的困难有一个共同模式。第一，他们搞不清自己是谁，interests、values、strengths 都很模糊。第二，就算有一些自我认识，也没办法从中提炼出方向。第三，他们觉得自己的经历是断裂的、没有意义的。
+"这群人的困难有一个共同模式。第一，他们搞不清自己是谁，interests、values、strengths 都很模糊。第二，就算有一些自我认识，也没办法从中提炼出方向。第三，他们觉得自己的经历是断裂的、没有意义的。文献上，这跟 parental overparenting and psychological control（Wang, 2023; Wei et al., 2022）以及更广泛的 social uncertainty（Sun, 2026）有关。
 
-用 CCT 的术语来讲，这正好对应 Savickas 提出的 career construction 三个核心任务的受阻——organizing the self、imposing direction、making meaning。同时他们的 Career Adaptability 资源，特别是 Control、Curiosity、Confidence 明显偏弱。
+用 CCT 的术语来讲（Savickas, 2019），这正好对应 career construction 三个核心任务的受阻——organizing the self、imposing direction、making meaning。同时他们的 Career Adaptability 资源，特别是 Control、Curiosity、Confidence 明显偏弱。
 
-所以我选 CCT 作为主框架。因为这群人的问题不是'哪个职业适合我'——这是 trait-factor matching 的思路——而是'我搞不清自己是谁、要去哪'，这正是 CCT 关注的 self-construction process。过程上用 Amundson 的 Active Engagement 原则，允许 session 跟着成员的能量走，而不是固定流程。"
+所以我选 CCT 作为主框架。因为这群人的问题不是'哪个职业适合我'——这是 trait-factor matching 的思路——而是'我搞不清自己是谁、要去哪'，这正是 CCT 关注的 self-construction process。CCT 提供的是一个 structured process for building self-knowledge, deriving direction, and weaving meaning。"
 
 ---
 
@@ -49,13 +49,13 @@
 
 最后一次回顾整个 Miro map，写给未来自己的信，做一个 closing ceremony。虽然成员还没有很长的 career 经历可以做 narrative，但可以对'这九次旅程'本身赋予意义。
 
-设计上还有一个原则：每次 session 虽然有主题，但讨论 not confined to a single theme。成员做某个活动时自然触及其他 elements 是被鼓励的，这跟 Amundson 的 Active Engagement 一致。"
+每次 session 虽然有主题，但讨论 not confined to a single theme。成员做某个活动时自然触及其他 elements 是被鼓励的，过程是灵活的、跟着成员走的。"
 
 ---
 
 **Evaluation & Logistics (30 seconds)**
 
-"评估用 CAAS Short Form 前后测加 self-clarity scaling questions，加每次的 facilitator observation notes。招募通过我的个人网络，避免 dual relationship，目标 6 人，6 月初到 6 月下旬完成。Individual counselling 在 Session 5 之后每人 1 小时。"
+"评估用前后测的 self-clarity scaling questions（1-10 分自评 interests/strengths/values/direction/confidence），加 Miro 画布进展追踪，加每次的 facilitator observation notes，加最后一次的 reflection and action plan presentation，以及 individual counselling 中的进展评估。招募通过我的个人网络，避免 dual relationship，目标 6 人，6 月初到 6 月下旬完成。Individual counselling 在 Session 5 之后每人 1 小时。"
 
 ---
 

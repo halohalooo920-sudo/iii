@@ -229,14 +229,12 @@ NVC 是 Marshall Rosenberg 发展的沟通过程，旨在促进慈悲连接和�
 
 **Session 目标**
 - 建立小组心理安全感，成员认识彼此并共同建立 group norms
-- 降低线上小组的距离感，让 Zoom + Miro 工具不再是障碍
 - 完成 needs check-in，听到每个人来这里的真实诉求
 - 激活 Career Concern：让"焦虑的迷茫"转化为"有方向的关注"
 
 **预备材料 / Pre-session prep**
 - Miro 模板：6 个个人区域（每人一块画布，带姓名）+ 一块共享区"我们的小组规则"
-- 提前发送：Zoom 链接、Miro 使用一页纸、small group rules 草稿（用于讨论）
-- 带领者准备：自我介绍稿（包括来意+局限性 disclosure）、一段轻音乐
+- 提前发送：Zoom 链接、Miro instruction、small group rules 草稿（用于讨论）
 
 **详细流程**
 

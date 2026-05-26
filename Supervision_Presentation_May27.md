@@ -2,61 +2,66 @@
 
 ---
 
-## Part 1: 5-Minute Proposal Presentation Script
+## Part 1: 5-Minute Proposal Presentation（中文为主，关键术语英文）
 
-> 以下为口头稿，不需要 PPT，直接讲即可。5 分钟内讲完。
-
----
-
-**Opening (30 seconds)**
-
-"My programme is called 'Self-Exploration and Career Direction for Young Adults Navigating Uncertainty.' It's a 9-session online group for Chinese emerging adults, around age 20 to 28, who feel lost about their future direction."
+> 以下为口头稿。中文讲，关键概念用英文补充。5 分钟内讲完。
 
 ---
 
-**Rationale (1 minute)**
+**开场 (30 seconds)**
 
-"These young people share a common pattern. They haven't developed a clear sense of who they are. They can't translate whatever self-knowledge they have into a direction. And they see their past experiences as fragmented rather than forming a coherent story.
-
-In CCT terms, this maps onto a breakdown across the three tasks of career construction: organizing the self, imposing direction, and making meaning. The adaptability resources they need, particularly Control, Curiosity, and Confidence, are notably weakened.
-
-So CCT is my primary framework because it doesn't just match personality to jobs. It provides a process for building self-knowledge, deriving direction from it, and weaving meaning along the way."
+"我的 programme 叫做'在不确定中探索自我与方向'。对象是 20-28 岁的中国年轻人，他们对未来的职业和人生方向感到迷茫，不知道自己要什么、往哪走。线上小组，9 次，每次 2 小时，用 Zoom 加 Miro 协作画布。"
 
 ---
 
-**Programme Structure (1.5 minutes)**
+**Rationale：为什么选 CCT (1 minute)**
 
-"Nine sessions, two hours each, online via Zoom plus Miro as a collaborative canvas.
+"这群人的困难有一个共同模式。第一，他们搞不清自己是谁，interests、values、strengths 都很模糊。第二，就算有一些自我认识，也没办法从中提炼出方向。第三，他们觉得自己的经历是断裂的、没有意义的。
 
-The structure follows the three CCT tasks:
+用 CCT 的术语来讲，这正好对应 Savickas 提出的 career construction 三个核心任务的受阻——organizing the self、imposing direction、making meaning。同时他们的 Career Adaptability 资源，特别是 Control、Curiosity、Confidence 明显偏弱。
 
-Sessions 1 through 4 focus on *organize*. Members explore their interests through RIASEC discussion and flow moments, their strengths through peer spotting, and their values through a card sort with source-auditing.
-
-Sessions 5 through 8 focus on *impose direction*. Members integrate their discoveries, identify possible selves, analyse barriers and supports, practise expressing their needs using NVC role-play, and commit to a concrete action step.
-
-Session 9 is *make meaning*. Members review their full Miro map, write a letter to their future selves, and close with a brief ceremony.
-
-Throughout, Amundson's Active Engagement principle guides the process. Sessions have an anchor activity for structure, but discussion follows members' energy rather than a fixed script.
-
-Individual counselling is scheduled after Session 5, one hour per member."
+所以我选 CCT 作为主框架。因为这群人的问题不是'哪个职业适合我'——这是 trait-factor matching 的思路——而是'我搞不清自己是谁、要去哪'，这正是 CCT 关注的 self-construction process。过程上用 Amundson 的 Active Engagement 原则，允许 session 跟着成员的能量走，而不是固定流程。"
 
 ---
 
-**Evaluation (30 seconds)**
+**Session Design：怎么从理论推出设计 (2 minutes)**
 
-"I'm using pre-post CAAS Short Form plus self-clarity scaling questions, facilitator observation notes, Miro canvas tracking, and a post-programme feedback questionnaire."
+"我的 session 设计是直接从 CCT 的三个任务推出来的。我把 9 次分成三个阶段：
+
+**第一阶段：Organize（Session 1-4）——向内收集素材。**
+
+这群人最大的问题是不知道自己是谁，所以前四次就是系统地帮他们探索三个 career exploration 的核心 elements：
+
+- Session 2 探索 interests。不是做测评，而是用 RIASEC 作为词汇库讨论，加上 flow moments 回忆——让他们从具体的身体经验里识别'什么让我有能量'。
+- Session 3 探索 strengths。用 Strengths Spotting 互相给反馈，因为很多人看不见自己的优势。
+- Session 4 探索 values。用 Values Card Sort 加来源审视——区分'这是我的 value 还是父母塞给我的'。
+
+每次 session 结束后成员在 Miro 上积累自己的 career construction map，到后面整合时有素材可看。
+
+**第二阶段：Impose Direction（Session 5-8）——从素材中提炼方向并行动。**
+
+- Session 5 是转折点。把前面的 interests、strengths、values 拼在一起看，用简化版的 Career Construction Interview 三问加入叙事线索，然后 brainstorm possible selves。
+- Session 6 面对 barriers 和 supports，用一个四象限表把'动不了'的感觉结构化。
+- Session 7 用 NVC 练习跟重要的人表达自己的想法和需要。这是因为很多中国年轻人卡住的一个重要原因是跟父母沟通不了。
+- Session 8 把方向具体化为一个 14 天内能完成的小行动。
+
+**第三阶段：Make Meaning（Session 9）——整合叙事。**
+
+最后一次回顾整个 Miro map，写给未来自己的信，做一个 closing ceremony。虽然成员还没有很长的 career 经历可以做 narrative，但可以对'这九次旅程'本身赋予意义。
+
+设计上还有一个原则：每次 session 虽然有主题，但讨论 not confined to a single theme。成员做某个活动时自然触及其他 elements 是被鼓励的，这跟 Amundson 的 Active Engagement 一致。"
 
 ---
 
-**Recruitment & Logistics (30 seconds)**
+**Evaluation & Logistics (30 seconds)**
 
-"Members are recruited through my personal network, not close friends. Six members, Mandarin-speaking, screened through an online questionnaire and a brief pre-group conversation. Timeline is early to late June, two to three sessions per week."
+"评估用 CAAS Short Form 前后测加 self-clarity scaling questions，加每次的 facilitator observation notes。招募通过我的个人网络，避免 dual relationship，目标 6 人，6 月初到 6 月下旬完成。Individual counselling 在 Session 5 之后每人 1 小时。"
 
 ---
 
-**Closing (30 seconds)**
+**过渡到 Activity (15 seconds)**
 
-"That's the overview. I'm happy to take questions. And now I'd like to lead you through one of the activities from the programme."
+"以上是整体框架。现在我想带大家体验我其中一个活动。"
 
 ---
 

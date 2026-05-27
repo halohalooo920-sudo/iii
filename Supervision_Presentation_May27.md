@@ -2,270 +2,321 @@
 
 ---
 
-## Part 1: 5-Minute Proposal Presentation（中文为主，关键术语英文）
+# Part 1: Project 大纲速查（供你随时翻看参考）
 
-> 以下为口头稿。中文讲，关键概念用英文补充。5 分钟内讲完。
-
----
-
-**开场 (30 seconds)**
-
-"我的 programme 叫做'在不确定中探索自我与方向'。对象是 20-28 岁的中国年轻人，他们对未来的职业和人生方向感到迷茫，不知道自己要什么、往哪走。线上小组，9 次，每次 2 小时，用 Zoom 加 Miro 协作画布。"
+> 这部分不是用来读的，是给你在被提问时快速定位信息用的。
 
 ---
 
-**Rationale：为什么选 CCT (1 minute)**
+## 基本信息
 
-"这群人的困难有一个共同模式。第一，他们搞不清自己是谁，interests、values、strengths 都很模糊。第二，就算有一些自我认识，也没办法从中提炼出方向。第三，他们觉得自己的经历是断裂的、没有意义的。文献上，这跟 parental overparenting and psychological control（Wang, 2023; Wei et al., 2022）以及更广泛的 social uncertainty（Sun, 2026）有关。
-
-用 CCT 的术语来讲（Savickas, 2019），这正好对应 career construction 三个核心任务的受阻——organizing the self、imposing direction、making meaning。同时他们的 Career Adaptability 资源，特别是 Control、Curiosity、Confidence 明显偏弱。
-
-所以我选 CCT 作为主框架。因为这群人的问题不是'哪个职业适合我'——这是 trait-factor matching 的思路——而是'我搞不清自己是谁、要去哪'，这正是 CCT 关注的 self-construction process。CCT 提供的是一个 structured process for building self-knowledge, deriving direction, and weaving meaning。"
-
----
-
-**Session Design：怎么从理论推出设计 (2 minutes)**
-
-"我的 session 设计是直接从 CCT 的三个任务推出来的。我把 9 次分成三个阶段：
-
-**第一阶段：Organize（Session 1-4）——向内收集素材。**
-
-这群人最大的问题是不知道自己是谁，所以前四次就是系统地帮他们探索三个 career exploration 的核心 elements：
-
-- Session 2 探索 interests。不是做测评，而是用 RIASEC 作为词汇库讨论，加上 flow moments 回忆——让他们从具体的身体经验里识别'什么让我有能量'。
-- Session 3 探索 strengths。用 Strengths Spotting 互相给反馈，因为很多人看不见自己的优势。
-- Session 4 探索 values。用 Values Card Sort 加来源审视——区分'这是我的 value 还是父母塞给我的'。
-
-每次 session 结束后成员在 Miro 上积累自己的 career construction map，到后面整合时有素材可看。
-
-**第二阶段：Impose Direction（Session 5-8）——从素材中提炼方向并行动。**
-
-- Session 5 是转折点。把前面的 interests、strengths、values 拼在一起看，用简化版的 Career Construction Interview 三问加入叙事线索，然后 brainstorm possible selves。
-- Session 6 面对 barriers 和 supports，用一个四象限表把'动不了'的感觉结构化。
-- Session 7 用 NVC 练习跟重要的人表达自己的想法和需要。这是因为很多中国年轻人卡住的一个重要原因是跟父母沟通不了。
-- Session 8 把方向具体化为一个 14 天内能完成的小行动。
-
-**第三阶段：Make Meaning（Session 9）——整合叙事。**
-
-最后一次回顾整个 Miro map，写给未来自己的信，做一个 closing ceremony。虽然成员还没有很长的 career 经历可以做 narrative，但可以对'这九次旅程'本身赋予意义。
-
-每次 session 虽然有主题，但讨论 not confined to a single theme。成员做某个活动时自然触及其他 elements 是被鼓励的，过程是灵活的、跟着成员走的。"
+- **题目**：在不确定中探索自我与方向
+- **对象**：20-28岁中文背景 emerging adults（大学生/研究生/刚毕业），对未来方向迷茫
+- **人数**：6人
+- **形式**：线上 Zoom + Miro 协作画布
+- **结构**：9次 × 2小时 = 18小时
+- **频率**：每周2-3次，6月初至6月下旬（约3-4周）
+- **Individual counselling**：Session 5 之后，每人1小时
+- **理论框架**：Career Construction Theory (Savickas, 2019)
+- **Counselling stance**：Person-Centered (Rogers, 1957)
+- **沟通工具**：NVC (Rosenberg, 2015) — 用于 Session 7
 
 ---
 
-**Evaluation & Logistics (30 seconds)**
+## 群体困难（为什么需要这个小组）
 
-"评估用前后测的 self-clarity scaling questions（1-10 分自评 interests/strengths/values/direction/confidence），加 Miro 画布进展追踪，加每次的 facilitator observation notes，加最后一次的 reflection and action plan presentation，以及 individual counselling 中的进展评估。招募通过我的个人网络，避免 dual relationship，目标 6 人，6 月初到 6 月下旬完成。Individual counselling 在 Session 5 之后每人 1 小时。"
+文献背景：
+- 父母过度教养与心理控制 → career indecision（Wang, 2023; Wei et al., 2022）
+- 社会不确定性 → future anxiety（Sun, 2026）
 
----
+困难的共同模式（对应 CCT 三任务）：
+1. **Organize 受阻**：搞不清自己是谁（interests/values/strengths 模糊）
+2. **Impose direction 受阻**：有一点自我认识也提炼不出方向
+3. **Make meaning 受阻**：觉得经历断裂、没有意义
 
-**过渡到 Activity (15 seconds)**
-
-"以上是整体框架。现在我想带大家体验我其中一个活动。"
-
----
-
----
-
-## Part 2: Group Activity — 「一天的生活」快速素描 (15-20 minutes)
-
-### Why this activity?
-
-- 视觉化表达绕过理性防御，能画出"说不出来"的东西
-- 不需要事先了解成员（适合 supervision 课上同学之间）
-- 直接对应 CCT "impose direction" 阶段的 possible selves 探索
-- 操作极简，只需要纸和笔
-- Debrief 自然连到 values、方向感、当下与理想的差距
-- 线上可操作（Miro 画笔 / 纸上画完举镜头 / 拍照上传）
+Career Adaptability 资源偏弱（特别是 Control, Curiosity, Confidence）
 
 ---
 
-### Materials to Prepare (for 5 people)
+## 为什么选 CCT
 
-1. **5 张 A4 白纸**
-2. **彩色笔一盒**（或每人 3-4 支不同颜色的笔；黑笔也行，彩色更好）
-3. **手机计时器**
-4. **你自己提前画好的一张示范图**（用于破冰和示范"不需要画得好"）
-
----
-
-### 你的示范图怎么画（提前准备）
-
-用 2 分钟画一张自己的"理想周三"，故意画得很潦草（火柴人+文字标注），展示给大家看的时候说"就是这种程度就够了"。这能消除大家"我不会画画"的顾虑。
+- 这群人的核心问题不是"哪个职业适合我"（trait-factor matching），而是"我搞不清自己是谁、要去哪"
+- CCT 关注的是 self-construction process：通过 organize → impose direction → make meaning 主动建构 career
+- CCT 提供的是一个 structured process for building self-knowledge, deriving direction, and weaving meaning
 
 ---
 
-### 详细操作流程 + 完整话术
+## Session 设计逻辑
+
+| 阶段 | Session | CCT 任务 | 核心活动 | 为什么选这个活动 |
+|---|---|---|---|---|
+| **Organize** | 1 | — | 破冰、Norms、Needs check-in、现状地图 | 建立安全感 + 激活 Concern |
+| | 2 | Organize | RIASEC 讨论 + Flow moments | 从身体经验识别 interests（不是做测评） |
+| | 3 | Organize | Strengths Spotting | 线上陌生人也能互相观察到的优势 |
+| | 4 | Organize | Values Card Sort + 来源审视 | 区分"我的 value"vs"父母塞给我的" |
+| **Direction** | 5 | Organize→Direction | 整合 + CCI 三问 + Possible selves | 从素材中提炼方向 |
+| | 6 | Impose direction | Barriers & Supports 四象限表 | 把"动不了"结构化 |
+| | 7 | Impose direction | NVC 四步 + 角色扮演 | 练习跟重要的人表达自己 |
+| | 8 | Impose direction | Values-aligned action plan | 一个14天内能完成的小步 |
+| **Meaning** | 9 | Make meaning | 回顾 Miro map + 给未来自己的信 | 整合叙事 |
 
 ---
 
-#### Step 1: 介绍活动 (2 minutes)
+## Evaluation（评估策略）
 
-**你说：**
-
-"接下来我想邀请大家体验一个我 programme 里的活动。这个活动来自我的 Session 4 和 5 之间，目的是帮成员绕过理性分析，用画面去看到自己真正想要的生活方向。
-
-我们要做的事情很简单。我会给你一个想象的场景，然后你用画画的方式把它画出来。
-
-有几个重要的事情要先说：
-- 这不是美术课。火柴人、箭头、圈圈、文字都可以。
-- 没有对错。你画什么都是对的。
-- 不需要给任何人看，除非你自己愿意分享。
-- 待会儿画的时候不说话，静默画。"
+| 工具 | 时间点 |
+|---|---|
+| Self-clarity scaling questions（5题，1-10分） | 前测 + 后测 |
+| Miro 画布进展追踪 | 每次 session |
+| Facilitator observation notes | 每次 session 后 |
+| 成员 reflection & action plan | 最后一次 session |
+| Individual counselling 中的进展 | Session 5 之后 |
 
 ---
 
-#### Step 2: 给出引导语 (1 minute)
+## Recruitment
 
-**你说：**
-
-"现在请拿起笔。闭上眼睛 10 秒钟。
-
-想象一下，五年后。所有限制都消失了。钱不是问题，家人完全支持你，社会没有任何评判。
-
-在这个世界里，五年后一个普通的周三，你从早晨醒来到晚上睡觉，这一天是怎么过的？
-
-你在哪里？身边有谁？你在做什么？中午呢？下午呢？傍晚呢？
-
-好，现在睁开眼睛，把这一天画在纸上。不需要按时间顺序，也不需要画满整张纸。画你脑海里最清晰的几个画面就好。
-
-你有 7 分钟。开始。"
+- 通过个人网络招募（校友、不太熟的同学、朋友的朋友）
+- 避免 dual relationship（不招亲密朋友/室友/权力关系）
+- 筛选问卷 + 10-15分钟 pre-group conversation
 
 ---
 
-#### Step 3: 静默画画 (7 minutes)
+## 跟同组同学（叙事方案）的区别
 
-**你做：**
-- 开始计时
-- 自己也可以假装在画（或者安静地观察）
-- **不要走动、不要看别人的、不要说话**
-- 5 分钟时说一次："还有 2 分钟"
-- 7 分钟时说："好，可以停了。如果还想补两笔，再给 30 秒。"
-
-**万一有人说"我不知道画什么"：**
-- 小声说："从早晨开始。你醒来的时候看到什么？窗外是什么？" 然后走开，不再多说。
-
-**万一有人一直在犹豫不动笔：**
-- 小声说："随便从一个画面开始，哪怕只是一个地点的名字也行。" 不要给压力。
+| | 他（重写生涯故事） | 我（探索自我与方向） |
+|---|---|---|
+| CCT 侧重 | Make meaning + narrative | Organize + Impose direction |
+| Counselling theory | Narrative Therapy | Person-Centered |
+| 核心活动 | 讲故事、解构、重写 | 自我探索（interests/strengths/values）→ 整合 → 行动 |
+| 产出 | 新的 life narrative | Career Construction Map（Miro 可视化） |
 
 ---
 
-#### Step 4: 分享 (6-8 minutes)
+---
 
-**你说：**
+# Part 2: Presentation 稿（中文，核心概念英文标注）
 
-"谢谢大家。现在如果你愿意的话，可以把你的画举起来（或者放桌上让大家看到），用 1-2 分钟跟我们讲讲你画了什么。
-
-不需要讲完整个故事。你可以只说：
-- 这一天里让你最有感觉的一个画面
-- 或者画的时候让你意外的一个东西
-
-谁想先来？"
-
-**引导规则：**
-- 每人控制在 2 分钟以内
-- 其他人只听，不评论、不提建议
-- 你作为带领者只做简短反映，比如："我听到你说 ___"（不分析、不解读）
-
-**如果没人愿意先开始：**
-- 你先展示自己提前画好的那张示范图，讲 1 分钟，然后说"谁接下来？"
-
-**如果某人讲太长（超过 2 分钟）：**
-- 等一个自然停顿点，说："谢谢你的分享。我想确保每个人都有时间，我们先听下一位，待会 debrief 的时候可以继续。"
+> 以下是你要讲的内容。不用背，熟悉逻辑和关键词即可。到时候看着 Part 1 的表格自由讲。
 
 ---
 
-#### Step 5: Debrief 提问 (5-6 minutes)
+## 开场
 
-**你说：**
-
-"好，谢谢大家的分享。现在我想问几个问题。你不用回答所有的，哪个触动你就说哪个。"
-
-**核心提问（按顺序问，根据时间选 2-3 个）：**
-
-**问题 1（必问）：**
-"你画的时候，有没有什么东西是你没有计划要画、但它自己出现了的？"
-
-> 这个问题的目的：捕捉潜意识的信号。很多人会说"我本来没想画 ___，但不知道为什么画了"。
-
-**问题 2（必问）：**
-"看着你的画，如果里面藏着一个对你很重要的 value（你在乎什么样的生活），那会是什么？"
-
-> 这个问题的目的：从具体画面中提取抽象 value。这就是 CCT 中 organize 到 direction 的桥梁。
-
-**问题 3（如果时间够）：**
-"这幅画跟你现在的日常生活，最大的差距是什么？"
-
-**问题 4（如果有人提到冲突或犹豫）：**
-"画里有没有两个东西是矛盾的？比如你画了'一个人在山里'但又画了'和很多朋友在一起'？"
+"我的小组叫做'在不确定中探索自我与方向'。对象是 20-28 岁对未来方向感到迷茫的中国年轻人。线上小组，9 次，每次 2 小时，Zoom 加 Miro。"
 
 ---
 
-**如果有人说"我画不出来 / 我的画很空"：**
-- 你说："空白本身也是信息。你觉得它可能在说什么？是还没想清楚，还是有太多可能性不知道选哪个？"
+## Rationale：为什么需要这个小组 + 为什么选 CCT
 
-**如果有人画得很具体（比如"我在某公司上班"）：**
-- 你追问："在那个场景里，让你有感觉的不是公司本身，而是什么？是跟人合作？是解决问题？是被尊重？"（引导从具体职业回到底层 value/需要）
+"这群年轻人有一个共同的困难模式。
 
-**如果有人情绪被触动（比如眼眶红了）：**
-- 不回避。轻声说："我看到这个对你有触动。你愿意说说是什么让你有感觉吗？" 如果对方摇头，说"没关系，你可以留着这个感觉"然后继续。
+第一，他们搞不清自己是谁。他们的 interests、values、strengths 都很模糊，问他'你喜欢什么'，他说不出来。
 
-**如果有人的画面跟职业完全无关（比如"我在海边遛狗"）：**
-- 完全 OK。你说："你画的不是一份工作，而是一种生活方式。那这种生活方式里最重要的元素是什么？" 这正是 CCT 的精神——career 不只是 job。
+第二，就算有一点自我认识，他们也没办法从中提炼出方向。'我好像喜欢很多东西，但不知道往哪走。'
 
----
+第三，他们觉得自己过去的经历是断裂的、随波逐流的，没有一个 coherent story。
 
-#### Step 6: 收尾连接到你的 programme (1 minute)
+文献上来看，这跟 parental overparenting and psychological control（Wang, 2023; Wei et al., 2022）以及更广泛的 social uncertainty（Sun, 2026）有关。
 
-**你说：**
+用 CCT 来分析（Savickas, 2019），这正好对应 career construction 的三个核心任务全部受阻——organizing the self、imposing direction、making meaning。同时他们的 Career Adaptability 资源，尤其是 Control、Curiosity、Confidence 明显偏弱。
 
-"在我的实际 programme 里，这个活动是在成员已经探索完 interests、strengths、values 之后做的。目的是让他们用一个自由的、非分析性的方式把这些发现综合起来，看看它指向什么方向。
-
-画完之后成员会把这幅画放到 Miro 画布上，在后面的 session 里继续用它——比如在 Session 6 识别'什么在阻碍我走向这幅画'的时候。
-
-谢谢大家参与。有什么问题吗？"
+所以我选 CCT 作为主框架。因为他们的问题不是'哪个工作适合我'——那是 trait-factor matching 的思路。他们的问题是'我搞不清自己是谁、要去哪'。这正是 CCT 关注的 self-construction process。CCT 提供的是一个 structured process：先帮你建构自我认识，再从中 derive 方向，最后 weave meaning。"
 
 ---
 
-### 如果老师问"线上怎么做"
+## Session Design：怎么从理论推出具体设计
 
-**你的回答：**
+"我的 9 次 session 是直接从 CCT 的三个任务推导出来的。不是随便安排活动，每一步都有理论依据。
 
-"线上有三种做法。第一种是直接在 Miro 上用画笔工具画，简单的线条和文字就够了。第二种是成员在自己桌上的纸上画，画完后举到镜头前讲。第三种是纸上画完后拍照上传到 Miro 个人区域，这样既有手绘的自由感，后续 session 也能继续引用这幅画。我倾向第三种，因为 Miro 上画笔操作对不熟悉的人可能有门槛。"
+**第一阶段，Organize（Session 1-4），向内收集素材。**
+
+他们最大的问题是不知道自己是谁，所以我用了四次来系统探索 career exploration 的核心 elements：
+
+- Session 2 探 interests。我不做测评，而是用 RIASEC 作为词汇库来讨论，加上 flow moments 回忆。为什么？因为对迷茫的人来说，'你喜欢什么'这个问题太抽象了。但是'上一次你忘了时间在做什么'，这个他们答得出来。从身体经验出发比从头脑分析出发更有效。
+
+- Session 3 探 strengths。我用 Strengths Spotting——组员基于前两次互动中观察到的行为互相给反馈。为什么用这个而不是问'你觉得自己擅长什么'？因为这群人自我评价通常是偏低的，'我没什么擅长的'。别人的视角能打破这个盲点。
+
+- Session 4 探 values。用 Values Card Sort 加上来源审视。来源审视是这个活动的核心——不只是'你在乎什么'，而是'这到底是你自己的 value，还是父母/社会塞给你的'。对中国年轻人来说，这一步特别关键。
+
+每次 session 完成后成员在 Miro 上积累自己的 career construction map。到 Session 5 的时候，他们已经有素材可以看了。
+
+**第二阶段，Impose Direction（Session 5-8），从素材中提炼方向并行动。**
+
+- Session 5 是整合转折点。把前面的 interests、strengths、values 拼在一起看，加上简化版 Career Construction Interview 三问（崇拜的人物、最爱的故事、座右铭）作为叙事线索，然后 brainstorm possible selves。
+
+- Session 6 面对 barriers 和 supports。用一个四象限表——内部 barriers、外部 barriers、内部 supports、外部 supports——把模糊的'我动不了'结构化成可分析的因素。
+
+- Session 7 用 NVC 的四步过程练习跟重要的人表达想法和需要。为什么有这一步？因为很多中国年轻人的 career indecision 不纯粹是内在问题，还涉及外部关系——他们不知道怎么跟父母说'我不想走你安排的路'。NVC 给他们一个框架来组织这段对话。
+
+- Session 8 把方向具体化为一个 14 天内能完成的 values-aligned action step。不是'找到工作'，而是'周三约一个人聊 15 分钟'——小到能开始。
+
+**第三阶段，Make Meaning（Session 9）。**
+
+回顾整个 Miro map，写一封给未来自己的信，做 closing ceremony。虽然成员还没有长期 career 经历可以做完整 narrative，但可以对'这九次旅程本身'赋予意义——'我是怎样从不知道自己是谁，走到现在能看到一个方向的'。
+
+过程上，每次 session 虽然有锚点活动和主题，但讨论不被限制在单一主题里。成员在做某个活动时自然触及其他 elements 是被鼓励的。过程是灵活的，跟着成员的状态和能量走。"
 
 ---
 
-### 如果老师问"你怎么确保能从画里提取 value"
+## Evaluation
 
-**你的回答：**
+"评估不用标准化量表作为主要工具。我用的是：
 
-"我不需要'确保'。这个活动的目的不是让每个人在 20 分钟内得出一个 value 清单。它的作用是给后续讨论提供素材。如果有人画完后说不出 value，我会问'这幅画里让你最有能量的一个画面是哪个'，然后在后续 session 里慢慢追踪这个线索。Active Engagement 的原则是跟着成员走，不强迫结论。"
-
----
-
-### 如果老师问"如果成员画不出来怎么办"
-
-**你的回答：**
-
-"我会用分步引导：先让他们只想'早晨醒来看到什么'，一个画面就够。画不出来的人可以写文字代替，或者只画一个符号一个词。关键是降低门槛。在 pre-session 说明里我也会提前告诉成员'下次会有一个画画的活动，不需要美术能力'。"
+- 前后测的 self-clarity scaling questions，5 题，1-10 分自评 interests/strengths/values/direction/confidence 的清晰程度
+- 每次 session 追踪 Miro 画布的进展
+- 我自己每次课后写 observation notes
+- 最后一次 session 每人做 reflection 和 action plan 展示
+- 加上 individual counselling 中的个别进展评估"
 
 ---
 
-### Preparation Checklist
+## Recruitment & Logistics
+
+"通过我的个人网络招募，避免 dual relationship。6 人，普通话，线上。筛选问卷加上 10-15 分钟 pre-group conversation。6 月初开始，6 月下旬结束。Individual counselling 在 Session 5 之后安排。"
+
+---
+
+## Counselling Theory
+
+"我的 counselling stance 是 Person-Centered。整个小组建立在 Rogers 的核心条件上——unconditional positive regard、congruence、empathic understanding。这不是某一个 session 的内容，而是贯穿 9 次的态度。成员能够在不被评判的环境里自由探索，这本身就是 CCT 里 career construction 发生的条件。"
+
+---
+
+## 过渡到 Activity
+
+"以上是整体框架。接下来我想带大家体验我其中一个活动，来自 Session 4-5 之间的 possible selves 探索。"
+
+---
+
+---
+
+# Part 3: Activity —「一天的生活」快速素描 (15-20 minutes)
+
+---
+
+## Materials
+
+1. 5 张 A4 白纸
+2. 彩色笔一盒（或每人几支不同颜色笔）
+3. 手机计时器
+4. 你自己提前画好的一张示范图（火柴人级别，故意潦草）
+
+---
+
+## 操作流程 + 话术
+
+---
+
+### Step 1: 介绍 (2 min)
+
+"接下来我想邀请大家体验我 programme 里的一个活动。这个活动放在成员已经探索完 interests、strengths、values 之后，目的是帮他们用一个非分析性的方式，把前面的发现综合起来，看看它指向什么方向。
+
+我们要做的很简单：我给一个想象场景，你用画画的方式画出来。
+
+几个重要规则：
+- 不是美术课，火柴人、箭头、文字都可以
+- 没有对错
+- 不需要给别人看除非你自己愿意
+- 画的时候不说话，静默画"
+
+---
+
+### Step 2: 引导语 (1 min)
+
+"拿起笔。闭上眼睛 10 秒。
+
+想象五年后。所有限制都消失了。钱不是问题，家人完全支持你，社会没有评判。
+
+五年后一个普通的周三，你从早晨醒来到晚上睡觉，这一天怎么过的？
+
+你在哪里？身边有谁？在做什么？中午呢？下午呢？傍晚呢？
+
+好，睁开眼，把这一天画在纸上。画你脑海里最清晰的几个画面。7 分钟。开始。"
+
+---
+
+### Step 3: 静默画画 (7 min)
+
+- 计时，不说话，不走动，不看别人的
+- 5分钟时："还有 2 分钟"
+- 7分钟："好，可以停了。想补两笔再给 30 秒"
+
+如果有人说"不知道画什么"→ 小声说"从早晨开始，你醒来看到什么？" 然后走开
+
+如果有人不动笔 → "随便从一个画面开始，哪怕一个地名也行"
+
+---
+
+### Step 4: 分享 (6-8 min)
+
+"如果愿意的话，把画举起来或放桌上，用 1-2 分钟讲：这一天里让你最有感觉的一个画面，或者画的时候让你意外的东西。谁先来？"
+
+- 每人 ≤ 2分钟
+- 其他人只听，不评论
+- 你只做简短反映："我听到你说___"
+- 没人先来 → 你先展示自己那张丑丑的示范图
+- 有人讲太长 → "谢谢，我们先听下一位"
+
+---
+
+### Step 5: Debrief (5-6 min)
+
+"现在问几个问题，触动你的就回应。"
+
+**必问：** "你画的时候，有没有什么东西是你没计划画、但它自己出现了的？"
+
+**必问：** "如果这幅画里藏着一个对你很重要的 value（你在乎什么样的生活），那是什么？"
+
+**选问：** "这幅画跟你现在的日常生活，最大的差距是什么？"
+
+**选问：** "画里有没有两个东西是矛盾的？"
+
+---
+
+#### 各种情况的应对
+
+| 情况 | 你的回应 |
+|---|---|
+| "我画不出来/画很空" | "空白也是信息。你觉得它在说什么？是还没想清楚，还是选项太多？" |
+| 画得很具体（某公司/某职位） | "让你有感觉的不是公司本身，而是什么？是跟人合作？解决问题？被尊重？" |
+| 有人情绪被触动 | "我看到这对你有触动。你愿意说说是什么让你有感觉吗？"（摇头→"没关系，可以留着"） |
+| 画面跟职业无关（海边遛狗） | "你画的不是一份工作，是一种生活方式。这种方式里最重要的元素是什么？" |
+| 说不出 value | "不急。你画里让你最有能量的那个画面是哪个？" |
+
+---
+
+### Step 6: 收尾 (1 min)
+
+"在我的 programme 里，这个活动完成后成员会把画上传到 Miro。后面的 session 里继续用——比如 Session 6 识别'什么在阻碍我走向这幅画'。谢谢大家，有什么问题？"
+
+---
+
+## 如果老师提问
+
+**"线上怎么做？"**
+→ "三种：Miro 画笔直接画；纸上画完举镜头前；纸上画完拍照上传 Miro。我倾向第三种。"
+
+**"怎么确保能提取 value？"**
+→ "不需要确保。这个活动是给后续讨论提供素材，不是要当场得出结论。说不出的人，我追踪'让你最有能量的那个画面'就好。"
+
+**"画不出来怎么办？"**
+→ "分步引导：先只想早晨醒来看到什么。可以写文字代替。提前告知成员下次有画画活动，不需要美术能力。"
+
+**"你的 counselling theory 是什么？"**
+→ "Person-Centered。Rogers 的核心条件贯穿整个 programme，不是某一个 session 的内容，而是小组氛围的基础。成员在不被评判的环境里自由探索，这本身就是 career construction 发生的条件。"
+
+**"你跟那个叙事方案有什么区别？"**
+→ "我们都用 CCT，但侧重不同。他聚焦 make meaning 层面，用 Narrative Therapy 帮成员重写生涯故事。我聚焦 organize 和 impose direction 层面，帮成员从零开始建构自我认识，再整合成方向。起点、过程、活动、产出都不一样。"
+
+---
+
+## Preparation Checklist
 
 - [ ] 5 张 A4 白纸
-- [ ] 彩色笔（一盒共享即可，或每人 2-3 支）
-- [ ] 自己提前画好一张示范图（故意画得潦草）
-- [ ] 手机计时器（设 7 分钟）
-- [ ] 熟悉引导语（特别是 Step 2 的想象引导和 Step 5 的 debrief 问题）
-- [ ] 心里准备好各种"万一"的应对话术
-
----
-
-### Tips
-
-- **你最重要的工作在 debrief，不在画画环节。** 画画环节你只需要安静等待。debrief 的提问质量决定了这个活动的深度。
-- **不要试图帮每个人"找到"他们的 value。** 你的角色是提问和反映，不是分析和总结。
-- **如果有人画面很丰富讲了很多，用一句话反映核心：** "我听到的是，对你来说 ___ 很重要。" 然后继续下一个人。
-- **如果全程气氛很轻松大家在笑，那也完全 OK。** 不是所有深度都要通过严肃来展现。笑着发现自己想要什么也是一种洞察。
-- **最坏的情况：** 大家画完后都不想讲。那你就先讲自己的，然后问"有没有人画了一个让自己意外的东西？" 这个问题几乎 100% 有人会回应。
+- [ ] 彩色笔
+- [ ] 自己提前画好一张示范图（故意潦草）
+- [ ] 手机计时器（7分钟）
+- [ ] 通读 Part 2 presentation 稿，熟悉逻辑
+- [ ] 心里过一遍 debrief 的几个提问
+- [ ] 心里过一遍"老师可能问的问题"的回答

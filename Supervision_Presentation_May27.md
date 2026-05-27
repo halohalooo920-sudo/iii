@@ -303,8 +303,16 @@ Career Adaptability 资源偏弱（特别是 Control, Curiosity, Confidence）
 **"画不出来怎么办？"**
 → "分步引导：先只想早晨醒来看到什么。可以写文字代替。提前告知成员下次有画画活动，不需要美术能力。"
 
-**"你的 counselling theory 是什么？"**
-→ "Person-Centered。Rogers 的核心条件贯穿整个 programme，不是某一个 session 的内容，而是小组氛围的基础。成员在不被评判的环境里自由探索，这本身就是 career construction 发生的条件。"
+**"你的 counselling theory 是什么？它怎么 function？"**
+→ "Person-Centered。它不是一个抽象态度，在我的设计里有具体的操作体现：
+
+- Session 1 的 group norms 是成员自己共建的，不是我单方面定规则。成员从第一分钟就感受到'我的需要被尊重'。
+- 整个 programme 的分享环节都遵守'不给建议'原则（除非对方明确要）。成员感受到'我被信任能自己找到答案'。
+- Values Card Sort 做完后我不说'这个好那个不好'，而是问'这是谁的 value'，然后说'保留也行放下也行'。这就是 unconditional positive regard——不管选什么放下什么，我都不评判。
+- Debrief 我只用反映和开放提问（'我听到你说___'），不做分析和解读。这是 empathic understanding 在 action。
+- 每个活动都有 right to pass，'画不出来也 OK'，'空白也是信息'。这是 congruence——我真的相信每个人节奏不同。
+
+这些加在一起，成员从第一次到最后一次都感受到：没人评判我、没人替我做决定、我被信任能自己走到自己的答案。Rogers 说 therapeutic change 的条件是 counsellor 提供核心条件让 client 的 self-exploration 自然发生——我的 programme 就是这样设计的。CCT 的 career construction 需要一个安全的环境才能发生，Person-Centered 提供的就是这个环境。"
 
 **"你跟那个叙事方案有什么区别？"**
 → "我们都用 CCT，但侧重不同。他聚焦 make meaning 层面，用 Narrative Therapy 帮成员重写生涯故事。我聚焦 organize 和 impose direction 层面，帮成员从零开始建构自我认识，再整合成方向。起点、过程、活动、产出都不一样。"

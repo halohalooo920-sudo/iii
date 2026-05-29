@@ -56,11 +56,11 @@
 | 0:00–0:15 | Self-introduction + Icebreaker | Each person 2 min: name, current status, why here |
 | 0:15–0:35 | Group norms co-creation | Sticky notes on Miro: "What do I need to feel safe to share?" |
 | 0:35–0:45 | Confidentiality & recording explanation | Limits of confidentiality; recording policy; confirm consent |
-| 0:45–1:15 | Needs check-in | Miro: "What I hope to take away" + "What I'm afraid this group becomes" |
-| 1:15–1:50 | "My current situation" timeline | Past 1 year → Now → Next 1 year; mark: attempts made, where stuck, what hoped for |
-| 1:50–2:00 | Reflection + Closing | Facilitator reflects group patterns; homework assigned |
+| 0:45–1:10 | "My current situation" timeline + Needs | Draw timeline on Miro (past 1 year → now → next 1 year; mark: attempts, where stuck, what hoped for). Then add 2 sticky notes beside it: "What I hope to take away from this group" + "What I'm afraid this group becomes" |
+| 1:10–1:50 | Sharing | Each person 3-4 min: share timeline + needs. Others listen. Facilitator reflects briefly |
+| 1:50–2:00 | Closing | Facilitator reflects whole-group patterns; homework assigned |
 
-**Homework:** Notice one moment this week when you feel energised. Note: what, where, how your body feels.
+**Homework:** This week, notice one thing that others find fun or exciting but you feel nothing about. Note: what it was, and what you felt (or didn't feel).
 
 ---
 
@@ -70,14 +70,14 @@
 
 | Time | Content | Notes |
 |---|---|---|
-| 0:00–0:08 | Check-in | Share homework: "that energising moment" |
-| 0:08–0:13 | Introduction | "Interests = what activities give me energy, not what job title" |
-| 0:13–0:35 | RIASEC discussion | 6 zones on Miro with descriptions; members place name on 1-2 zones; share why |
-| 0:35–0:55 | Flow moments recall | Silently write 3 flow experiences (what/who/where/body sensation); facilitator models one |
-| 0:55–1:20 | Dyad sharing (breakout rooms) | Pairs share 1 flow moment; listener asks open questions only; 6-7 min each |
-| 1:20–1:45 | Pattern identification | Write interest patterns in verbs (e.g., "solving problems," "creating visual things") |
-| 1:45–1:55 | Miro integration | Organise on personal canvas |
-| 1:55–2:00 | Closing + homework | This week: notice something others find fun but you feel nothing about |
+| 0:00–0:10 | Check-in | Share homework: "that thing others find fun but you felt nothing about" — brief discussion of what this tells you |
+| 0:10–0:30 | RIASEC discussion | One-sentence intro: "Today we explore not 'what job' but 'what activities give me energy.'" 6 zones on Miro with descriptions; members place name on 1-2 zones; each shares why (1 min) |
+| 0:30–0:50 | Flow moments recall | Silently write 3 flow experiences (what/who/where/body sensation); facilitator models one first (1 min) |
+| 0:50–1:15 | Dyad sharing (breakout rooms) | Pairs share 1 flow moment; listener asks open questions only; 6-7 min each |
+| 1:15–1:45 | Pattern identification + sharing | Back in main room. Each writes interest patterns in verbs on Miro (e.g., "solving problems," "creating visual things"). Willing members share aloud |
+| 1:45–2:00 | Closing + homework | Homework: Ask a friend or family member: "What do you think I look most natural/effortless doing?" Note their answer |
+
+**Miro output:** S2 section: 3 flow moments + interest patterns (in verb form)
 
 ---
 
@@ -87,15 +87,15 @@
 
 | Time | Content | Notes |
 |---|---|---|
-| 0:00–0:08 | Check-in | Share homework |
-| 0:08–0:13 | Introduction | Example distinguishing strengths vs skills vs frequency |
-| 0:13–0:25 | Personal brainstorm | Miro: (1) What do people ask me for help with? (2) What feels easy to me? (3) What trained skills do I have? |
+| 0:00–0:10 | Check-in | Share homework: "What did your friend/family say you look natural doing?" |
+| 0:10–0:25 | Personal brainstorm | One-sentence intro: "Strengths ≠ what you do a lot; it's what feels easy to you but hard for others." Miro: (1) What do people ask me for help with? (2) What feels easy to me? (3) What trained skills do I have? |
 | 0:25–0:40 | VIA vocabulary assist | Pick 5 from 24 character strengths list that feel most like you |
 | 0:40–1:15 | Strengths Spotting | Each member spotlighted 3 min; others give 1 specific observation from S1-2 interactions |
-| 1:15–1:35 | Personal integration | Combine self-view + peer-view + trained skills |
-| 1:35–1:45 | "I have nothing" processing | Normalise self-doubt; invite it to be voiced without judgment |
-| 1:45–1:55 | Miro integration | |
-| 1:55–2:00 | Closing + homework | Deliberately use one strength this week |
+| 1:15–1:35 | Personal integration | Combine self-view + peer-view + trained skills on Miro |
+| 1:35–1:50 | "I have nothing" processing | Normalise self-doubt; invite it to be voiced without judgment |
+| 1:50–2:00 | Closing + homework | Deliberately use one strength this week; note how it felt |
+
+**Miro output:** S3 section: self-brainstorm + VIA picks + peer observations + skills
 
 ---
 

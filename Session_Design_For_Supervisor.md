@@ -75,7 +75,9 @@
 | 0:30–0:50 | Flow moments recall | Silently write 3 flow experiences (what/who/where/body sensation); facilitator models one first (1 min) |
 | 0:50–1:15 | Dyad sharing (breakout rooms) | Pairs share 1 flow moment; listener asks open questions only; 6-7 min each |
 | 1:15–1:45 | Pattern identification + sharing | Back in main room. Each writes interest patterns in verbs on Miro (e.g., "solving problems," "creating visual things"). Willing members share aloud |
-| 1:45–2:00 | Closing + homework | Homework: Ask a friend or family member: "What do you think I look most natural/effortless doing?" Note their answer |
+| 1:45–2:00 | Closing | Facilitator reflects; one-sentence check-out |
+
+**Homework:** Ask a friend or family member: "What do you think I look most natural/effortless doing?" Note their answer.
 
 **Miro output:** S2 section: 3 flow moments + interest patterns (in verb form)
 
@@ -93,7 +95,9 @@
 | 0:40–1:15 | Strengths Spotting | Each member spotlighted 3 min; others give 1 specific observation from S1-2 interactions |
 | 1:15–1:35 | Personal integration | Combine self-view + peer-view + trained skills on Miro |
 | 1:35–1:50 | "I have nothing" processing | Normalise self-doubt; invite it to be voiced without judgment |
-| 1:50–2:00 | Closing + homework | Deliberately use one strength this week; note how it felt |
+| 1:50–2:00 | Closing | One-sentence check-out |
+
+**Homework:** Deliberately use one strength this week; note how it felt.
 
 **Miro output:** S3 section: self-brainstorm + VIA picks + peer observations + skills
 
@@ -112,7 +116,9 @@
 | 0:55–1:10 | Values conflict | Identify 1 pair of conflicting values; write how you usually handle it |
 | 1:10–1:30 | "No-limits" imagination + dyad | 5-min guided visualisation: "If no constraints, age 35, a Wednesday…" Then share in pairs (6 min) |
 | 1:30–1:50 | Personal integration | Write top values (post-audit) + 1 conflict pair on Miro S4 |
-| 1:50–2:00 | Closing + homework | This week: observe one choice you make — which value drove it? |
+| 1:50–2:00 | Closing | One-sentence check-out |
+
+**Homework:** This week, observe one choice you make — which value drove it?
 
 ---
 
@@ -130,7 +136,9 @@
 | 0:55–1:25 | Triad discussion (breakout) | Each shares 2-3 possible directions from drawing + CCI; listeners ask: what attracts you? which value? body reaction? |
 | 1:25–1:45 | Narrowing down | Upload drawing to Miro; write 2-3 possible selves that feel exciting or scary |
 | 1:45–1:55 | Whole-group sharing | One sentence each: "The direction I can now see is…" |
-| 1:55–2:00 | Closing + homework | Contact one person already working in your direction of interest; chat 15 min |
+| 1:55–2:00 | Closing | One-sentence check-out |
+
+**Homework:** Contact one person already working in your direction of interest; chat 15 min.
 
 **Individual counselling begins after this session.**
 
@@ -148,7 +156,9 @@
 | 0:40–1:10 | Group discussion: internal barriers | Each shares biggest internal barrier (3-4 min); others reflect + ask, no advice |
 | 1:10–1:35 | Group discussion: underestimated supports | "Did you discover a support you hadn't noticed before?" |
 | 1:35–1:50 | Reframe | "If your biggest barrier shrank 10%, what would you do?" Write on Miro |
-| 1:50–2:00 | Closing + homework | Use one underestimated support this week (one phone call / one question / one meeting) |
+| 1:50–2:00 | Closing | One-sentence check-out |
+
+**Homework:** Use one underestimated support this week (one phone call / one question / one meeting).
 
 ---
 
@@ -163,7 +173,9 @@
 | 0:30–0:50 | Personal draft | Choose a real topic ("something I want to say but haven't"); write 4-step draft on Miro |
 | 0:50–1:30 | Role-play in triads (breakout) | A=self, B=other person, C=observer. Each ~12 min including feedback. Observer notes: which step was powerful, which slipped into judgment |
 | 1:30–1:50 | Group reflection | One sentence each: "After practising I noticed…" Facilitator emphasises: goal = being heard, not changing the other person |
-| 1:50–2:00 | Closing + homework | Use NVC with one real person on a small matter this week |
+| 1:50–2:00 | Closing | One-sentence check-out |
+
+**Homework:** Use NVC with one real person on a small matter this week.
 
 ---
 
@@ -180,7 +192,9 @@
 | 0:55–1:30 | Public commitment | Each 5 min: announce action. Others respond: (1) I heard you (2) This connects to your [value] (3) How can I support you? |
 | 1:30–1:45 | Accountability buddy pairing | Pairs commit to check in once within 2 weeks |
 | 1:45–1:55 | Group reflection | "Confidence 1-10? What would make it +1?" |
-| 1:55–2:00 | Closing + homework | Complete committed action within 2 weeks; check in with buddy |
+| 1:55–2:00 | Closing | One-sentence check-out |
+
+**Homework:** Complete committed action within 2 weeks; check in with buddy.
 
 ---
 

@@ -40,8 +40,8 @@
 | 3 | Organize | Strengths | Personal brainstorm; VIA character strengths vocabulary; Strengths Spotting (peer feedback based on S1-2 observations) |
 | 4 | Organize | Values | Values Card Sort (50 cards, 3 tiers); Source-auditing ("Is this mine or externally imposed?"); Conflict identification; "No-limits" guided imagination |
 | 5 | Organize → Direction | Integration | "A Day in My Life" drawing activity; Career Construction Interview 3 questions; Triad discussion; Possible selves identification |
-| 6 | Impose Direction | Barriers & Supports | Barriers & Supports quadrant analysis (internal/external × barriers/supports); Group discussion; Reframe exercise |
-| 7 | Impose Direction | Communication | NVC four-component teaching; Personal draft; Role-play in triads (self / other / observer) |
+| 6 | Impose Direction | Exploring & Narrowing | Possible Self Deep Dive (structured template: day-to-day / values / strengths / uncertainties / next step); Triad discussion |
+| 7 | Impose Direction | Refining Direction | Direction statement; "What needs to happen" brainstorm; Dyad: identify smallest step |
 | 8 | Impose Direction | Action | Values-aligned action plan (What/Why/When/Done/Block); Public commitment; Accountability buddy pairing |
 | 9 | Make Meaning | Integration & Closing | Review full Miro Map; Letter to future self; Mutual written feedback; Closing ceremony |
 
@@ -110,12 +110,11 @@
 | Time | Content | Notes |
 |---|---|---|
 | 0:00–0:08 | Check-in | Share homework |
-| 0:08–0:13 | Introduction | Values vs goals vs interests (with example) |
-| 0:13–0:35 | Values Card Sort | 50 cards → 3 tiers on Miro; must distribute; follow gut reaction; mark top 5-7 |
+| 0:08–0:15 | Introduction | Values vs goals vs interests (with example) |
+| 0:15–0:35 | Values Card Sort | 50 cards → 3 tiers on Miro; must distribute; follow gut reaction; mark top 5-7 |
 | 0:35–0:55 | Source-auditing | For each top value: "Is this mine, or did someone put it there?" Mark source |
 | 0:55–1:10 | Values conflict | Identify 1 pair of conflicting values; write how you usually handle it |
-| 1:10–1:30 | "No-limits" imagination + dyad | 5-min guided visualisation: "If no constraints, age 35, a Wednesday…" Then share in pairs (6 min) |
-| 1:30–1:50 | Personal integration | Write top values (post-audit) + 1 conflict pair on Miro S4 |
+| 1:10–1:50 | Dyad sharing + group discussion | Pairs (breakout, 15 min): share top values, source labels, conflict pair. Partner asks open questions. Then back in main room (25 min): share discoveries; facilitator connects across members ("Did anyone else find this?") |
 | 1:50–2:00 | Closing | One-sentence check-out |
 
 **Homework:** This week, observe one choice you make — which value drove it?
@@ -144,38 +143,37 @@
 
 ---
 
-## Session 6 — Facing Obstacles
+## Session 6 — Exploring and Narrowing
 
-**Objectives:** Structure the feeling of "being stuck" into analysable factors; identify usable supports
+**Objectives:** Deepen exploration of one possible self; compare against values and strengths; identify what's still uncertain
 
 | Time | Content | Notes |
 |---|---|---|
-| 0:00–0:08 | Check-in | Share reality-check conversation |
-| 0:08–0:15 | Introduction | Barriers ≠ "I can't"; they have structure. Show empty quadrant on Miro |
-| 0:15–0:40 | Quadrant analysis | Fill: Internal Barriers / External Barriers / Internal Supports / External Supports. Be specific. Mark: biggest barrier (red) + one I can act on now (green) |
-| 0:40–1:10 | Group discussion: internal barriers | Each shares biggest internal barrier (3-4 min); others reflect + ask, no advice |
-| 1:10–1:35 | Group discussion: underestimated supports | "Did you discover a support you hadn't noticed before?" |
-| 1:35–1:50 | Reframe | "If your biggest barrier shrank 10%, what would you do?" Write on Miro |
-| 1:50–2:00 | Closing | One-sentence check-out |
+| 0:00–0:10 | Check-in | Share reality-check conversation: what surprised you most? |
+| 0:10–0:20 | Review S5 possible selves | Each person looks at their 2-3 possible selves on Miro. Any changes after reality check? Anything new? |
+| 0:20–0:50 | "Possible Self Deep Dive" | Each chooses 1 possible self to explore deeply. Fill structured template on Miro: (1) What would I be doing day-to-day? (2) Which of my values does this satisfy? (3) Which of my strengths does this use? (4) What am I still uncertain about? (5) What do I need to get one step closer? |
+| 0:50–1:25 | Triad discussion (breakout) | Each person 10 min: share deep dive. Listeners ask: "Are you genuinely drawn to this, or do you feel you should be?" "Does this connect to your S5 drawing?" |
+| 1:25–1:45 | Whole-group reflection | "After this deep dive, is your direction clearer or more uncertain?" Both are OK. Facilitator normalises uncertainty |
+| 1:45–2:00 | Closing | One-sentence check-out |
 
-**Homework:** Use one underestimated support this week (one phone call / one question / one meeting).
+**Homework:** "If you were to take one small step toward this direction, what would it be? Think about it and bring it to next session."
 
 ---
 
-## Session 7 — Expressing Myself (NVC)
+## Session 7 — Refining Direction and Preparing for Action
 
-**Objectives:** Learn NVC as communication framework; practise expressing needs to a significant other
+**Objectives:** Refine direction based on exploration; identify the smallest actionable next step
 
 | Time | Content | Notes |
 |---|---|---|
-| 0:00–0:08 | Check-in | Share experience using a support |
-| 0:08–0:30 | NVC four-component teaching | Each component 5 min: definition + key distinction + counter-example + member practice sentence. Observation≠evaluation; Feeling≠thinking; Need≠strategy; Request≠demand |
-| 0:30–0:50 | Personal draft | Choose a real topic ("something I want to say but haven't"); write 4-step draft on Miro |
-| 0:50–1:30 | Role-play in triads (breakout) | A=self, B=other person, C=observer. Each ~12 min including feedback. Observer notes: which step was powerful, which slipped into judgment |
-| 1:30–1:50 | Group reflection | One sentence each: "After practising I noticed…" Facilitator emphasises: goal = being heard, not changing the other person |
-| 1:50–2:00 | Closing | One-sentence check-out |
+| 0:00–0:10 | Check-in | "What small step did you think of? Share with the group" |
+| 0:10–0:30 | Direction refinement | Each person writes on Miro: "After two weeks of exploring, the direction I most want to pursue is___." One clear sentence |
+| 0:30–0:50 | "What needs to happen" brainstorm | "If you want to take one step toward this direction, what needs to happen?" List everything (big and small, realistic and not). Write all on Miro sticky notes |
+| 0:50–1:20 | Dyad discussion (breakout) | Pairs help each other: from the brainstorm list, pick "the smallest thing you could do in 2 weeks." Partner asks: "Can you start this right now? If not, what's even smaller?" |
+| 1:20–1:45 | Group sharing | Each person: "My next step is___." Others respond: "I heard you. This connects to your [value]." |
+| 1:45–2:00 | Closing | One-sentence check-out |
 
-**Homework:** Use NVC with one real person on a small matter this week.
+**Homework:** Prepare your action step in detail (What / Why / When / How you'll know it's done / What might block you). Bring to S8 for public commitment.
 
 ---
 
@@ -222,8 +220,8 @@ Each member builds their Career Construction Map across sessions:
 - S3: Strengths / skills
 - S4: Values (with source labels)
 - S5: Drawing + possible directions
-- S6: Barriers & Supports quadrant
-- S7: NVC draft
+- S6: Possible Self Deep Dive (values/strengths alignment + uncertainties)
+- S7: Refined direction statement + "what needs to happen"
 - S8: Action plan
 - S9: Full integration + letter
 
